@@ -1,23 +1,47 @@
 import Head from 'next/head'
+import { List, Segment } from 'semantic-ui-react'
 import styles from '../styles/Home.module.css'
 
 export default function Home() {
+
   return (
     <div className={styles.container}>
       <Head>
-        <title>Create Next App</title>
+        <title>Price Buddy</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
+          Welcome to <a href="https://nextjs.org">Price Buddy</a>
         </h1>
 
         <p className={styles.description}>
           Get started by editing{' '}
           <code className={styles.code}>pages/index.js</code>
         </p>
+
+        <Segment inverted>
+          <List divided inverted relaxed>
+            <List.Item>
+              <List.Content>
+                <List.Header>Snickerdoodle</List.Header>
+                An excellent companion
+              </List.Content>
+            </List.Item>
+            <List.Item>
+              <List.Content>
+                <List.Header>Poodle</List.Header>A poodle, its pretty basic
+              </List.Content>
+            </List.Item>
+            <List.Item>
+              <List.Content>
+                <List.Header>Paulo</List.Header>
+                He's also a dog
+              </List.Content>
+            </List.Item>
+          </List>
+        </Segment>
 
         <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>

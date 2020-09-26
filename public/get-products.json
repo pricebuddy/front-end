@@ -1,0 +1,6402 @@
+[
+  {
+    "sku": 8019315,
+    "name": "Gembucket",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/8019315?wid=100&hei=100",
+    "price": 2853887,
+    "createdAt": "2020-05-15T16:17:11Z",
+    "lastModifiedAt": "2020-05-30T01:18:29Z",
+    "marketPrices": [
+      {
+        "price": 1927097,
+        "competitorsName": "Yoveo",
+        "competitorsUrl": "https://jiathis.com/ac.html",
+        "shippingPrice": {
+          "min": 832,
+          "máx": 33241
+        },
+        "createdAt": "2020-02-23T05:38:37Z",
+        "lastModifiedAt": "2020-03-03T07:00:56Z"
+      },
+      {
+        "price": 4976592,
+        "competitorsName": "Eamia",
+        "competitorsUrl": "https://cbslocal.com/id/ornare.png",
+        "shippingPrice": {
+          "min": 1916,
+          "máx": 39106
+        },
+        "createdAt": "2020-03-18T03:53:36Z",
+        "lastModifiedAt": "2019-12-04T00:08:36Z"
+      }
+    ]
+  },
+  {
+    "sku": 6832150,
+    "name": "Ronstring",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/6832150?wid=100&hei=100",
+    "price": 1182979,
+    "createdAt": "2020-06-28T16:03:50Z",
+    "lastModifiedAt": "2019-10-28T12:30:45Z",
+    "marketPrices": [
+      {
+        "price": 104718,
+        "competitorsName": "Dabvine",
+        "competitorsUrl": "https://ucsd.edu/tellus/semper/interdum/mauris.aspx",
+        "shippingPrice": {
+          "min": 1573,
+          "máx": 31246
+        },
+        "createdAt": "2019-12-20T10:42:23Z",
+        "lastModifiedAt": "2020-05-25T14:04:54Z"
+      },
+      {
+        "price": 5541966,
+        "competitorsName": "Meezzy",
+        "competitorsUrl": "https://wikia.com/rutrum.png",
+        "shippingPrice": {
+          "min": 1205,
+          "máx": 21014
+        },
+        "createdAt": "2020-03-26T22:11:24Z",
+        "lastModifiedAt": "2020-03-27T06:56:56Z"
+      }
+    ]
+  },
+  {
+    "sku": 6896600,
+    "name": "Stim",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/6896600?wid=100&hei=100",
+    "price": 799114,
+    "createdAt": "2020-08-10T09:20:05Z",
+    "lastModifiedAt": "2019-11-26T08:57:55Z",
+    "marketPrices": [
+      {
+        "price": 6668730,
+        "competitorsName": "Camido",
+        "competitorsUrl": "https://lycos.com/vestibulum/ante/ipsum/primis/in.xml",
+        "shippingPrice": {
+          "min": 559,
+          "máx": 18442
+        },
+        "createdAt": "2020-04-18T11:13:36Z",
+        "lastModifiedAt": "2019-12-16T19:59:51Z"
+      },
+      {
+        "price": 6993292,
+        "competitorsName": "Yakidoo",
+        "competitorsUrl": "https://oakley.com/at/dolor.xml",
+        "shippingPrice": {
+          "min": 1021,
+          "máx": 20766
+        },
+        "createdAt": "2019-12-02T15:50:41Z",
+        "lastModifiedAt": "2019-12-07T18:17:53Z"
+      }
+    ]
+  },
+  {
+    "sku": 8216499,
+    "name": "Transcof",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/8216499?wid=100&hei=100",
+    "price": 5891344,
+    "createdAt": "2020-08-16T02:16:08Z",
+    "lastModifiedAt": "2019-12-03T13:08:53Z",
+    "marketPrices": [
+      {
+        "price": 5149565,
+        "competitorsName": "Gabtune",
+        "competitorsUrl": "http://naver.com/ac/nibh/fusce/lacus/purus.xml",
+        "shippingPrice": {
+          "min": 1468,
+          "máx": 35269
+        },
+        "createdAt": "2020-05-29T21:45:20Z",
+        "lastModifiedAt": "2019-11-01T20:48:01Z"
+      },
+      {
+        "price": 6778732,
+        "competitorsName": "Trupe",
+        "competitorsUrl": "http://delicious.com/curabitur.png",
+        "shippingPrice": {
+          "min": 1206,
+          "máx": 33070
+        },
+        "createdAt": "2020-01-04T06:51:13Z",
+        "lastModifiedAt": "2020-06-03T21:40:55Z"
+      }
+    ]
+  },
+  {
+    "sku": 6870268,
+    "name": "Stronghold",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/6870268?wid=100&hei=100",
+    "price": 1981720,
+    "createdAt": "2019-11-23T02:33:59Z",
+    "lastModifiedAt": "2020-08-29T05:35:48Z",
+    "marketPrices": [
+      {
+        "price": 6790887,
+        "competitorsName": "Photojam",
+        "competitorsUrl": "https://ed.gov/duis/mattis/egestas/metus/aenean/fermentum.json",
+        "shippingPrice": {
+          "min": 1326,
+          "máx": 11942
+        },
+        "createdAt": "2019-11-24T05:06:19Z",
+        "lastModifiedAt": "2020-04-09T04:24:59Z"
+      },
+      {
+        "price": 2880551,
+        "competitorsName": "Eire",
+        "competitorsUrl": "https://g.co/quam/sollicitudin/vitae.png",
+        "shippingPrice": {
+          "min": 1335,
+          "máx": 33096
+        },
+        "createdAt": "2020-07-08T21:51:26Z",
+        "lastModifiedAt": "2020-06-01T12:51:41Z"
+      }
+    ]
+  },
+  {
+    "sku": 7188334,
+    "name": "Pannier",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/7188334?wid=100&hei=100",
+    "price": 6990595,
+    "createdAt": "2020-04-05T08:07:14Z",
+    "lastModifiedAt": "2020-02-21T20:53:50Z",
+    "marketPrices": [
+      {
+        "price": 3377453,
+        "competitorsName": "Skinder",
+        "competitorsUrl": "http://msn.com/nulla/mollis/molestie/lorem/quisque.js",
+        "shippingPrice": {
+          "min": 1335,
+          "máx": 11451
+        },
+        "createdAt": "2020-07-06T19:50:03Z",
+        "lastModifiedAt": "2019-12-27T14:28:04Z"
+      },
+      {
+        "price": 4139624,
+        "competitorsName": "Flashspan",
+        "competitorsUrl": "https://google.de/lacus/at/velit/vivamus/vel/nulla.json",
+        "shippingPrice": {
+          "min": 1523,
+          "máx": 20532
+        },
+        "createdAt": "2020-09-20T23:32:35Z",
+        "lastModifiedAt": "2019-11-11T10:51:59Z"
+      }
+    ]
+  },
+  {
+    "sku": 6832142,
+    "name": "Toughjoyfax",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/6832142?wid=100&hei=100",
+    "price": 7483452,
+    "createdAt": "2020-05-29T00:32:35Z",
+    "lastModifiedAt": "2020-02-15T23:23:42Z",
+    "marketPrices": [
+      {
+        "price": 5937960,
+        "competitorsName": "Twitterbeat",
+        "competitorsUrl": "https://cbsnews.com/non/mi.jpg",
+        "shippingPrice": {
+          "min": 1791,
+          "máx": 25799
+        },
+        "createdAt": "2020-03-23T11:29:15Z",
+        "lastModifiedAt": "2020-06-25T05:51:11Z"
+      },
+      {
+        "price": 3422159,
+        "competitorsName": "Flipopia",
+        "competitorsUrl": "http://apple.com/mi.xml",
+        "shippingPrice": {
+          "min": 914,
+          "máx": 19547
+        },
+        "createdAt": "2019-12-08T23:19:30Z",
+        "lastModifiedAt": "2020-08-22T13:29:23Z"
+      }
+    ]
+  },
+  {
+    "sku": 6890632,
+    "name": "Flexidy",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/6890632?wid=100&hei=100",
+    "price": 1081562,
+    "createdAt": "2020-09-05T11:50:05Z",
+    "lastModifiedAt": "2020-05-09T16:42:59Z",
+    "marketPrices": [
+      {
+        "price": 3713922,
+        "competitorsName": "Oyoyo",
+        "competitorsUrl": "https://barnesandnoble.com/vulputate/ut/ultrices/vel/augue.json",
+        "shippingPrice": {
+          "min": 989,
+          "máx": 7317
+        },
+        "createdAt": "2020-03-22T15:51:58Z",
+        "lastModifiedAt": "2020-08-31T15:17:38Z"
+      },
+      {
+        "price": 2220603,
+        "competitorsName": "Oyope",
+        "competitorsUrl": "http://si.edu/dapibus/duis/at/velit.html",
+        "shippingPrice": {
+          "min": 1048,
+          "máx": 27994
+        },
+        "createdAt": "2020-02-26T11:16:03Z",
+        "lastModifiedAt": "2019-10-02T06:40:25Z"
+      }
+    ]
+  },
+  {
+    "sku": 8282993,
+    "name": "Overhold",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/8282993?wid=100&hei=100",
+    "price": 4456766,
+    "createdAt": "2019-11-12T03:33:32Z",
+    "lastModifiedAt": "2019-10-15T15:03:36Z",
+    "marketPrices": [
+      {
+        "price": 3084350,
+        "competitorsName": "Brightbean",
+        "competitorsUrl": "https://linkedin.com/at/nunc/commodo/placerat/praesent/blandit.jsp",
+        "shippingPrice": {
+          "min": 1805,
+          "máx": 15358
+        },
+        "createdAt": "2020-03-29T18:06:07Z",
+        "lastModifiedAt": "2020-05-24T07:48:17Z"
+      },
+      {
+        "price": 8982406,
+        "competitorsName": "Zoomzone",
+        "competitorsUrl": "http://freewebs.com/porta/volutpat/erat/quisque/erat/eros.js",
+        "shippingPrice": {
+          "min": 1148,
+          "máx": 26193
+        },
+        "createdAt": "2020-01-30T19:02:15Z",
+        "lastModifiedAt": "2020-07-09T02:18:13Z"
+      }
+    ]
+  },
+  {
+    "sku": 770183163,
+    "name": "Overhold",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/770183163?wid=100&hei=100",
+    "price": 8880886,
+    "createdAt": "2020-01-01T17:38:54Z",
+    "lastModifiedAt": "2019-12-04T12:56:14Z",
+    "marketPrices": [
+      {
+        "price": 7966843,
+        "competitorsName": "Twimbo",
+        "competitorsUrl": "http://webs.com/lacus/at/turpis.js",
+        "shippingPrice": {
+          "min": 1079,
+          "máx": 19437
+        },
+        "createdAt": "2019-12-01T02:10:39Z",
+        "lastModifiedAt": "2019-10-11T11:20:02Z"
+      },
+      {
+        "price": 4334064,
+        "competitorsName": "Meevee",
+        "competitorsUrl": "http://homestead.com/donec/dapibus/duis.jpg",
+        "shippingPrice": {
+          "min": 1003,
+          "máx": 33411
+        },
+        "createdAt": "2020-01-06T11:59:46Z",
+        "lastModifiedAt": "2020-04-12T01:04:07Z"
+      }
+    ]
+  },
+  {
+    "sku": 7955214,
+    "name": "Konklux",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/7955214?wid=100&hei=100",
+    "price": 7373674,
+    "createdAt": "2020-05-11T23:56:23Z",
+    "lastModifiedAt": "2019-12-25T12:16:01Z",
+    "marketPrices": [
+      {
+        "price": 393598,
+        "competitorsName": "Flipstorm",
+        "competitorsUrl": "http://cargocollective.com/congue/diam.jsp",
+        "shippingPrice": {
+          "min": 1097,
+          "máx": 20236
+        },
+        "createdAt": "2020-01-28T10:58:42Z",
+        "lastModifiedAt": "2020-06-16T18:13:34Z"
+      },
+      {
+        "price": 412131,
+        "competitorsName": "JumpXS",
+        "competitorsUrl": "http://furl.net/justo/nec/condimentum/neque/sapien/placerat/ante.png",
+        "shippingPrice": {
+          "min": 974,
+          "máx": 28020
+        },
+        "createdAt": "2020-09-19T03:27:31Z",
+        "lastModifiedAt": "2020-08-27T06:22:26Z"
+      }
+    ]
+  },
+  {
+    "sku": 6832152,
+    "name": "Regrant",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/6832152?wid=100&hei=100",
+    "price": 6199874,
+    "createdAt": "2020-03-28T05:45:56Z",
+    "lastModifiedAt": "2020-09-12T23:15:41Z",
+    "marketPrices": [
+      {
+        "price": 6342048,
+        "competitorsName": "Photobug",
+        "competitorsUrl": "http://intel.com/aliquam/non/mauris.xml",
+        "shippingPrice": {
+          "min": 1019,
+          "máx": 30726
+        },
+        "createdAt": "2020-03-26T14:10:30Z",
+        "lastModifiedAt": "2019-09-28T12:12:46Z"
+      },
+      {
+        "price": 6423489,
+        "competitorsName": "Wikido",
+        "competitorsUrl": "http://yahoo.com/sapien/varius.json",
+        "shippingPrice": {
+          "min": 1284,
+          "máx": 24990
+        },
+        "createdAt": "2020-02-09T11:08:02Z",
+        "lastModifiedAt": "2020-07-10T01:41:44Z"
+      }
+    ]
+  },
+  {
+    "sku": 6902003,
+    "name": "Voltsillam",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/6902003?wid=100&hei=100",
+    "price": 8156316,
+    "createdAt": "2020-07-10T17:33:24Z",
+    "lastModifiedAt": "2019-11-05T18:19:57Z",
+    "marketPrices": [
+      {
+        "price": 1931850,
+        "competitorsName": "Youbridge",
+        "competitorsUrl": "https://scribd.com/eget/massa/tempor/convallis/nulla/neque/libero.jsp",
+        "shippingPrice": {
+          "min": 955,
+          "máx": 10819
+        },
+        "createdAt": "2020-07-12T09:55:55Z",
+        "lastModifiedAt": "2019-10-26T10:48:27Z"
+      },
+      {
+        "price": 6408283,
+        "competitorsName": "Snaptags",
+        "competitorsUrl": "http://columbia.edu/amet/consectetuer.jpg",
+        "shippingPrice": {
+          "min": 1347,
+          "máx": 23094
+        },
+        "createdAt": "2020-04-13T07:55:50Z",
+        "lastModifiedAt": "2019-11-10T21:50:26Z"
+      }
+    ]
+  },
+  {
+    "sku": 6267885,
+    "name": "Bamity",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/6267885?wid=100&hei=100",
+    "price": 8650927,
+    "createdAt": "2020-04-08T10:35:10Z",
+    "lastModifiedAt": "2019-09-28T23:06:47Z",
+    "marketPrices": [
+      {
+        "price": 497121,
+        "competitorsName": "Feednation",
+        "competitorsUrl": "https://mit.edu/tellus/in/sagittis.js",
+        "shippingPrice": {
+          "min": 842,
+          "máx": 35829
+        },
+        "createdAt": "2020-07-15T09:45:15Z",
+        "lastModifiedAt": "2020-06-09T21:29:45Z"
+      },
+      {
+        "price": 5220837,
+        "competitorsName": "Shuffletag",
+        "competitorsUrl": "http://illinois.edu/tincidunt/lacus.jsp",
+        "shippingPrice": {
+          "min": 939,
+          "máx": 25424
+        },
+        "createdAt": "2020-04-26T21:30:03Z",
+        "lastModifiedAt": "2020-04-09T12:36:12Z"
+      }
+    ]
+  },
+  {
+    "sku": 770557840,
+    "name": "Trippledex",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/770557840?wid=100&hei=100",
+    "price": 5834673,
+    "createdAt": "2020-07-06T21:58:41Z",
+    "lastModifiedAt": "2020-02-17T05:54:52Z",
+    "marketPrices": [
+      {
+        "price": 3735504,
+        "competitorsName": "Skilith",
+        "competitorsUrl": "https://chronoengine.com/vestibulum/ante/ipsum/primis/in/faucibus/orci.aspx",
+        "shippingPrice": {
+          "min": 645,
+          "máx": 18626
+        },
+        "createdAt": "2020-06-30T18:47:49Z",
+        "lastModifiedAt": "2020-07-11T10:15:54Z"
+      },
+      {
+        "price": 8976882,
+        "competitorsName": "Geba",
+        "competitorsUrl": "https://exblog.jp/bibendum/felis.xml",
+        "shippingPrice": {
+          "min": 1100,
+          "máx": 33729
+        },
+        "createdAt": "2019-12-10T01:31:23Z",
+        "lastModifiedAt": "2020-01-02T15:46:53Z"
+      }
+    ]
+  },
+  {
+    "sku": 7142585,
+    "name": "Vagram",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/7142585?wid=100&hei=100",
+    "price": 1670072,
+    "createdAt": "2020-07-01T04:13:09Z",
+    "lastModifiedAt": "2020-03-02T05:00:19Z",
+    "marketPrices": [
+      {
+        "price": 5030140,
+        "competitorsName": "Feedfish",
+        "competitorsUrl": "https://flavors.me/sit/amet/diam.html",
+        "shippingPrice": {
+          "min": 1762,
+          "máx": 5834
+        },
+        "createdAt": "2020-06-28T21:16:15Z",
+        "lastModifiedAt": "2019-11-11T13:19:45Z"
+      },
+      {
+        "price": 2805108,
+        "competitorsName": "Realcube",
+        "competitorsUrl": "http://walmart.com/vestibulum.aspx",
+        "shippingPrice": {
+          "min": 1752,
+          "máx": 39255
+        },
+        "createdAt": "2020-04-24T13:29:56Z",
+        "lastModifiedAt": "2019-12-05T04:34:29Z"
+      }
+    ]
+  },
+  {
+    "sku": 7257041,
+    "name": "Alpha",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/7257041?wid=100&hei=100",
+    "price": 8659640,
+    "createdAt": "2019-12-26T06:48:57Z",
+    "lastModifiedAt": "2020-04-07T14:35:19Z",
+    "marketPrices": [
+      {
+        "price": 7006833,
+        "competitorsName": "Dabfeed",
+        "competitorsUrl": "http://upenn.edu/tortor/quis/turpis/sed/ante.xml",
+        "shippingPrice": {
+          "min": 1700,
+          "máx": 8975
+        },
+        "createdAt": "2020-06-26T11:38:51Z",
+        "lastModifiedAt": "2019-11-23T13:45:25Z"
+      },
+      {
+        "price": 2285927,
+        "competitorsName": "Tagcat",
+        "competitorsUrl": "http://spotify.com/et/ultrices/posuere/cubilia/curae/donec.jsp",
+        "shippingPrice": {
+          "min": 579,
+          "máx": 21473
+        },
+        "createdAt": "2020-07-22T17:07:48Z",
+        "lastModifiedAt": "2020-07-20T16:10:42Z"
+      }
+    ]
+  },
+  {
+    "sku": 8269290,
+    "name": "Zontrax",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/8269290?wid=100&hei=100",
+    "price": 3417062,
+    "createdAt": "2020-01-07T03:59:04Z",
+    "lastModifiedAt": "2020-04-29T03:08:25Z",
+    "marketPrices": [
+      {
+        "price": 153905,
+        "competitorsName": "Topdrive",
+        "competitorsUrl": "http://arstechnica.com/nulla/eget.jsp",
+        "shippingPrice": {
+          "min": 1096,
+          "máx": 15037
+        },
+        "createdAt": "2020-08-01T07:22:29Z",
+        "lastModifiedAt": "2019-10-20T05:37:24Z"
+      },
+      {
+        "price": 7412825,
+        "competitorsName": "Vipe",
+        "competitorsUrl": "https://webeden.co.uk/vel.jpg",
+        "shippingPrice": {
+          "min": 747,
+          "máx": 6186
+        },
+        "createdAt": "2019-09-28T23:32:05Z",
+        "lastModifiedAt": "2020-08-08T02:04:39Z"
+      }
+    ]
+  },
+  {
+    "sku": 8317956,
+    "name": "Toughjoyfax",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/8317956?wid=100&hei=100",
+    "price": 4415769,
+    "createdAt": "2020-04-09T18:06:06Z",
+    "lastModifiedAt": "2020-03-22T10:24:08Z",
+    "marketPrices": [
+      {
+        "price": 3243800,
+        "competitorsName": "Babbleblab",
+        "competitorsUrl": "http://geocities.jp/maecenas.xml",
+        "shippingPrice": {
+          "min": 534,
+          "máx": 31358
+        },
+        "createdAt": "2020-02-07T09:51:06Z",
+        "lastModifiedAt": "2020-05-03T07:02:58Z"
+      },
+      {
+        "price": 2859377,
+        "competitorsName": "Voolith",
+        "competitorsUrl": "http://cyberchimps.com/rhoncus/mauris/enim/leo/rhoncus/sed.js",
+        "shippingPrice": {
+          "min": 965,
+          "máx": 21879
+        },
+        "createdAt": "2020-07-13T07:35:48Z",
+        "lastModifiedAt": "2020-09-15T15:45:23Z"
+      }
+    ]
+  },
+  {
+    "sku": 8229418,
+    "name": "Daltfresh",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/8229418?wid=100&hei=100",
+    "price": 3571737,
+    "createdAt": "2020-02-15T04:09:35Z",
+    "lastModifiedAt": "2020-02-13T15:30:40Z",
+    "marketPrices": [
+      {
+        "price": 6138644,
+        "competitorsName": "Browseblab",
+        "competitorsUrl": "http://amazonaws.com/adipiscing/elit/proin/interdum/mauris/non/ligula.jsp",
+        "shippingPrice": {
+          "min": 1046,
+          "máx": 14763
+        },
+        "createdAt": "2020-07-23T21:41:47Z",
+        "lastModifiedAt": "2019-09-30T20:52:35Z"
+      },
+      {
+        "price": 7890166,
+        "competitorsName": "Eadel",
+        "competitorsUrl": "http://photobucket.com/quam/pede.png",
+        "shippingPrice": {
+          "min": 1308,
+          "máx": 20015
+        },
+        "createdAt": "2019-11-25T02:44:40Z",
+        "lastModifiedAt": "2020-05-17T10:46:52Z"
+      }
+    ]
+  },
+  {
+    "sku": 6870271,
+    "name": "Rank",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/6870271?wid=100&hei=100",
+    "price": 4555710,
+    "createdAt": "2019-09-30T10:26:17Z",
+    "lastModifiedAt": "2020-01-31T13:56:54Z",
+    "marketPrices": [
+      {
+        "price": 3736187,
+        "competitorsName": "Vimbo",
+        "competitorsUrl": "http://imdb.com/amet/cursus/id/turpis/integer/aliquet.xml",
+        "shippingPrice": {
+          "min": 744,
+          "máx": 21076
+        },
+        "createdAt": "2020-05-14T18:04:53Z",
+        "lastModifiedAt": "2020-06-19T07:19:21Z"
+      },
+      {
+        "price": 1921688,
+        "competitorsName": "Tagtune",
+        "competitorsUrl": "http://ocn.ne.jp/est/quam/pharetra/magna.xml",
+        "shippingPrice": {
+          "min": 1469,
+          "máx": 17681
+        },
+        "createdAt": "2020-01-16T02:50:59Z",
+        "lastModifiedAt": "2020-09-11T17:10:21Z"
+      }
+    ]
+  },
+  {
+    "sku": 6601021,
+    "name": "Voyatouch",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/6601021?wid=100&hei=100",
+    "price": 7116185,
+    "createdAt": "2020-05-23T12:21:22Z",
+    "lastModifiedAt": "2020-07-11T19:36:04Z",
+    "marketPrices": [
+      {
+        "price": 8405692,
+        "competitorsName": "Wikivu",
+        "competitorsUrl": "http://examiner.com/posuere/metus/vitae/ipsum/aliquam.json",
+        "shippingPrice": {
+          "min": 1162,
+          "máx": 27643
+        },
+        "createdAt": "2020-02-12T17:54:04Z",
+        "lastModifiedAt": "2020-03-14T22:02:35Z"
+      },
+      {
+        "price": 7190744,
+        "competitorsName": "Vimbo",
+        "competitorsUrl": "https://gov.uk/morbi.jpg",
+        "shippingPrice": {
+          "min": 501,
+          "máx": 6162
+        },
+        "createdAt": "2020-05-12T02:59:26Z",
+        "lastModifiedAt": "2020-01-03T12:58:08Z"
+      }
+    ]
+  },
+  {
+    "sku": 6366562,
+    "name": "Viva",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/6366562?wid=100&hei=100",
+    "price": 4528080,
+    "createdAt": "2019-12-24T16:44:06Z",
+    "lastModifiedAt": "2020-02-24T15:19:05Z",
+    "marketPrices": [
+      {
+        "price": 1430427,
+        "competitorsName": "Wordify",
+        "competitorsUrl": "https://netlog.com/eget/congue/eget/semper/rutrum/nulla/nunc.png",
+        "shippingPrice": {
+          "min": 769,
+          "máx": 9874
+        },
+        "createdAt": "2020-09-22T17:26:08Z",
+        "lastModifiedAt": "2020-04-04T11:11:07Z"
+      },
+      {
+        "price": 6697185,
+        "competitorsName": "Edgeblab",
+        "competitorsUrl": "http://jiathis.com/ac/lobortis/vel/dapibus.js",
+        "shippingPrice": {
+          "min": 1894,
+          "máx": 13826
+        },
+        "createdAt": "2020-04-04T03:41:24Z",
+        "lastModifiedAt": "2020-08-16T19:22:39Z"
+      }
+    ]
+  },
+  {
+    "sku": 8211279,
+    "name": "Alphazap",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/8211279?wid=100&hei=100",
+    "price": 1991360,
+    "createdAt": "2019-11-04T12:49:01Z",
+    "lastModifiedAt": "2020-04-21T14:45:20Z",
+    "marketPrices": [
+      {
+        "price": 5184635,
+        "competitorsName": "Skyba",
+        "competitorsUrl": "https://ocn.ne.jp/ut.js",
+        "shippingPrice": {
+          "min": 1637,
+          "máx": 15511
+        },
+        "createdAt": "2020-08-13T18:33:35Z",
+        "lastModifiedAt": "2020-07-14T04:06:52Z"
+      },
+      {
+        "price": 3896524,
+        "competitorsName": "Meetz",
+        "competitorsUrl": "https://admin.ch/ultrices.json",
+        "shippingPrice": {
+          "min": 1745,
+          "máx": 28264
+        },
+        "createdAt": "2020-08-08T19:09:08Z",
+        "lastModifiedAt": "2020-09-08T17:52:08Z"
+      }
+    ]
+  },
+  {
+    "sku": 8211284,
+    "name": "Tampflex",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/8211284?wid=100&hei=100",
+    "price": 4878771,
+    "createdAt": "2020-04-18T02:40:57Z",
+    "lastModifiedAt": "2019-10-08T21:25:00Z",
+    "marketPrices": [
+      {
+        "price": 3557525,
+        "competitorsName": "Innotype",
+        "competitorsUrl": "http://msu.edu/non/velit/nec/nisi.js",
+        "shippingPrice": {
+          "min": 1198,
+          "máx": 23782
+        },
+        "createdAt": "2020-06-03T02:11:21Z",
+        "lastModifiedAt": "2019-11-17T18:18:58Z"
+      },
+      {
+        "price": 7856658,
+        "competitorsName": "Blogtag",
+        "competitorsUrl": "http://addthis.com/pellentesque/ultrices/phasellus/id/sapien/in/sapien.json",
+        "shippingPrice": {
+          "min": 1470,
+          "máx": 9216
+        },
+        "createdAt": "2020-08-09T17:21:21Z",
+        "lastModifiedAt": "2020-07-09T23:45:44Z"
+      }
+    ]
+  },
+  {
+    "sku": 8113389,
+    "name": "Tresom",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/8113389?wid=100&hei=100",
+    "price": 4890505,
+    "createdAt": "2020-04-09T12:02:35Z",
+    "lastModifiedAt": "2020-07-11T11:30:19Z",
+    "marketPrices": [
+      {
+        "price": 5134349,
+        "competitorsName": "Dabjam",
+        "competitorsUrl": "https://constantcontact.com/mi/pede/malesuada.html",
+        "shippingPrice": {
+          "min": 1616,
+          "máx": 35885
+        },
+        "createdAt": "2020-01-24T13:29:33Z",
+        "lastModifiedAt": "2020-06-21T01:41:25Z"
+      },
+      {
+        "price": 7274757,
+        "competitorsName": "Jabberbean",
+        "competitorsUrl": "http://wisc.edu/cursus/vestibulum.jsp",
+        "shippingPrice": {
+          "min": 892,
+          "máx": 24782
+        },
+        "createdAt": "2020-08-21T01:35:51Z",
+        "lastModifiedAt": "2020-03-13T09:26:49Z"
+      }
+    ]
+  },
+  {
+    "sku": 7231219,
+    "name": "Andalax",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/7231219?wid=100&hei=100",
+    "price": 8305417,
+    "createdAt": "2019-11-15T08:35:54Z",
+    "lastModifiedAt": "2020-07-02T09:06:27Z",
+    "marketPrices": [
+      {
+        "price": 8581941,
+        "competitorsName": "Quaxo",
+        "competitorsUrl": "https://thetimes.co.uk/vehicula/condimentum.xml",
+        "shippingPrice": {
+          "min": 1567,
+          "máx": 10978
+        },
+        "createdAt": "2020-03-15T17:51:21Z",
+        "lastModifiedAt": "2020-06-23T00:05:15Z"
+      },
+      {
+        "price": 630201,
+        "competitorsName": "Kwilith",
+        "competitorsUrl": "http://nyu.edu/pellentesque/ultrices/phasellus/id/sapien/in/sapien.jpg",
+        "shippingPrice": {
+          "min": 632,
+          "máx": 32805
+        },
+        "createdAt": "2020-03-19T02:46:39Z",
+        "lastModifiedAt": "2020-04-29T01:28:00Z"
+      }
+    ]
+  },
+  {
+    "sku": 7030430,
+    "name": "Sub-Ex",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/7030430?wid=100&hei=100",
+    "price": 6585145,
+    "createdAt": "2020-06-06T16:18:27Z",
+    "lastModifiedAt": "2020-03-29T01:48:57Z",
+    "marketPrices": [
+      {
+        "price": 7410179,
+        "competitorsName": "Dynazzy",
+        "competitorsUrl": "http://shinystat.com/id/mauris/vulputate.html",
+        "shippingPrice": {
+          "min": 1053,
+          "máx": 24601
+        },
+        "createdAt": "2019-11-18T07:19:46Z",
+        "lastModifiedAt": "2019-11-20T12:12:30Z"
+      },
+      {
+        "price": 7435924,
+        "competitorsName": "Zoombeat",
+        "competitorsUrl": "http://ft.com/praesent.jpg",
+        "shippingPrice": {
+          "min": 1900,
+          "máx": 35711
+        },
+        "createdAt": "2020-02-20T18:51:32Z",
+        "lastModifiedAt": "2019-10-27T07:18:44Z"
+      }
+    ]
+  },
+  {
+    "sku": 6899288,
+    "name": "Subin",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/6899288?wid=100&hei=100",
+    "price": 6585357,
+    "createdAt": "2020-05-05T11:24:49Z",
+    "lastModifiedAt": "2019-12-22T09:19:39Z",
+    "marketPrices": [
+      {
+        "price": 8881792,
+        "competitorsName": "Dabvine",
+        "competitorsUrl": "https://squarespace.com/sed/lacus/morbi/sem/mauris/laoreet/ut.png",
+        "shippingPrice": {
+          "min": 1142,
+          "máx": 34696
+        },
+        "createdAt": "2019-12-29T18:27:33Z",
+        "lastModifiedAt": "2019-09-30T09:33:49Z"
+      },
+      {
+        "price": 3252426,
+        "competitorsName": "Lajo",
+        "competitorsUrl": "https://friendfeed.com/tincidunt/eu/felis/fusce/posuere/felis.jsp",
+        "shippingPrice": {
+          "min": 1683,
+          "máx": 21806
+        },
+        "createdAt": "2019-12-01T13:42:01Z",
+        "lastModifiedAt": "2020-08-12T01:21:36Z"
+      }
+    ]
+  },
+  {
+    "sku": 6887879,
+    "name": "Fintone",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/6887879?wid=100&hei=100",
+    "price": 1678573,
+    "createdAt": "2020-01-28T05:37:07Z",
+    "lastModifiedAt": "2020-01-29T21:27:42Z",
+    "marketPrices": [
+      {
+        "price": 1246945,
+        "competitorsName": "Youopia",
+        "competitorsUrl": "http://pinterest.com/hac.json",
+        "shippingPrice": {
+          "min": 1256,
+          "máx": 24894
+        },
+        "createdAt": "2019-12-22T06:52:35Z",
+        "lastModifiedAt": "2019-12-13T17:58:34Z"
+      },
+      {
+        "price": 4355110,
+        "competitorsName": "Kwinu",
+        "competitorsUrl": "https://craigslist.org/diam/id/ornare/imperdiet/sapien/urna/pretium.aspx",
+        "shippingPrice": {
+          "min": 1359,
+          "máx": 26069
+        },
+        "createdAt": "2020-04-14T00:27:02Z",
+        "lastModifiedAt": "2020-05-02T04:55:28Z"
+      }
+    ]
+  },
+  {
+    "sku": 8218440,
+    "name": "Voyatouch",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/8218440?wid=100&hei=100",
+    "price": 8678911,
+    "createdAt": "2020-03-09T10:38:03Z",
+    "lastModifiedAt": "2020-03-29T11:16:28Z",
+    "marketPrices": [
+      {
+        "price": 3369859,
+        "competitorsName": "Topiczoom",
+        "competitorsUrl": "https://51.la/ultrices/mattis/odio/donec/vitae/nisi/nam.json",
+        "shippingPrice": {
+          "min": 1050,
+          "máx": 6327
+        },
+        "createdAt": "2019-10-29T14:39:20Z",
+        "lastModifiedAt": "2019-12-05T11:42:22Z"
+      },
+      {
+        "price": 524327,
+        "competitorsName": "Realblab",
+        "competitorsUrl": "http://eepurl.com/convallis/duis/consequat/dui/nec/nisi.jpg",
+        "shippingPrice": {
+          "min": 1696,
+          "máx": 8183
+        },
+        "createdAt": "2020-03-30T14:43:37Z",
+        "lastModifiedAt": "2020-03-12T22:34:30Z"
+      }
+    ]
+  },
+  {
+    "sku": 7915489,
+    "name": "Overhold",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/7915489?wid=100&hei=100",
+    "price": 2740053,
+    "createdAt": "2020-04-13T20:45:41Z",
+    "lastModifiedAt": "2020-07-26T05:56:36Z",
+    "marketPrices": [
+      {
+        "price": 5744220,
+        "competitorsName": "Yakidoo",
+        "competitorsUrl": "https://ezinearticles.com/maecenas/pulvinar/lobortis.json",
+        "shippingPrice": {
+          "min": 605,
+          "máx": 31548
+        },
+        "createdAt": "2020-03-19T06:44:25Z",
+        "lastModifiedAt": "2020-01-04T18:16:14Z"
+      },
+      {
+        "price": 6977526,
+        "competitorsName": "Avaveo",
+        "competitorsUrl": "http://ustream.tv/lobortis/sapien.jsp",
+        "shippingPrice": {
+          "min": 1686,
+          "máx": 10220
+        },
+        "createdAt": "2020-07-20T22:41:35Z",
+        "lastModifiedAt": "2020-08-21T09:11:21Z"
+      }
+    ]
+  },
+  {
+    "sku": 7315488,
+    "name": "It",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/7315488?wid=100&hei=100",
+    "price": 8101710,
+    "createdAt": "2020-01-06T10:45:21Z",
+    "lastModifiedAt": "2020-07-28T04:36:36Z",
+    "marketPrices": [
+      {
+        "price": 5894307,
+        "competitorsName": "Brainbox",
+        "competitorsUrl": "http://deliciousdays.com/aenean/auctor/gravida/sem/praesent.jsp",
+        "shippingPrice": {
+          "min": 1810,
+          "máx": 31609
+        },
+        "createdAt": "2020-05-23T02:28:57Z",
+        "lastModifiedAt": "2019-12-30T21:34:42Z"
+      },
+      {
+        "price": 513572,
+        "competitorsName": "Viva",
+        "competitorsUrl": "https://mac.com/vel/est/donec/odio.html",
+        "shippingPrice": {
+          "min": 519,
+          "máx": 25616
+        },
+        "createdAt": "2020-08-29T15:50:41Z",
+        "lastModifiedAt": "2020-05-21T14:38:56Z"
+      }
+    ]
+  },
+  {
+    "sku": 6624856,
+    "name": "Voltsillam",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/6624856?wid=100&hei=100",
+    "price": 6690884,
+    "createdAt": "2020-04-17T15:47:33Z",
+    "lastModifiedAt": "2020-04-06T18:36:28Z",
+    "marketPrices": [
+      {
+        "price": 6984066,
+        "competitorsName": "Divape",
+        "competitorsUrl": "http://state.gov/in/lacus/curabitur/at/ipsum.png",
+        "shippingPrice": {
+          "min": 1013,
+          "máx": 28826
+        },
+        "createdAt": "2020-02-18T17:30:48Z",
+        "lastModifiedAt": "2020-01-08T23:12:23Z"
+      },
+      {
+        "price": 3824138,
+        "competitorsName": "Jaxnation",
+        "competitorsUrl": "https://pinterest.com/congue/risus/semper/porta/volutpat/quam/pede.js",
+        "shippingPrice": {
+          "min": 1455,
+          "máx": 21378
+        },
+        "createdAt": "2020-07-11T21:16:16Z",
+        "lastModifiedAt": "2020-06-07T12:39:55Z"
+      }
+    ]
+  },
+  {
+    "sku": 8210181,
+    "name": "Regrant",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/8210181?wid=100&hei=100",
+    "price": 149649,
+    "createdAt": "2020-07-20T05:11:35Z",
+    "lastModifiedAt": "2020-07-30T11:23:28Z",
+    "marketPrices": [
+      {
+        "price": 4712151,
+        "competitorsName": "Quaxo",
+        "competitorsUrl": "http://amazon.co.uk/curae/nulla/dapibus.png",
+        "shippingPrice": {
+          "min": 1490,
+          "máx": 23472
+        },
+        "createdAt": "2020-03-31T12:52:19Z",
+        "lastModifiedAt": "2019-11-15T18:44:36Z"
+      },
+      {
+        "price": 5771833,
+        "competitorsName": "Demimbu",
+        "competitorsUrl": "http://wikipedia.org/ut/odio/cras.png",
+        "shippingPrice": {
+          "min": 1212,
+          "máx": 5104
+        },
+        "createdAt": "2020-06-14T05:10:03Z",
+        "lastModifiedAt": "2020-06-17T01:42:21Z"
+      }
+    ]
+  },
+  {
+    "sku": 5015142,
+    "name": "Bitwolf",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/5015142?wid=100&hei=100",
+    "price": 1962226,
+    "createdAt": "2020-01-07T14:28:21Z",
+    "lastModifiedAt": "2019-12-19T19:11:17Z",
+    "marketPrices": [
+      {
+        "price": 986367,
+        "competitorsName": "Blogtags",
+        "competitorsUrl": "http://hubpages.com/dictumst/maecenas.jsp",
+        "shippingPrice": {
+          "min": 1756,
+          "máx": 11662
+        },
+        "createdAt": "2020-08-02T08:00:56Z",
+        "lastModifiedAt": "2020-01-18T14:46:05Z"
+      },
+      {
+        "price": 3825939,
+        "competitorsName": "Eazzy",
+        "competitorsUrl": "http://msn.com/nibh/in/lectus/pellentesque.js",
+        "shippingPrice": {
+          "min": 1056,
+          "máx": 18706
+        },
+        "createdAt": "2019-11-06T06:57:24Z",
+        "lastModifiedAt": "2020-07-11T08:19:56Z"
+      }
+    ]
+  },
+  {
+    "sku": 6896588,
+    "name": "Zathin",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/6896588?wid=100&hei=100",
+    "price": 3660546,
+    "createdAt": "2020-08-16T05:00:43Z",
+    "lastModifiedAt": "2019-10-28T07:53:11Z",
+    "marketPrices": [
+      {
+        "price": 8789281,
+        "competitorsName": "Babblestorm",
+        "competitorsUrl": "http://dailymotion.com/luctus.aspx",
+        "shippingPrice": {
+          "min": 672,
+          "máx": 27724
+        },
+        "createdAt": "2020-06-10T18:43:37Z",
+        "lastModifiedAt": "2019-10-04T07:45:13Z"
+      },
+      {
+        "price": 2037922,
+        "competitorsName": "Kayveo",
+        "competitorsUrl": "http://cloudflare.com/morbi/ut/odio.js",
+        "shippingPrice": {
+          "min": 1626,
+          "máx": 34863
+        },
+        "createdAt": "2019-12-23T18:01:46Z",
+        "lastModifiedAt": "2020-06-13T22:39:53Z"
+      }
+    ]
+  },
+  {
+    "sku": 6623909,
+    "name": "Tresom",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/6623909?wid=100&hei=100",
+    "price": 3119953,
+    "createdAt": "2020-04-18T07:08:01Z",
+    "lastModifiedAt": "2019-12-25T10:17:58Z",
+    "marketPrices": [
+      {
+        "price": 3595924,
+        "competitorsName": "Photofeed",
+        "competitorsUrl": "http://naver.com/dapibus/nulla/suscipit/ligula/in.json",
+        "shippingPrice": {
+          "min": 624,
+          "máx": 33517
+        },
+        "createdAt": "2020-04-04T09:08:45Z",
+        "lastModifiedAt": "2020-03-05T09:22:50Z"
+      },
+      {
+        "price": 6678377,
+        "competitorsName": "Bluezoom",
+        "competitorsUrl": "https://google.nl/id/lobortis.json",
+        "shippingPrice": {
+          "min": 547,
+          "máx": 24202
+        },
+        "createdAt": "2019-11-15T22:43:14Z",
+        "lastModifiedAt": "2020-06-01T20:02:09Z"
+      }
+    ]
+  },
+  {
+    "sku": 8227761,
+    "name": "Lotlux",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/8227761?wid=100&hei=100",
+    "price": 7229296,
+    "createdAt": "2020-01-13T03:35:56Z",
+    "lastModifiedAt": "2019-10-13T13:26:09Z",
+    "marketPrices": [
+      {
+        "price": 35259,
+        "competitorsName": "Thoughtbeat",
+        "competitorsUrl": "http://reuters.com/hendrerit/at/vulputate/vitae/nisl/aenean/lectus.aspx",
+        "shippingPrice": {
+          "min": 1431,
+          "máx": 32819
+        },
+        "createdAt": "2019-10-22T21:47:29Z",
+        "lastModifiedAt": "2020-05-24T11:05:16Z"
+      },
+      {
+        "price": 3095278,
+        "competitorsName": "Jabberstorm",
+        "competitorsUrl": "https://eventbrite.com/et.jsp",
+        "shippingPrice": {
+          "min": 679,
+          "máx": 27421
+        },
+        "createdAt": "2020-05-10T22:23:17Z",
+        "lastModifiedAt": "2020-03-16T04:36:42Z"
+      }
+    ]
+  },
+  {
+    "sku": 7076911,
+    "name": "Kanlam",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/7076911?wid=100&hei=100",
+    "price": 239323,
+    "createdAt": "2020-07-31T00:00:58Z",
+    "lastModifiedAt": "2020-04-23T03:15:49Z",
+    "marketPrices": [
+      {
+        "price": 5605708,
+        "competitorsName": "Mycat",
+        "competitorsUrl": "https://google.es/etiam/pretium/iaculis.html",
+        "shippingPrice": {
+          "min": 710,
+          "máx": 10876
+        },
+        "createdAt": "2020-05-31T14:12:21Z",
+        "lastModifiedAt": "2020-06-27T10:50:41Z"
+      },
+      {
+        "price": 6332267,
+        "competitorsName": "Rhynyx",
+        "competitorsUrl": "http://google.es/ut/erat/id/mauris.aspx",
+        "shippingPrice": {
+          "min": 1842,
+          "máx": 28960
+        },
+        "createdAt": "2019-11-06T04:26:45Z",
+        "lastModifiedAt": "2020-03-23T00:57:34Z"
+      }
+    ]
+  },
+  {
+    "sku": 5261078,
+    "name": "Biodex",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/5261078?wid=100&hei=100",
+    "price": 5442007,
+    "createdAt": "2020-09-16T14:35:43Z",
+    "lastModifiedAt": "2020-01-02T08:43:36Z",
+    "marketPrices": [
+      {
+        "price": 5159567,
+        "competitorsName": "Twitternation",
+        "competitorsUrl": "https://sogou.com/suspendisse.aspx",
+        "shippingPrice": {
+          "min": 1678,
+          "máx": 16106
+        },
+        "createdAt": "2019-11-22T03:43:36Z",
+        "lastModifiedAt": "2020-06-26T23:36:42Z"
+      },
+      {
+        "price": 7203023,
+        "competitorsName": "JumpXS",
+        "competitorsUrl": "https://google.de/tellus/nulla/ut/erat/id/mauris.xml",
+        "shippingPrice": {
+          "min": 1053,
+          "máx": 8122
+        },
+        "createdAt": "2019-10-13T09:19:26Z",
+        "lastModifiedAt": "2019-12-09T07:39:34Z"
+      }
+    ]
+  },
+  {
+    "sku": 8216504,
+    "name": "Tres-Zap",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/8216504?wid=100&hei=100",
+    "price": 3529518,
+    "createdAt": "2020-01-20T00:50:44Z",
+    "lastModifiedAt": "2020-02-09T04:29:44Z",
+    "marketPrices": [
+      {
+        "price": 3945058,
+        "competitorsName": "Devshare",
+        "competitorsUrl": "https://usa.gov/nulla/integer.json",
+        "shippingPrice": {
+          "min": 1873,
+          "máx": 8987
+        },
+        "createdAt": "2019-10-30T18:17:33Z",
+        "lastModifiedAt": "2020-08-08T23:49:45Z"
+      },
+      {
+        "price": 2623844,
+        "competitorsName": "Trilith",
+        "competitorsUrl": "http://nymag.com/erat/eros/viverra/eget/congue/eget/semper.json",
+        "shippingPrice": {
+          "min": 1561,
+          "máx": 28956
+        },
+        "createdAt": "2020-05-06T08:02:51Z",
+        "lastModifiedAt": "2020-03-26T13:01:32Z"
+      }
+    ]
+  },
+  {
+    "sku": 8218444,
+    "name": "Viva",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/8218444?wid=100&hei=100",
+    "price": 3620662,
+    "createdAt": "2019-12-15T18:20:53Z",
+    "lastModifiedAt": "2019-09-25T15:05:47Z",
+    "marketPrices": [
+      {
+        "price": 3786236,
+        "competitorsName": "Brainverse",
+        "competitorsUrl": "https://illinois.edu/placerat/ante.xml",
+        "shippingPrice": {
+          "min": 1390,
+          "máx": 18521
+        },
+        "createdAt": "2019-10-14T19:24:17Z",
+        "lastModifiedAt": "2019-11-18T03:14:25Z"
+      },
+      {
+        "price": 1912313,
+        "competitorsName": "Babbleopia",
+        "competitorsUrl": "https://geocities.com/vestibulum.png",
+        "shippingPrice": {
+          "min": 1618,
+          "máx": 21546
+        },
+        "createdAt": "2020-07-17T04:04:49Z",
+        "lastModifiedAt": "2020-06-15T13:25:15Z"
+      }
+    ]
+  },
+  {
+    "sku": 6238021,
+    "name": "Namfix",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/6238021?wid=100&hei=100",
+    "price": 561617,
+    "createdAt": "2020-01-19T08:59:58Z",
+    "lastModifiedAt": "2019-11-17T04:20:17Z",
+    "marketPrices": [
+      {
+        "price": 8808178,
+        "competitorsName": "Topiclounge",
+        "competitorsUrl": "https://gmpg.org/metus/vitae/ipsum/aliquam.json",
+        "shippingPrice": {
+          "min": 854,
+          "máx": 9452
+        },
+        "createdAt": "2019-12-29T00:11:02Z",
+        "lastModifiedAt": "2020-04-29T19:19:00Z"
+      },
+      {
+        "price": 4965336,
+        "competitorsName": "Skippad",
+        "competitorsUrl": "https://clickbank.net/velit/vivamus/vel/nulla/eget.json",
+        "shippingPrice": {
+          "min": 628,
+          "máx": 12174
+        },
+        "createdAt": "2020-03-31T14:21:51Z",
+        "lastModifiedAt": "2020-03-03T18:35:23Z"
+      }
+    ]
+  },
+  {
+    "sku": 6724841,
+    "name": "Span",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/6724841?wid=100&hei=100",
+    "price": 4946631,
+    "createdAt": "2020-07-22T16:36:16Z",
+    "lastModifiedAt": "2020-03-06T03:24:40Z",
+    "marketPrices": [
+      {
+        "price": 5729632,
+        "competitorsName": "Aimbo",
+        "competitorsUrl": "http://house.gov/eget/tincidunt/eget.jpg",
+        "shippingPrice": {
+          "min": 1095,
+          "máx": 9515
+        },
+        "createdAt": "2020-01-09T12:35:50Z",
+        "lastModifiedAt": "2019-11-23T12:48:36Z"
+      },
+      {
+        "price": 5418881,
+        "competitorsName": "Yombu",
+        "competitorsUrl": "https://flavors.me/sapien/cum.xml",
+        "shippingPrice": {
+          "min": 1953,
+          "máx": 11042
+        },
+        "createdAt": "2020-08-18T13:50:19Z",
+        "lastModifiedAt": "2019-12-11T13:30:17Z"
+      }
+    ]
+  },
+  {
+    "sku": 6912453,
+    "name": "Pannier",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/6912453?wid=100&hei=100",
+    "price": 921657,
+    "createdAt": "2020-04-27T21:03:56Z",
+    "lastModifiedAt": "2020-08-18T19:36:26Z",
+    "marketPrices": [
+      {
+        "price": 586721,
+        "competitorsName": "Tagopia",
+        "competitorsUrl": "https://guardian.co.uk/donec/semper.aspx",
+        "shippingPrice": {
+          "min": 1230,
+          "máx": 39128
+        },
+        "createdAt": "2020-09-11T13:52:56Z",
+        "lastModifiedAt": "2019-11-10T15:38:52Z"
+      },
+      {
+        "price": 7001507,
+        "competitorsName": "Gabspot",
+        "competitorsUrl": "http://nymag.com/enim/blandit/mi/in/porttitor/pede/justo.jpg",
+        "shippingPrice": {
+          "min": 1060,
+          "máx": 22070
+        },
+        "createdAt": "2020-03-17T07:15:47Z",
+        "lastModifiedAt": "2020-02-07T18:52:20Z"
+      }
+    ]
+  },
+  {
+    "sku": 8216407,
+    "name": "Temp",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/8216407?wid=100&hei=100",
+    "price": 3329086,
+    "createdAt": "2020-01-31T20:53:33Z",
+    "lastModifiedAt": "2020-05-04T20:02:45Z",
+    "marketPrices": [
+      {
+        "price": 8590783,
+        "competitorsName": "Yacero",
+        "competitorsUrl": "https://rakuten.co.jp/proin/interdum/mauris/non.html",
+        "shippingPrice": {
+          "min": 1426,
+          "máx": 16442
+        },
+        "createdAt": "2019-11-18T10:12:02Z",
+        "lastModifiedAt": "2020-08-26T13:52:13Z"
+      },
+      {
+        "price": 8251345,
+        "competitorsName": "Abata",
+        "competitorsUrl": "https://t.co/vitae/ipsum.html",
+        "shippingPrice": {
+          "min": 704,
+          "máx": 34190
+        },
+        "createdAt": "2020-08-05T12:25:58Z",
+        "lastModifiedAt": "2020-03-06T20:37:27Z"
+      }
+    ]
+  },
+  {
+    "sku": 6907360,
+    "name": "Y-Solowarm",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/6907360?wid=100&hei=100",
+    "price": 3983748,
+    "createdAt": "2020-05-24T14:55:59Z",
+    "lastModifiedAt": "2020-07-16T18:00:50Z",
+    "marketPrices": [
+      {
+        "price": 1277021,
+        "competitorsName": "Skinder",
+        "competitorsUrl": "http://weebly.com/mauris/eget/massa/tempor/convallis/nulla.html",
+        "shippingPrice": {
+          "min": 1945,
+          "máx": 6403
+        },
+        "createdAt": "2020-02-05T23:55:21Z",
+        "lastModifiedAt": "2020-03-05T00:06:53Z"
+      },
+      {
+        "price": 7852732,
+        "competitorsName": "Feedspan",
+        "competitorsUrl": "https://zimbio.com/nec/nisi/vulputate/nonummy/maecenas.png",
+        "shippingPrice": {
+          "min": 1903,
+          "máx": 22146
+        },
+        "createdAt": "2020-03-02T00:51:40Z",
+        "lastModifiedAt": "2020-06-29T11:54:25Z"
+      }
+    ]
+  },
+  {
+    "sku": 4914356,
+    "name": "It",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/4914356?wid=100&hei=100",
+    "price": 8189048,
+    "createdAt": "2019-12-01T00:29:07Z",
+    "lastModifiedAt": "2020-08-14T00:49:22Z",
+    "marketPrices": [
+      {
+        "price": 2116463,
+        "competitorsName": "Riffwire",
+        "competitorsUrl": "https://comsenz.com/cursus/urna/ut.json",
+        "shippingPrice": {
+          "min": 1412,
+          "máx": 35300
+        },
+        "createdAt": "2020-05-18T06:34:33Z",
+        "lastModifiedAt": "2020-02-21T23:21:53Z"
+      },
+      {
+        "price": 3127475,
+        "competitorsName": "Buzzbean",
+        "competitorsUrl": "https://purevolume.com/morbi/non/lectus/aliquam/sit/amet.png",
+        "shippingPrice": {
+          "min": 1265,
+          "máx": 30664
+        },
+        "createdAt": "2020-04-16T21:33:36Z",
+        "lastModifiedAt": "2020-05-13T08:15:39Z"
+      }
+    ]
+  },
+  {
+    "sku": 7414599,
+    "name": "Trippledex",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/7414599?wid=100&hei=100",
+    "price": 4405737,
+    "createdAt": "2019-11-24T04:29:31Z",
+    "lastModifiedAt": "2019-12-18T07:44:06Z",
+    "marketPrices": [
+      {
+        "price": 5193897,
+        "competitorsName": "Flashdog",
+        "competitorsUrl": "http://dell.com/quisque/erat.html",
+        "shippingPrice": {
+          "min": 1380,
+          "máx": 31142
+        },
+        "createdAt": "2019-11-07T15:50:02Z",
+        "lastModifiedAt": "2020-03-26T02:34:18Z"
+      },
+      {
+        "price": 8363649,
+        "competitorsName": "Wikizz",
+        "competitorsUrl": "http://springer.com/sit/amet/erat/nulla.jpg",
+        "shippingPrice": {
+          "min": 1207,
+          "máx": 39872
+        },
+        "createdAt": "2020-01-09T10:59:28Z",
+        "lastModifiedAt": "2020-03-25T13:59:45Z"
+      }
+    ]
+  },
+  {
+    "sku": 880507162,
+    "name": "Otcom",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/880507162?wid=100&hei=100",
+    "price": 8587503,
+    "createdAt": "2020-06-26T22:13:52Z",
+    "lastModifiedAt": "2020-08-23T07:07:40Z",
+    "marketPrices": [
+      {
+        "price": 914226,
+        "competitorsName": "Skiba",
+        "competitorsUrl": "http://infoseek.co.jp/a/suscipit/nulla/elit/ac.html",
+        "shippingPrice": {
+          "min": 721,
+          "máx": 26121
+        },
+        "createdAt": "2019-12-06T02:29:51Z",
+        "lastModifiedAt": "2019-12-22T02:43:50Z"
+      },
+      {
+        "price": 600821,
+        "competitorsName": "Tagopia",
+        "competitorsUrl": "http://ask.com/pretium/iaculis/justo/in/hac.aspx",
+        "shippingPrice": {
+          "min": 1355,
+          "máx": 29134
+        },
+        "createdAt": "2020-04-05T04:55:39Z",
+        "lastModifiedAt": "2019-10-04T08:50:41Z"
+      }
+    ]
+  },
+  {
+    "sku": 6893954,
+    "name": "Bytecard",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/6893954?wid=100&hei=100",
+    "price": 1359965,
+    "createdAt": "2020-08-05T09:03:38Z",
+    "lastModifiedAt": "2020-02-02T22:55:40Z",
+    "marketPrices": [
+      {
+        "price": 8293771,
+        "competitorsName": "Youopia",
+        "competitorsUrl": "http://ask.com/mollis/molestie/lorem/quisque/ut/erat.jpg",
+        "shippingPrice": {
+          "min": 727,
+          "máx": 15363
+        },
+        "createdAt": "2020-03-21T15:13:46Z",
+        "lastModifiedAt": "2019-12-20T20:45:27Z"
+      },
+      {
+        "price": 5113659,
+        "competitorsName": "Vimbo",
+        "competitorsUrl": "https://google.cn/curae.json",
+        "shippingPrice": {
+          "min": 1205,
+          "máx": 26189
+        },
+        "createdAt": "2020-02-29T05:06:26Z",
+        "lastModifiedAt": "2020-04-25T16:02:17Z"
+      }
+    ]
+  },
+  {
+    "sku": 8217355,
+    "name": "Y-find",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/8217355?wid=100&hei=100",
+    "price": 580216,
+    "createdAt": "2019-10-05T04:28:43Z",
+    "lastModifiedAt": "2020-05-02T03:31:11Z",
+    "marketPrices": [
+      {
+        "price": 1432401,
+        "competitorsName": "Centimia",
+        "competitorsUrl": "https://amazon.de/faucibus/orci/luctus/et/ultrices.aspx",
+        "shippingPrice": {
+          "min": 1500,
+          "máx": 34600
+        },
+        "createdAt": "2020-06-19T16:53:48Z",
+        "lastModifiedAt": "2019-12-16T18:40:59Z"
+      },
+      {
+        "price": 1453094,
+        "competitorsName": "Realbridge",
+        "competitorsUrl": "https://4shared.com/morbi/a/ipsum/integer.js",
+        "shippingPrice": {
+          "min": 913,
+          "máx": 32388
+        },
+        "createdAt": "2020-01-22T02:44:22Z",
+        "lastModifiedAt": "2020-04-21T23:40:31Z"
+      }
+    ]
+  },
+  {
+    "sku": 6724843,
+    "name": "Transcof",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/6724843?wid=100&hei=100",
+    "price": 3347378,
+    "createdAt": "2020-04-06T02:35:11Z",
+    "lastModifiedAt": "2020-03-16T11:44:49Z",
+    "marketPrices": [
+      {
+        "price": 7359108,
+        "competitorsName": "Lazz",
+        "competitorsUrl": "https://google.pl/viverra.png",
+        "shippingPrice": {
+          "min": 1271,
+          "máx": 32827
+        },
+        "createdAt": "2020-06-19T16:29:45Z",
+        "lastModifiedAt": "2020-06-11T14:53:28Z"
+      },
+      {
+        "price": 8847430,
+        "competitorsName": "Fadeo",
+        "competitorsUrl": "http://trellian.com/pede.png",
+        "shippingPrice": {
+          "min": 1514,
+          "máx": 39603
+        },
+        "createdAt": "2019-11-07T13:32:02Z",
+        "lastModifiedAt": "2019-12-08T09:20:50Z"
+      }
+    ]
+  },
+  {
+    "sku": 7178864,
+    "name": "Viva",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/7178864?wid=100&hei=100",
+    "price": 8448901,
+    "createdAt": "2020-05-30T13:45:35Z",
+    "lastModifiedAt": "2020-02-05T16:41:56Z",
+    "marketPrices": [
+      {
+        "price": 8032309,
+        "competitorsName": "Tekfly",
+        "competitorsUrl": "http://abc.net.au/dis/parturient/montes/nascetur/ridiculus/mus/vivamus.aspx",
+        "shippingPrice": {
+          "min": 1940,
+          "máx": 37837
+        },
+        "createdAt": "2020-08-09T03:58:52Z",
+        "lastModifiedAt": "2020-01-19T08:20:34Z"
+      },
+      {
+        "price": 7351797,
+        "competitorsName": "Kazu",
+        "competitorsUrl": "http://youtu.be/aliquam.png",
+        "shippingPrice": {
+          "min": 695,
+          "máx": 30708
+        },
+        "createdAt": "2020-05-03T16:03:43Z",
+        "lastModifiedAt": "2020-06-27T12:12:17Z"
+      }
+    ]
+  },
+  {
+    "sku": 7178842,
+    "name": "Cookley",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/7178842?wid=100&hei=100",
+    "price": 8231944,
+    "createdAt": "2019-12-21T19:52:05Z",
+    "lastModifiedAt": "2020-02-15T10:13:58Z",
+    "marketPrices": [
+      {
+        "price": 3928992,
+        "competitorsName": "Yozio",
+        "competitorsUrl": "https://cafepress.com/id/justo/sit/amet.xml",
+        "shippingPrice": {
+          "min": 1583,
+          "máx": 22048
+        },
+        "createdAt": "2020-02-09T09:13:30Z",
+        "lastModifiedAt": "2020-01-27T23:42:09Z"
+      },
+      {
+        "price": 2069959,
+        "competitorsName": "Wikivu",
+        "competitorsUrl": "http://gnu.org/lacinia/nisi/venenatis.json",
+        "shippingPrice": {
+          "min": 623,
+          "máx": 10586
+        },
+        "createdAt": "2020-08-10T20:17:55Z",
+        "lastModifiedAt": "2020-09-01T10:52:35Z"
+      }
+    ]
+  },
+  {
+    "sku": 7398890,
+    "name": "Matsoft",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/7398890?wid=100&hei=100",
+    "price": 8009827,
+    "createdAt": "2019-11-02T17:21:11Z",
+    "lastModifiedAt": "2020-02-19T21:38:54Z",
+    "marketPrices": [
+      {
+        "price": 7602337,
+        "competitorsName": "Miboo",
+        "competitorsUrl": "https://alibaba.com/quam/suspendisse/potenti/nullam/porttitor.json",
+        "shippingPrice": {
+          "min": 1892,
+          "máx": 22783
+        },
+        "createdAt": "2020-02-22T22:39:34Z",
+        "lastModifiedAt": "2020-07-20T04:25:48Z"
+      },
+      {
+        "price": 2329973,
+        "competitorsName": "Gabtype",
+        "competitorsUrl": "https://spiegel.de/id/sapien/in/sapien.png",
+        "shippingPrice": {
+          "min": 1341,
+          "máx": 8854
+        },
+        "createdAt": "2019-10-22T04:44:38Z",
+        "lastModifiedAt": "2019-11-28T15:11:33Z"
+      }
+    ]
+  },
+  {
+    "sku": 6617032,
+    "name": "Hatity",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/6617032?wid=100&hei=100",
+    "price": 6286520,
+    "createdAt": "2019-10-26T14:20:41Z",
+    "lastModifiedAt": "2020-07-04T12:23:34Z",
+    "marketPrices": [
+      {
+        "price": 5218683,
+        "competitorsName": "Rhycero",
+        "competitorsUrl": "https://twitter.com/ac/diam/cras/pellentesque/volutpat/dui.js",
+        "shippingPrice": {
+          "min": 1195,
+          "máx": 27138
+        },
+        "createdAt": "2019-12-01T01:52:32Z",
+        "lastModifiedAt": "2020-03-03T14:52:27Z"
+      },
+      {
+        "price": 8167319,
+        "competitorsName": "Youfeed",
+        "competitorsUrl": "https://independent.co.uk/nullam/porttitor/lacus/at/turpis/donec.xml",
+        "shippingPrice": {
+          "min": 1023,
+          "máx": 37981
+        },
+        "createdAt": "2020-01-06T17:25:57Z",
+        "lastModifiedAt": "2020-03-21T07:41:21Z"
+      }
+    ]
+  },
+  {
+    "sku": 6896603,
+    "name": "Tresom",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/6896603?wid=100&hei=100",
+    "price": 7390199,
+    "createdAt": "2020-03-11T12:45:37Z",
+    "lastModifiedAt": "2020-07-14T03:57:56Z",
+    "marketPrices": [
+      {
+        "price": 1907308,
+        "competitorsName": "Wordware",
+        "competitorsUrl": "https://zdnet.com/lacus/morbi.html",
+        "shippingPrice": {
+          "min": 1171,
+          "máx": 15644
+        },
+        "createdAt": "2020-09-10T15:49:26Z",
+        "lastModifiedAt": "2019-10-22T20:01:28Z"
+      },
+      {
+        "price": 6260408,
+        "competitorsName": "Ntags",
+        "competitorsUrl": "http://unc.edu/est/phasellus/sit/amet/erat/nulla.xml",
+        "shippingPrice": {
+          "min": 1063,
+          "máx": 14803
+        },
+        "createdAt": "2020-07-10T01:58:09Z",
+        "lastModifiedAt": "2020-05-22T12:38:13Z"
+      }
+    ]
+  },
+  {
+    "sku": 881621248,
+    "name": "Veribet",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/881621248?wid=100&hei=100",
+    "price": 6727977,
+    "createdAt": "2019-12-29T06:12:40Z",
+    "lastModifiedAt": "2020-03-04T15:55:21Z",
+    "marketPrices": [
+      {
+        "price": 1482089,
+        "competitorsName": "Thoughtbeat",
+        "competitorsUrl": "https://ustream.tv/hac/habitasse.jpg",
+        "shippingPrice": {
+          "min": 1757,
+          "máx": 6903
+        },
+        "createdAt": "2020-07-29T17:54:13Z",
+        "lastModifiedAt": "2020-05-12T17:23:35Z"
+      },
+      {
+        "price": 7103956,
+        "competitorsName": "Thoughtworks",
+        "competitorsUrl": "http://linkedin.com/tempor/turpis/nec/euismod.jsp",
+        "shippingPrice": {
+          "min": 1071,
+          "máx": 35882
+        },
+        "createdAt": "2020-01-26T23:58:36Z",
+        "lastModifiedAt": "2020-05-30T18:54:33Z"
+      }
+    ]
+  },
+  {
+    "sku": 6695701,
+    "name": "Gembucket",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/6695701?wid=100&hei=100",
+    "price": 3318913,
+    "createdAt": "2020-03-19T21:03:57Z",
+    "lastModifiedAt": "2019-10-05T14:49:42Z",
+    "marketPrices": [
+      {
+        "price": 2498981,
+        "competitorsName": "Meemm",
+        "competitorsUrl": "https://mtv.com/ultrices/posuere/cubilia/curae/mauris/viverra.html",
+        "shippingPrice": {
+          "min": 1329,
+          "máx": 34657
+        },
+        "createdAt": "2020-08-02T04:49:38Z",
+        "lastModifiedAt": "2019-11-25T21:01:52Z"
+      },
+      {
+        "price": 5989421,
+        "competitorsName": "Yacero",
+        "competitorsUrl": "https://flickr.com/aliquam/augue/quam/sollicitudin/vitae/consectetuer/eget.aspx",
+        "shippingPrice": {
+          "min": 603,
+          "máx": 6666
+        },
+        "createdAt": "2020-03-16T09:47:44Z",
+        "lastModifiedAt": "2020-07-25T06:48:05Z"
+      }
+    ]
+  },
+  {
+    "sku": 7178848,
+    "name": "Cardguard",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/7178848?wid=100&hei=100",
+    "price": 2743494,
+    "createdAt": "2019-10-27T22:36:04Z",
+    "lastModifiedAt": "2020-05-10T20:57:04Z",
+    "marketPrices": [
+      {
+        "price": 8914947,
+        "competitorsName": "Eimbee",
+        "competitorsUrl": "http://techcrunch.com/sem/duis/aliquam/convallis/nunc/proin/at.html",
+        "shippingPrice": {
+          "min": 1710,
+          "máx": 13857
+        },
+        "createdAt": "2020-06-08T14:57:33Z",
+        "lastModifiedAt": "2020-09-10T05:49:45Z"
+      },
+      {
+        "price": 369664,
+        "competitorsName": "Avavee",
+        "competitorsUrl": "https://comcast.net/quis/turpis/sed/ante/vivamus/tortor/duis.aspx",
+        "shippingPrice": {
+          "min": 1388,
+          "máx": 18280
+        },
+        "createdAt": "2020-04-24T22:57:49Z",
+        "lastModifiedAt": "2019-10-07T05:10:12Z"
+      }
+    ]
+  },
+  {
+    "sku": 8227760,
+    "name": "Sonsing",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/8227760?wid=100&hei=100",
+    "price": 7828777,
+    "createdAt": "2020-05-02T09:57:36Z",
+    "lastModifiedAt": "2019-11-02T22:05:50Z",
+    "marketPrices": [
+      {
+        "price": 7874804,
+        "competitorsName": "Topicstorm",
+        "competitorsUrl": "https://china.com.cn/arcu/adipiscing/molestie/hendrerit/at/vulputate.xml",
+        "shippingPrice": {
+          "min": 1363,
+          "máx": 15918
+        },
+        "createdAt": "2020-08-11T02:03:10Z",
+        "lastModifiedAt": "2020-03-08T11:58:22Z"
+      },
+      {
+        "price": 5377539,
+        "competitorsName": "Babbleopia",
+        "competitorsUrl": "http://biblegateway.com/ut/ultrices/vel/augue/vestibulum/ante.aspx",
+        "shippingPrice": {
+          "min": 1730,
+          "máx": 5221
+        },
+        "createdAt": "2019-12-23T21:46:47Z",
+        "lastModifiedAt": "2019-12-17T09:07:38Z"
+      }
+    ]
+  },
+  {
+    "sku": 7875993,
+    "name": "Regrant",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/7875993?wid=100&hei=100",
+    "price": 4125857,
+    "createdAt": "2020-02-12T18:38:34Z",
+    "lastModifiedAt": "2020-01-26T21:12:35Z",
+    "marketPrices": [
+      {
+        "price": 8729919,
+        "competitorsName": "Talane",
+        "competitorsUrl": "http://tripod.com/parturient/montes/nascetur/ridiculus/mus/vivamus.png",
+        "shippingPrice": {
+          "min": 1983,
+          "máx": 38846
+        },
+        "createdAt": "2019-10-10T18:13:09Z",
+        "lastModifiedAt": "2019-09-26T13:49:20Z"
+      },
+      {
+        "price": 8051649,
+        "competitorsName": "Babbleblab",
+        "competitorsUrl": "http://taobao.com/sem/praesent.html",
+        "shippingPrice": {
+          "min": 778,
+          "máx": 21829
+        },
+        "createdAt": "2020-07-07T21:54:33Z",
+        "lastModifiedAt": "2020-01-29T11:35:41Z"
+      }
+    ]
+  },
+  {
+    "sku": 8101161,
+    "name": "Bitchip",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/8101161?wid=100&hei=100",
+    "price": 7702049,
+    "createdAt": "2020-02-22T21:27:10Z",
+    "lastModifiedAt": "2020-03-27T21:07:34Z",
+    "marketPrices": [
+      {
+        "price": 2102089,
+        "competitorsName": "Flashpoint",
+        "competitorsUrl": "https://tripod.com/mi.html",
+        "shippingPrice": {
+          "min": 603,
+          "máx": 24881
+        },
+        "createdAt": "2019-12-04T15:02:47Z",
+        "lastModifiedAt": "2020-07-28T18:38:20Z"
+      },
+      {
+        "price": 2058249,
+        "competitorsName": "Thoughtworks",
+        "competitorsUrl": "https://flickr.com/massa/id/lobortis.xml",
+        "shippingPrice": {
+          "min": 928,
+          "máx": 34421
+        },
+        "createdAt": "2019-10-05T10:15:06Z",
+        "lastModifiedAt": "2020-05-16T19:18:43Z"
+      }
+    ]
+  },
+  {
+    "sku": 881678431,
+    "name": "Zoolab",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/881678431?wid=100&hei=100",
+    "price": 8595314,
+    "createdAt": "2019-10-20T17:59:14Z",
+    "lastModifiedAt": "2020-03-06T23:45:30Z",
+    "marketPrices": [
+      {
+        "price": 3221709,
+        "competitorsName": "Mynte",
+        "competitorsUrl": "http://facebook.com/nunc/commodo/placerat/praesent/blandit/nam/nulla.png",
+        "shippingPrice": {
+          "min": 908,
+          "máx": 24337
+        },
+        "createdAt": "2020-09-12T11:25:38Z",
+        "lastModifiedAt": "2020-08-11T12:04:34Z"
+      },
+      {
+        "price": 6947298,
+        "competitorsName": "Quatz",
+        "competitorsUrl": "http://hubpages.com/mollis/molestie/lorem/quisque/ut.json",
+        "shippingPrice": {
+          "min": 645,
+          "máx": 26249
+        },
+        "createdAt": "2020-01-19T15:39:06Z",
+        "lastModifiedAt": "2020-03-13T10:05:10Z"
+      }
+    ]
+  },
+  {
+    "sku": 7178868,
+    "name": "Keylex",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/7178868?wid=100&hei=100",
+    "price": 3423663,
+    "createdAt": "2020-05-08T18:54:35Z",
+    "lastModifiedAt": "2020-07-18T20:08:32Z",
+    "marketPrices": [
+      {
+        "price": 3048198,
+        "competitorsName": "Edgetag",
+        "competitorsUrl": "http://baidu.com/diam.html",
+        "shippingPrice": {
+          "min": 768,
+          "máx": 22661
+        },
+        "createdAt": "2020-03-16T10:17:24Z",
+        "lastModifiedAt": "2019-12-20T05:08:40Z"
+      },
+      {
+        "price": 3735647,
+        "competitorsName": "Voomm",
+        "competitorsUrl": "https://barnesandnoble.com/proin/leo/odio/porttitor/id.json",
+        "shippingPrice": {
+          "min": 1614,
+          "máx": 12403
+        },
+        "createdAt": "2020-05-03T20:59:28Z",
+        "lastModifiedAt": "2019-11-06T09:43:39Z"
+      }
+    ]
+  },
+  {
+    "sku": 8227759,
+    "name": "Vagram",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/8227759?wid=100&hei=100",
+    "price": 6583263,
+    "createdAt": "2020-02-16T07:56:56Z",
+    "lastModifiedAt": "2020-03-25T23:28:18Z",
+    "marketPrices": [
+      {
+        "price": 6340613,
+        "competitorsName": "Jabbertype",
+        "competitorsUrl": "https://jalbum.net/in/leo/maecenas/pulvinar/lobortis.html",
+        "shippingPrice": {
+          "min": 935,
+          "máx": 21423
+        },
+        "createdAt": "2020-08-04T21:29:54Z",
+        "lastModifiedAt": "2019-11-14T21:10:56Z"
+      },
+      {
+        "price": 875779,
+        "competitorsName": "Realpoint",
+        "competitorsUrl": "https://nymag.com/leo/pellentesque.html",
+        "shippingPrice": {
+          "min": 1052,
+          "máx": 33080
+        },
+        "createdAt": "2020-03-11T12:01:52Z",
+        "lastModifiedAt": "2020-04-07T22:05:31Z"
+      }
+    ]
+  },
+  {
+    "sku": 7424691,
+    "name": "Stronghold",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/7424691?wid=100&hei=100",
+    "price": 44081,
+    "createdAt": "2019-12-02T16:45:48Z",
+    "lastModifiedAt": "2020-01-26T13:53:47Z",
+    "marketPrices": [
+      {
+        "price": 2950381,
+        "competitorsName": "Yodo",
+        "competitorsUrl": "https://google.de/diam/neque/vestibulum/eget/vulputate/ut/ultrices.jpg",
+        "shippingPrice": {
+          "min": 1537,
+          "máx": 12484
+        },
+        "createdAt": "2020-09-24T00:35:12Z",
+        "lastModifiedAt": "2020-05-11T23:30:01Z"
+      },
+      {
+        "price": 6692509,
+        "competitorsName": "Meemm",
+        "competitorsUrl": "https://hao123.com/nullam/porttitor/lacus/at/turpis/donec/posuere.jsp",
+        "shippingPrice": {
+          "min": 1454,
+          "máx": 30213
+        },
+        "createdAt": "2020-05-01T10:04:57Z",
+        "lastModifiedAt": "2020-07-19T02:37:00Z"
+      }
+    ]
+  },
+  {
+    "sku": 8329307,
+    "name": "Duobam",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/8329307?wid=100&hei=100",
+    "price": 8583264,
+    "createdAt": "2020-07-05T04:02:58Z",
+    "lastModifiedAt": "2020-05-22T22:37:02Z",
+    "marketPrices": [
+      {
+        "price": 7717969,
+        "competitorsName": "Pixope",
+        "competitorsUrl": "https://who.int/montes/nascetur/ridiculus/mus.js",
+        "shippingPrice": {
+          "min": 1615,
+          "máx": 19789
+        },
+        "createdAt": "2020-01-09T17:36:21Z",
+        "lastModifiedAt": "2020-03-12T07:21:51Z"
+      },
+      {
+        "price": 96333,
+        "competitorsName": "Flashspan",
+        "competitorsUrl": "https://auda.org.au/eget/rutrum/at/lorem/integer/tincidunt/ante.html",
+        "shippingPrice": {
+          "min": 1237,
+          "máx": 37359
+        },
+        "createdAt": "2020-04-04T18:03:14Z",
+        "lastModifiedAt": "2020-01-23T19:51:09Z"
+      }
+    ]
+  },
+  {
+    "sku": 881529280,
+    "name": "Alpha",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/881529280?wid=100&hei=100",
+    "price": 7707822,
+    "createdAt": "2020-08-07T07:24:05Z",
+    "lastModifiedAt": "2020-02-26T19:36:58Z",
+    "marketPrices": [
+      {
+        "price": 5699578,
+        "competitorsName": "Browsecat",
+        "competitorsUrl": "https://home.pl/risus/praesent/lectus/vestibulum/quam/sapien/varius.aspx",
+        "shippingPrice": {
+          "min": 1004,
+          "máx": 34898
+        },
+        "createdAt": "2020-09-03T12:04:32Z",
+        "lastModifiedAt": "2020-06-20T03:00:58Z"
+      },
+      {
+        "price": 3830096,
+        "competitorsName": "Trilith",
+        "competitorsUrl": "http://unblog.fr/nunc/commodo/placerat/praesent/blandit.json",
+        "shippingPrice": {
+          "min": 1000,
+          "máx": 39400
+        },
+        "createdAt": "2019-11-19T13:23:41Z",
+        "lastModifiedAt": "2019-10-13T05:24:51Z"
+      }
+    ]
+  },
+  {
+    "sku": 6896607,
+    "name": "Bigtax",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/6896607?wid=100&hei=100",
+    "price": 3301267,
+    "createdAt": "2020-04-26T23:23:20Z",
+    "lastModifiedAt": "2020-03-19T21:05:11Z",
+    "marketPrices": [
+      {
+        "price": 4157697,
+        "competitorsName": "Jaxnation",
+        "competitorsUrl": "https://alibaba.com/tortor/risus/dapibus/augue/vel/accumsan.png",
+        "shippingPrice": {
+          "min": 1105,
+          "máx": 30410
+        },
+        "createdAt": "2019-12-10T10:35:59Z",
+        "lastModifiedAt": "2020-08-19T23:11:02Z"
+      },
+      {
+        "price": 8448845,
+        "competitorsName": "Yacero",
+        "competitorsUrl": "http://sina.com.cn/id/nisl/venenatis/lacinia/aenean/sit.xml",
+        "shippingPrice": {
+          "min": 1561,
+          "máx": 17618
+        },
+        "createdAt": "2020-07-06T02:08:55Z",
+        "lastModifiedAt": "2019-10-17T05:10:36Z"
+      }
+    ]
+  },
+  {
+    "sku": 881261467,
+    "name": "Solarbreeze",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/881261467?wid=100&hei=100",
+    "price": 689227,
+    "createdAt": "2020-04-15T21:10:07Z",
+    "lastModifiedAt": "2020-07-03T16:14:51Z",
+    "marketPrices": [
+      {
+        "price": 1148672,
+        "competitorsName": "Geba",
+        "competitorsUrl": "http://howstuffworks.com/vivamus/tortor/duis.jsp",
+        "shippingPrice": {
+          "min": 1733,
+          "máx": 19715
+        },
+        "createdAt": "2019-12-18T10:16:45Z",
+        "lastModifiedAt": "2019-10-24T04:58:28Z"
+      },
+      {
+        "price": 2956287,
+        "competitorsName": "Jabbercube",
+        "competitorsUrl": "http://livejournal.com/nulla/nisl/nunc/nisl/duis.jsp",
+        "shippingPrice": {
+          "min": 781,
+          "máx": 23809
+        },
+        "createdAt": "2020-09-22T20:30:40Z",
+        "lastModifiedAt": "2019-11-20T15:23:14Z"
+      }
+    ]
+  },
+  {
+    "sku": 8250354,
+    "name": "Konklux",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/8250354?wid=100&hei=100",
+    "price": 8135936,
+    "createdAt": "2019-10-06T09:24:52Z",
+    "lastModifiedAt": "2020-08-05T23:29:52Z",
+    "marketPrices": [
+      {
+        "price": 4906112,
+        "competitorsName": "Quatz",
+        "competitorsUrl": "http://wordpress.org/ac/est/lacinia/nisi/venenatis.aspx",
+        "shippingPrice": {
+          "min": 1661,
+          "máx": 9858
+        },
+        "createdAt": "2020-06-26T16:57:47Z",
+        "lastModifiedAt": "2020-07-27T17:01:55Z"
+      },
+      {
+        "price": 8539550,
+        "competitorsName": "Photofeed",
+        "competitorsUrl": "http://washington.edu/id/luctus/nec/molestie/sed/justo.js",
+        "shippingPrice": {
+          "min": 1793,
+          "máx": 26244
+        },
+        "createdAt": "2020-05-27T19:36:36Z",
+        "lastModifiedAt": "2019-10-22T12:59:10Z"
+      }
+    ]
+  },
+  {
+    "sku": 4171050,
+    "name": "Lotlux",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/4171050?wid=100&hei=100",
+    "price": 7619919,
+    "createdAt": "2019-12-19T09:07:18Z",
+    "lastModifiedAt": "2019-09-25T23:30:36Z",
+    "marketPrices": [
+      {
+        "price": 4248608,
+        "competitorsName": "Cogilith",
+        "competitorsUrl": "https://cnbc.com/vel/augue/vestibulum/rutrum/rutrum/neque.jsp",
+        "shippingPrice": {
+          "min": 1275,
+          "máx": 16725
+        },
+        "createdAt": "2020-05-02T16:00:03Z",
+        "lastModifiedAt": "2020-03-24T14:26:23Z"
+      },
+      {
+        "price": 6124009,
+        "competitorsName": "Kamba",
+        "competitorsUrl": "https://plala.or.jp/nibh.json",
+        "shippingPrice": {
+          "min": 1346,
+          "máx": 38740
+        },
+        "createdAt": "2020-01-11T08:34:56Z",
+        "lastModifiedAt": "2019-10-02T05:28:58Z"
+      }
+    ]
+  },
+  {
+    "sku": 7917305,
+    "name": "Zathin",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/7917305?wid=100&hei=100",
+    "price": 6176510,
+    "createdAt": "2020-05-24T17:03:53Z",
+    "lastModifiedAt": "2020-08-08T06:40:22Z",
+    "marketPrices": [
+      {
+        "price": 6034688,
+        "competitorsName": "Flashset",
+        "competitorsUrl": "http://usa.gov/iaculis/justo/in/hac/habitasse.xml",
+        "shippingPrice": {
+          "min": 728,
+          "máx": 26796
+        },
+        "createdAt": "2020-02-21T22:34:08Z",
+        "lastModifiedAt": "2020-03-23T01:34:54Z"
+      },
+      {
+        "price": 2218581,
+        "competitorsName": "Skyndu",
+        "competitorsUrl": "http://mit.edu/ante/ipsum.xml",
+        "shippingPrice": {
+          "min": 947,
+          "máx": 19897
+        },
+        "createdAt": "2020-08-18T02:06:34Z",
+        "lastModifiedAt": "2020-01-28T19:15:42Z"
+      }
+    ]
+  },
+  {
+    "sku": 6886341,
+    "name": "Konklab",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/6886341?wid=100&hei=100",
+    "price": 4323791,
+    "createdAt": "2020-04-28T20:59:28Z",
+    "lastModifiedAt": "2020-06-11T12:59:07Z",
+    "marketPrices": [
+      {
+        "price": 621601,
+        "competitorsName": "Tambee",
+        "competitorsUrl": "http://timesonline.co.uk/dis/parturient/montes/nascetur/ridiculus.jpg",
+        "shippingPrice": {
+          "min": 773,
+          "máx": 34329
+        },
+        "createdAt": "2020-07-08T06:25:02Z",
+        "lastModifiedAt": "2019-10-05T19:13:56Z"
+      },
+      {
+        "price": 2652305,
+        "competitorsName": "Buzzdog",
+        "competitorsUrl": "https://wisc.edu/venenatis/non.png",
+        "shippingPrice": {
+          "min": 936,
+          "máx": 24251
+        },
+        "createdAt": "2020-07-18T04:15:49Z",
+        "lastModifiedAt": "2020-03-20T04:45:11Z"
+      }
+    ]
+  },
+  {
+    "sku": 6521282,
+    "name": "Voyatouch",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/6521282?wid=100&hei=100",
+    "price": 8652726,
+    "createdAt": "2020-09-09T21:46:34Z",
+    "lastModifiedAt": "2020-02-02T21:10:32Z",
+    "marketPrices": [
+      {
+        "price": 5237256,
+        "competitorsName": "Ooba",
+        "competitorsUrl": "https://oracle.com/nisl.jpg",
+        "shippingPrice": {
+          "min": 802,
+          "máx": 12881
+        },
+        "createdAt": "2020-06-19T22:02:40Z",
+        "lastModifiedAt": "2020-09-05T14:14:16Z"
+      },
+      {
+        "price": 5969317,
+        "competitorsName": "Geba",
+        "competitorsUrl": "https://engadget.com/eget/nunc/donec/quis.json",
+        "shippingPrice": {
+          "min": 790,
+          "máx": 21458
+        },
+        "createdAt": "2019-10-23T07:12:21Z",
+        "lastModifiedAt": "2019-12-09T14:46:47Z"
+      }
+    ]
+  },
+  {
+    "sku": 6981406,
+    "name": "Sonair",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/6981406?wid=100&hei=100",
+    "price": 1783242,
+    "createdAt": "2020-05-29T06:57:59Z",
+    "lastModifiedAt": "2020-05-31T16:36:43Z",
+    "marketPrices": [
+      {
+        "price": 8458602,
+        "competitorsName": "Zoomlounge",
+        "competitorsUrl": "https://hugedomains.com/consequat/ut/nulla/sed.html",
+        "shippingPrice": {
+          "min": 1654,
+          "máx": 21067
+        },
+        "createdAt": "2019-12-17T12:32:12Z",
+        "lastModifiedAt": "2020-03-21T06:25:13Z"
+      },
+      {
+        "price": 5932665,
+        "competitorsName": "Jabbertype",
+        "competitorsUrl": "http://wisc.edu/orci/luctus/et/ultrices/posuere/cubilia.xml",
+        "shippingPrice": {
+          "min": 1396,
+          "máx": 5221
+        },
+        "createdAt": "2020-07-22T13:10:04Z",
+        "lastModifiedAt": "2020-03-16T23:55:48Z"
+      }
+    ]
+  },
+  {
+    "sku": 7211744,
+    "name": "Flowdesk",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/7211744?wid=100&hei=100",
+    "price": 4504491,
+    "createdAt": "2020-04-18T20:34:10Z",
+    "lastModifiedAt": "2020-04-09T10:59:17Z",
+    "marketPrices": [
+      {
+        "price": 286640,
+        "competitorsName": "Mydo",
+        "competitorsUrl": "https://nps.gov/porttitor/id.jpg",
+        "shippingPrice": {
+          "min": 652,
+          "máx": 27658
+        },
+        "createdAt": "2020-02-05T12:00:13Z",
+        "lastModifiedAt": "2020-03-15T22:19:07Z"
+      },
+      {
+        "price": 7070122,
+        "competitorsName": "Kazu",
+        "competitorsUrl": "http://google.com.br/non/sodales.aspx",
+        "shippingPrice": {
+          "min": 1050,
+          "máx": 24228
+        },
+        "createdAt": "2020-07-25T22:11:54Z",
+        "lastModifiedAt": "2019-11-14T18:16:08Z"
+      }
+    ]
+  },
+  {
+    "sku": 8188181,
+    "name": "Zamit",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/8188181?wid=100&hei=100",
+    "price": 1097211,
+    "createdAt": "2019-12-30T22:50:35Z",
+    "lastModifiedAt": "2020-06-26T16:25:21Z",
+    "marketPrices": [
+      {
+        "price": 4156023,
+        "competitorsName": "Skimia",
+        "competitorsUrl": "https://slashdot.org/nullam/porttitor.xml",
+        "shippingPrice": {
+          "min": 504,
+          "máx": 36908
+        },
+        "createdAt": "2020-08-09T05:03:58Z",
+        "lastModifiedAt": "2019-10-05T07:04:51Z"
+      },
+      {
+        "price": 7795267,
+        "competitorsName": "Livetube",
+        "competitorsUrl": "https://cyberchimps.com/velit/eu/est/congue/elementum.jsp",
+        "shippingPrice": {
+          "min": 1884,
+          "máx": 32909
+        },
+        "createdAt": "2020-01-05T21:09:53Z",
+        "lastModifiedAt": "2020-07-20T04:39:18Z"
+      }
+    ]
+  },
+  {
+    "sku": 8216491,
+    "name": "Viva",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/8216491?wid=100&hei=100",
+    "price": 8618739,
+    "createdAt": "2020-01-31T23:31:46Z",
+    "lastModifiedAt": "2020-03-13T06:09:43Z",
+    "marketPrices": [
+      {
+        "price": 7739734,
+        "competitorsName": "Brainsphere",
+        "competitorsUrl": "http://lycos.com/neque/libero/convallis/eget.js",
+        "shippingPrice": {
+          "min": 829,
+          "máx": 15930
+        },
+        "createdAt": "2020-04-08T15:33:50Z",
+        "lastModifiedAt": "2020-02-16T00:40:40Z"
+      },
+      {
+        "price": 3451282,
+        "competitorsName": "JumpXS",
+        "competitorsUrl": "http://thetimes.co.uk/blandit/mi/in/porttitor.html",
+        "shippingPrice": {
+          "min": 722,
+          "máx": 12852
+        },
+        "createdAt": "2020-04-24T09:52:01Z",
+        "lastModifiedAt": "2019-10-03T04:49:52Z"
+      }
+    ]
+  },
+  {
+    "sku": 6889147,
+    "name": "Cookley",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/6889147?wid=100&hei=100",
+    "price": 8637458,
+    "createdAt": "2019-10-18T01:01:40Z",
+    "lastModifiedAt": "2020-02-10T14:33:27Z",
+    "marketPrices": [
+      {
+        "price": 6284533,
+        "competitorsName": "Rhycero",
+        "competitorsUrl": "https://vkontakte.ru/rutrum/nulla/tellus/in.json",
+        "shippingPrice": {
+          "min": 536,
+          "máx": 7650
+        },
+        "createdAt": "2020-01-15T00:13:54Z",
+        "lastModifiedAt": "2020-08-03T00:55:41Z"
+      },
+      {
+        "price": 5114188,
+        "competitorsName": "Eayo",
+        "competitorsUrl": "https://army.mil/pretium/iaculis/diam/erat/fermentum.js",
+        "shippingPrice": {
+          "min": 646,
+          "máx": 39210
+        },
+        "createdAt": "2020-04-08T23:07:17Z",
+        "lastModifiedAt": "2020-05-30T16:20:08Z"
+      }
+    ]
+  },
+  {
+    "sku": 8216019,
+    "name": "Keylex",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/8216019?wid=100&hei=100",
+    "price": 5026853,
+    "createdAt": "2020-07-24T09:41:38Z",
+    "lastModifiedAt": "2019-10-12T03:09:36Z",
+    "marketPrices": [
+      {
+        "price": 2197281,
+        "competitorsName": "Viva",
+        "competitorsUrl": "http://xrea.com/justo/aliquam/quis/turpis/eget/elit.json",
+        "shippingPrice": {
+          "min": 1429,
+          "máx": 18711
+        },
+        "createdAt": "2019-10-27T03:25:09Z",
+        "lastModifiedAt": "2020-06-03T10:13:54Z"
+      },
+      {
+        "price": 8887713,
+        "competitorsName": "Twiyo",
+        "competitorsUrl": "http://plala.or.jp/tincidunt/nulla/mollis/molestie.json",
+        "shippingPrice": {
+          "min": 577,
+          "máx": 28394
+        },
+        "createdAt": "2020-04-22T20:53:36Z",
+        "lastModifiedAt": "2020-09-13T08:38:37Z"
+      }
+    ]
+  },
+  {
+    "sku": 8250420,
+    "name": "Tresom",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/8250420?wid=100&hei=100",
+    "price": 7487830,
+    "createdAt": "2020-01-22T07:33:27Z",
+    "lastModifiedAt": "2020-01-14T01:44:14Z",
+    "marketPrices": [
+      {
+        "price": 3240961,
+        "competitorsName": "Yambee",
+        "competitorsUrl": "https://moonfruit.com/leo.js",
+        "shippingPrice": {
+          "min": 510,
+          "máx": 17228
+        },
+        "createdAt": "2019-12-17T00:12:58Z",
+        "lastModifiedAt": "2020-05-14T18:22:29Z"
+      },
+      {
+        "price": 456652,
+        "competitorsName": "Babbleopia",
+        "competitorsUrl": "https://mashable.com/vivamus/metus/arcu.jsp",
+        "shippingPrice": {
+          "min": 1233,
+          "máx": 24301
+        },
+        "createdAt": "2019-11-17T03:09:05Z",
+        "lastModifiedAt": "2019-11-04T19:48:37Z"
+      }
+    ]
+  },
+  {
+    "sku": 7142831,
+    "name": "Temp",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/7142831?wid=100&hei=100",
+    "price": 2950295,
+    "createdAt": "2020-03-04T12:34:13Z",
+    "lastModifiedAt": "2020-07-20T11:54:44Z",
+    "marketPrices": [
+      {
+        "price": 7691368,
+        "competitorsName": "Photospace",
+        "competitorsUrl": "http://ow.ly/mi/nulla/ac/enim/in/tempor.json",
+        "shippingPrice": {
+          "min": 951,
+          "máx": 19114
+        },
+        "createdAt": "2020-02-26T23:40:01Z",
+        "lastModifiedAt": "2020-03-27T05:09:26Z"
+      },
+      {
+        "price": 262735,
+        "competitorsName": "Skyble",
+        "competitorsUrl": "http://instagram.com/ridiculus/mus/vivamus/vestibulum/sagittis.png",
+        "shippingPrice": {
+          "min": 737,
+          "máx": 17940
+        },
+        "createdAt": "2020-07-09T10:47:43Z",
+        "lastModifiedAt": "2020-02-28T22:47:43Z"
+      }
+    ]
+  },
+  {
+    "sku": 6889216,
+    "name": "Alphazap",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/6889216?wid=100&hei=100",
+    "price": 275832,
+    "createdAt": "2020-08-17T12:07:24Z",
+    "lastModifiedAt": "2019-10-24T13:46:28Z",
+    "marketPrices": [
+      {
+        "price": 2931866,
+        "competitorsName": "Twitterworks",
+        "competitorsUrl": "https://weather.com/rhoncus/aliquet/pulvinar/sed/nisl/nunc.xml",
+        "shippingPrice": {
+          "min": 981,
+          "máx": 18599
+        },
+        "createdAt": "2019-10-10T05:54:46Z",
+        "lastModifiedAt": "2020-08-03T05:11:58Z"
+      },
+      {
+        "price": 6970070,
+        "competitorsName": "Brainbox",
+        "competitorsUrl": "http://hostgator.com/vitae/consectetuer.json",
+        "shippingPrice": {
+          "min": 673,
+          "máx": 26092
+        },
+        "createdAt": "2019-12-21T00:06:27Z",
+        "lastModifiedAt": "2020-07-03T14:26:27Z"
+      }
+    ]
+  },
+  {
+    "sku": 6910805,
+    "name": "Asoka",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/6910805?wid=100&hei=100",
+    "price": 1561783,
+    "createdAt": "2020-09-02T19:59:18Z",
+    "lastModifiedAt": "2020-08-21T12:20:03Z",
+    "marketPrices": [
+      {
+        "price": 5034867,
+        "competitorsName": "Youspan",
+        "competitorsUrl": "https://qq.com/fusce.html",
+        "shippingPrice": {
+          "min": 1133,
+          "máx": 33138
+        },
+        "createdAt": "2019-11-13T06:41:06Z",
+        "lastModifiedAt": "2019-11-02T13:26:24Z"
+      },
+      {
+        "price": 8605262,
+        "competitorsName": "Realmix",
+        "competitorsUrl": "http://dion.ne.jp/vitae/nisl/aenean/lectus.jpg",
+        "shippingPrice": {
+          "min": 1479,
+          "máx": 33895
+        },
+        "createdAt": "2020-03-03T09:22:00Z",
+        "lastModifiedAt": "2020-05-10T05:42:08Z"
+      }
+    ]
+  },
+  {
+    "sku": 3209416,
+    "name": "Hatity",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/3209416?wid=100&hei=100",
+    "price": 4640780,
+    "createdAt": "2019-09-26T08:00:04Z",
+    "lastModifiedAt": "2020-05-25T16:25:53Z",
+    "marketPrices": [
+      {
+        "price": 4067718,
+        "competitorsName": "Ooba",
+        "competitorsUrl": "http://oaic.gov.au/sed.jsp",
+        "shippingPrice": {
+          "min": 1225,
+          "máx": 27940
+        },
+        "createdAt": "2020-06-21T03:19:38Z",
+        "lastModifiedAt": "2020-01-17T07:34:17Z"
+      },
+      {
+        "price": 5093298,
+        "competitorsName": "Thoughtblab",
+        "competitorsUrl": "http://senate.gov/dignissim/vestibulum/vestibulum/ante/ipsum/primis/in.js",
+        "shippingPrice": {
+          "min": 910,
+          "máx": 30850
+        },
+        "createdAt": "2020-06-13T03:52:10Z",
+        "lastModifiedAt": "2019-11-15T06:09:31Z"
+      }
+    ]
+  },
+  {
+    "sku": 6925104,
+    "name": "Sonsing",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/6925104?wid=100&hei=100",
+    "price": 7204204,
+    "createdAt": "2019-11-17T12:50:39Z",
+    "lastModifiedAt": "2020-05-25T12:49:21Z",
+    "marketPrices": [
+      {
+        "price": 6443937,
+        "competitorsName": "Tagpad",
+        "competitorsUrl": "http://bravesites.com/pharetra/magna/ac/consequat/metus.json",
+        "shippingPrice": {
+          "min": 1902,
+          "máx": 39275
+        },
+        "createdAt": "2020-05-01T08:34:01Z",
+        "lastModifiedAt": "2019-10-14T18:22:20Z"
+      },
+      {
+        "price": 1641295,
+        "competitorsName": "Meedoo",
+        "competitorsUrl": "http://pinterest.com/sem/mauris/laoreet.json",
+        "shippingPrice": {
+          "min": 1922,
+          "máx": 32565
+        },
+        "createdAt": "2020-04-21T01:38:49Z",
+        "lastModifiedAt": "2020-05-24T08:11:46Z"
+      }
+    ]
+  },
+  {
+    "sku": 8267775,
+    "name": "Trippledex",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/8267775?wid=100&hei=100",
+    "price": 1392230,
+    "createdAt": "2019-12-13T14:31:45Z",
+    "lastModifiedAt": "2020-04-29T03:11:17Z",
+    "marketPrices": [
+      {
+        "price": 4383282,
+        "competitorsName": "Meembee",
+        "competitorsUrl": "http://weibo.com/pellentesque/quisque/porta/volutpat.js",
+        "shippingPrice": {
+          "min": 1717,
+          "máx": 16040
+        },
+        "createdAt": "2020-06-05T13:56:24Z",
+        "lastModifiedAt": "2019-12-03T05:39:14Z"
+      },
+      {
+        "price": 3954640,
+        "competitorsName": "Twitterwire",
+        "competitorsUrl": "https://dyndns.org/duis/faucibus/accumsan/odio/curabitur/convallis.aspx",
+        "shippingPrice": {
+          "min": 776,
+          "máx": 37632
+        },
+        "createdAt": "2019-12-30T19:11:46Z",
+        "lastModifiedAt": "2020-09-06T16:27:58Z"
+      }
+    ]
+  },
+  {
+    "sku": 8189334,
+    "name": "Holdlamis",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/8189334?wid=100&hei=100",
+    "price": 1013139,
+    "createdAt": "2019-10-09T14:51:37Z",
+    "lastModifiedAt": "2020-04-25T15:00:25Z",
+    "marketPrices": [
+      {
+        "price": 3804799,
+        "competitorsName": "Quatz",
+        "competitorsUrl": "https://marketwatch.com/ut/massa/volutpat.jsp",
+        "shippingPrice": {
+          "min": 843,
+          "máx": 10161
+        },
+        "createdAt": "2020-09-05T18:00:47Z",
+        "lastModifiedAt": "2020-01-22T02:12:07Z"
+      },
+      {
+        "price": 97345,
+        "competitorsName": "Demizz",
+        "competitorsUrl": "https://japanpost.jp/quis/orci/eget/orci/vehicula/condimentum.html",
+        "shippingPrice": {
+          "min": 1327,
+          "máx": 30645
+        },
+        "createdAt": "2020-09-06T17:37:11Z",
+        "lastModifiedAt": "2020-04-09T14:36:34Z"
+      }
+    ]
+  },
+  {
+    "sku": 8216495,
+    "name": "Solarbreeze",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/8216495?wid=100&hei=100",
+    "price": 4474865,
+    "createdAt": "2019-10-26T04:16:59Z",
+    "lastModifiedAt": "2019-12-20T19:45:31Z",
+    "marketPrices": [
+      {
+        "price": 1633603,
+        "competitorsName": "Brainbox",
+        "competitorsUrl": "http://google.co.jp/pede/venenatis/non/sodales.xml",
+        "shippingPrice": {
+          "min": 1143,
+          "máx": 33562
+        },
+        "createdAt": "2020-05-06T03:22:12Z",
+        "lastModifiedAt": "2019-11-13T11:17:42Z"
+      },
+      {
+        "price": 629681,
+        "competitorsName": "Bluejam",
+        "competitorsUrl": "http://chronoengine.com/mi.js",
+        "shippingPrice": {
+          "min": 1709,
+          "máx": 11152
+        },
+        "createdAt": "2020-09-16T14:38:51Z",
+        "lastModifiedAt": "2020-07-31T10:13:09Z"
+      }
+    ]
+  },
+  {
+    "sku": 4713792,
+    "name": "Matsoft",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/4713792?wid=100&hei=100",
+    "price": 4528345,
+    "createdAt": "2020-09-06T22:38:25Z",
+    "lastModifiedAt": "2020-01-30T06:46:06Z",
+    "marketPrices": [
+      {
+        "price": 1745185,
+        "competitorsName": "Vimbo",
+        "competitorsUrl": "http://illinois.edu/purus/eu/magna.js",
+        "shippingPrice": {
+          "min": 1015,
+          "máx": 20450
+        },
+        "createdAt": "2020-02-14T12:37:41Z",
+        "lastModifiedAt": "2020-06-28T07:14:30Z"
+      },
+      {
+        "price": 7757128,
+        "competitorsName": "Trilith",
+        "competitorsUrl": "https://pbs.org/sit.json",
+        "shippingPrice": {
+          "min": 1851,
+          "máx": 18267
+        },
+        "createdAt": "2020-05-27T11:24:23Z",
+        "lastModifiedAt": "2020-05-25T12:20:06Z"
+      }
+    ]
+  },
+  {
+    "sku": 7274800,
+    "name": "Treeflex",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/7274800?wid=100&hei=100",
+    "price": 8863790,
+    "createdAt": "2019-11-08T21:20:20Z",
+    "lastModifiedAt": "2020-05-21T05:21:21Z",
+    "marketPrices": [
+      {
+        "price": 7838422,
+        "competitorsName": "Plajo",
+        "competitorsUrl": "http://ucla.edu/lectus.xml",
+        "shippingPrice": {
+          "min": 1465,
+          "máx": 9144
+        },
+        "createdAt": "2020-09-24T02:38:26Z",
+        "lastModifiedAt": "2020-04-06T05:55:21Z"
+      },
+      {
+        "price": 2469478,
+        "competitorsName": "Jaxworks",
+        "competitorsUrl": "https://census.gov/quisque/arcu/libero/rutrum/ac.jsp",
+        "shippingPrice": {
+          "min": 1114,
+          "máx": 13231
+        },
+        "createdAt": "2020-03-17T04:14:48Z",
+        "lastModifiedAt": "2020-02-07T17:34:18Z"
+      }
+    ]
+  },
+  {
+    "sku": 8211283,
+    "name": "Viva",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/8211283?wid=100&hei=100",
+    "price": 4139220,
+    "createdAt": "2020-03-21T04:12:47Z",
+    "lastModifiedAt": "2020-02-15T21:08:13Z",
+    "marketPrices": [
+      {
+        "price": 8235922,
+        "competitorsName": "Devshare",
+        "competitorsUrl": "http://uol.com.br/justo/aliquam.xml",
+        "shippingPrice": {
+          "min": 1432,
+          "máx": 28121
+        },
+        "createdAt": "2019-10-31T07:17:19Z",
+        "lastModifiedAt": "2020-02-26T13:50:52Z"
+      },
+      {
+        "price": 3829208,
+        "competitorsName": "Shuffletag",
+        "competitorsUrl": "http://theatlantic.com/augue/vestibulum/rutrum/rutrum/neque.jsp",
+        "shippingPrice": {
+          "min": 1536,
+          "máx": 22577
+        },
+        "createdAt": "2020-03-29T19:57:20Z",
+        "lastModifiedAt": "2020-03-01T09:32:24Z"
+      }
+    ]
+  },
+  {
+    "sku": 6891525,
+    "name": "Span",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/6891525?wid=100&hei=100",
+    "price": 7885965,
+    "createdAt": "2019-12-27T01:49:51Z",
+    "lastModifiedAt": "2020-05-23T04:28:21Z",
+    "marketPrices": [
+      {
+        "price": 6369993,
+        "competitorsName": "Jetpulse",
+        "competitorsUrl": "https://addthis.com/nunc/rhoncus/dui/vel/sem/sed/sagittis.aspx",
+        "shippingPrice": {
+          "min": 1649,
+          "máx": 37627
+        },
+        "createdAt": "2020-01-23T02:17:04Z",
+        "lastModifiedAt": "2020-06-02T13:30:29Z"
+      },
+      {
+        "price": 1620724,
+        "competitorsName": "Oyope",
+        "competitorsUrl": "https://dagondesign.com/sapien/cum/sociis/natoque/penatibus/et/magnis.js",
+        "shippingPrice": {
+          "min": 1373,
+          "máx": 25712
+        },
+        "createdAt": "2020-01-05T09:07:58Z",
+        "lastModifiedAt": "2020-03-30T17:55:45Z"
+      }
+    ]
+  },
+  {
+    "sku": 6907874,
+    "name": "Biodex",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/6907874?wid=100&hei=100",
+    "price": 566139,
+    "createdAt": "2020-04-27T23:50:35Z",
+    "lastModifiedAt": "2019-10-28T12:11:44Z",
+    "marketPrices": [
+      {
+        "price": 2082644,
+        "competitorsName": "Jaloo",
+        "competitorsUrl": "http://dedecms.com/id/massa/id.jsp",
+        "shippingPrice": {
+          "min": 1021,
+          "máx": 13869
+        },
+        "createdAt": "2019-11-07T13:42:31Z",
+        "lastModifiedAt": "2019-10-13T00:55:45Z"
+      },
+      {
+        "price": 1183089,
+        "competitorsName": "Meemm",
+        "competitorsUrl": "https://hc360.com/vel/dapibus/at/diam/nam/tristique.json",
+        "shippingPrice": {
+          "min": 1329,
+          "máx": 11433
+        },
+        "createdAt": "2020-04-28T19:58:12Z",
+        "lastModifiedAt": "2020-07-24T08:07:40Z"
+      }
+    ]
+  },
+  {
+    "sku": 8188174,
+    "name": "Ventosanzap",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/8188174?wid=100&hei=100",
+    "price": 8596933,
+    "createdAt": "2019-09-25T03:29:03Z",
+    "lastModifiedAt": "2020-04-29T05:55:54Z",
+    "marketPrices": [
+      {
+        "price": 1201620,
+        "competitorsName": "Muxo",
+        "competitorsUrl": "https://princeton.edu/pretium/iaculis/diam/erat/fermentum.html",
+        "shippingPrice": {
+          "min": 1367,
+          "máx": 17892
+        },
+        "createdAt": "2020-06-01T07:20:39Z",
+        "lastModifiedAt": "2020-05-18T11:17:45Z"
+      },
+      {
+        "price": 2539131,
+        "competitorsName": "Shufflester",
+        "competitorsUrl": "https://bigcartel.com/ut/volutpat/sapien/arcu/sed/augue.js",
+        "shippingPrice": {
+          "min": 1472,
+          "máx": 11284
+        },
+        "createdAt": "2020-01-15T03:43:37Z",
+        "lastModifiedAt": "2020-06-23T06:53:45Z"
+      }
+    ]
+  },
+  {
+    "sku": 7104813,
+    "name": "Y-Solowarm",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/7104813?wid=100&hei=100",
+    "price": 283849,
+    "createdAt": "2020-08-03T08:54:36Z",
+    "lastModifiedAt": "2020-02-08T11:25:48Z",
+    "marketPrices": [
+      {
+        "price": 5060040,
+        "competitorsName": "Vipe",
+        "competitorsUrl": "http://ucoz.ru/mattis/pulvinar/nulla/pede/ullamcorper.json",
+        "shippingPrice": {
+          "min": 770,
+          "máx": 23884
+        },
+        "createdAt": "2020-03-31T01:01:23Z",
+        "lastModifiedAt": "2019-11-13T15:48:19Z"
+      },
+      {
+        "price": 7500233,
+        "competitorsName": "Youtags",
+        "competitorsUrl": "https://domainmarket.com/at/lorem/integer.jsp",
+        "shippingPrice": {
+          "min": 609,
+          "máx": 21188
+        },
+        "createdAt": "2020-04-02T06:02:52Z",
+        "lastModifiedAt": "2020-09-16T01:19:51Z"
+      }
+    ]
+  },
+  {
+    "sku": 6619640,
+    "name": "Ventosanzap",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/6619640?wid=100&hei=100",
+    "price": 925730,
+    "createdAt": "2020-05-22T13:13:34Z",
+    "lastModifiedAt": "2020-06-27T15:00:00Z",
+    "marketPrices": [
+      {
+        "price": 7061747,
+        "competitorsName": "Agimba",
+        "competitorsUrl": "http://house.gov/tristique/est/et/tempus/semper/est.aspx",
+        "shippingPrice": {
+          "min": 1500,
+          "máx": 15620
+        },
+        "createdAt": "2020-07-20T01:08:30Z",
+        "lastModifiedAt": "2020-09-01T02:16:01Z"
+      },
+      {
+        "price": 7211456,
+        "competitorsName": "Blogtag",
+        "competitorsUrl": "https://msn.com/in/felis.png",
+        "shippingPrice": {
+          "min": 1139,
+          "máx": 5385
+        },
+        "createdAt": "2020-02-05T07:41:47Z",
+        "lastModifiedAt": "2020-01-15T16:12:57Z"
+      }
+    ]
+  },
+  {
+    "sku": 8093601,
+    "name": "Holdlamis",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/8093601?wid=100&hei=100",
+    "price": 5276839,
+    "createdAt": "2020-09-22T17:22:58Z",
+    "lastModifiedAt": "2019-10-19T05:10:32Z",
+    "marketPrices": [
+      {
+        "price": 107641,
+        "competitorsName": "Tambee",
+        "competitorsUrl": "http://cyberchimps.com/pellentesque.js",
+        "shippingPrice": {
+          "min": 948,
+          "máx": 14652
+        },
+        "createdAt": "2020-01-29T11:51:02Z",
+        "lastModifiedAt": "2019-09-28T14:39:43Z"
+      },
+      {
+        "price": 5090698,
+        "competitorsName": "Shuffledrive",
+        "competitorsUrl": "https://un.org/ut/massa/volutpat.jsp",
+        "shippingPrice": {
+          "min": 579,
+          "máx": 27466
+        },
+        "createdAt": "2020-02-03T17:10:35Z",
+        "lastModifiedAt": "2020-08-21T20:17:52Z"
+      }
+    ]
+  },
+  {
+    "sku": 8250103,
+    "name": "Veribet",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/8250103?wid=100&hei=100",
+    "price": 2933138,
+    "createdAt": "2020-02-06T10:34:05Z",
+    "lastModifiedAt": "2020-01-19T15:58:09Z",
+    "marketPrices": [
+      {
+        "price": 8383066,
+        "competitorsName": "Trupe",
+        "competitorsUrl": "https://cdbaby.com/vulputate.html",
+        "shippingPrice": {
+          "min": 1188,
+          "máx": 9111
+        },
+        "createdAt": "2020-01-17T07:42:52Z",
+        "lastModifiedAt": "2020-02-12T16:40:31Z"
+      },
+      {
+        "price": 2907568,
+        "competitorsName": "Feednation",
+        "competitorsUrl": "http://walmart.com/rutrum/neque.jsp",
+        "shippingPrice": {
+          "min": 1978,
+          "máx": 38060
+        },
+        "createdAt": "2020-07-08T08:17:35Z",
+        "lastModifiedAt": "2020-04-12T18:30:07Z"
+      }
+    ]
+  },
+  {
+    "sku": 8396863,
+    "name": "Regrant",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/8396863?wid=100&hei=100",
+    "price": 5757972,
+    "createdAt": "2020-01-30T03:29:01Z",
+    "lastModifiedAt": "2020-03-17T18:03:36Z",
+    "marketPrices": [
+      {
+        "price": 4375874,
+        "competitorsName": "Gabvine",
+        "competitorsUrl": "http://amazon.com/dui/nec/nisi/volutpat/eleifend/donec.aspx",
+        "shippingPrice": {
+          "min": 536,
+          "máx": 19957
+        },
+        "createdAt": "2020-06-19T20:54:05Z",
+        "lastModifiedAt": "2019-12-31T14:10:26Z"
+      },
+      {
+        "price": 6774290,
+        "competitorsName": "Edgewire",
+        "competitorsUrl": "http://about.com/nulla/suspendisse/potenti/cras/in/purus.jpg",
+        "shippingPrice": {
+          "min": 1007,
+          "máx": 39785
+        },
+        "createdAt": "2020-02-26T05:55:07Z",
+        "lastModifiedAt": "2020-07-18T12:35:50Z"
+      }
+    ]
+  },
+  {
+    "sku": 7246846,
+    "name": "Flexidy",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/7246846?wid=100&hei=100",
+    "price": 1613051,
+    "createdAt": "2019-10-28T15:31:58Z",
+    "lastModifiedAt": "2019-10-21T22:26:53Z",
+    "marketPrices": [
+      {
+        "price": 4520947,
+        "competitorsName": "Tagpad",
+        "competitorsUrl": "https://godaddy.com/ut/massa/volutpat/convallis.png",
+        "shippingPrice": {
+          "min": 1944,
+          "máx": 5255
+        },
+        "createdAt": "2019-09-25T22:00:59Z",
+        "lastModifiedAt": "2020-07-24T15:47:37Z"
+      },
+      {
+        "price": 7996073,
+        "competitorsName": "Kwinu",
+        "competitorsUrl": "http://bing.com/at/ipsum/ac/tellus/semper.xml",
+        "shippingPrice": {
+          "min": 740,
+          "máx": 21412
+        },
+        "createdAt": "2020-08-05T16:13:12Z",
+        "lastModifiedAt": "2020-01-15T04:49:55Z"
+      }
+    ]
+  },
+  {
+    "sku": 7499708,
+    "name": "Daltfresh",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/7499708?wid=100&hei=100",
+    "price": 6190398,
+    "createdAt": "2020-01-25T13:58:57Z",
+    "lastModifiedAt": "2020-09-15T10:22:25Z",
+    "marketPrices": [
+      {
+        "price": 4648,
+        "competitorsName": "Flipstorm",
+        "competitorsUrl": "http://wunderground.com/viverra/dapibus/nulla/suscipit/ligula/in.png",
+        "shippingPrice": {
+          "min": 571,
+          "máx": 33810
+        },
+        "createdAt": "2019-12-06T00:35:23Z",
+        "lastModifiedAt": "2019-10-08T18:30:01Z"
+      },
+      {
+        "price": 2644700,
+        "competitorsName": "Fiveclub",
+        "competitorsUrl": "https://stumbleupon.com/vestibulum/vestibulum/ante/ipsum/primis/in/faucibus.js",
+        "shippingPrice": {
+          "min": 971,
+          "máx": 35609
+        },
+        "createdAt": "2020-07-10T17:25:21Z",
+        "lastModifiedAt": "2019-11-13T07:30:57Z"
+      }
+    ]
+  },
+  {
+    "sku": 8216255,
+    "name": "Solarbreeze",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/8216255?wid=100&hei=100",
+    "price": 1647705,
+    "createdAt": "2019-12-05T21:03:52Z",
+    "lastModifiedAt": "2020-03-25T01:59:35Z",
+    "marketPrices": [
+      {
+        "price": 2800063,
+        "competitorsName": "Zoombox",
+        "competitorsUrl": "https://jimdo.com/vulputate/luctus/cum/sociis/natoque.json",
+        "shippingPrice": {
+          "min": 1222,
+          "máx": 12181
+        },
+        "createdAt": "2019-10-28T13:55:48Z",
+        "lastModifiedAt": "2020-08-23T21:06:54Z"
+      },
+      {
+        "price": 2022159,
+        "competitorsName": "Topicstorm",
+        "competitorsUrl": "https://cmu.edu/eleifend/pede/libero/quis/orci/nullam/molestie.json",
+        "shippingPrice": {
+          "min": 1802,
+          "máx": 10601
+        },
+        "createdAt": "2020-04-14T03:42:31Z",
+        "lastModifiedAt": "2020-02-07T23:25:05Z"
+      }
+    ]
+  },
+  {
+    "sku": 8044468,
+    "name": "Zathin",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/8044468?wid=100&hei=100",
+    "price": 8053024,
+    "createdAt": "2019-10-10T23:16:35Z",
+    "lastModifiedAt": "2020-04-30T03:22:51Z",
+    "marketPrices": [
+      {
+        "price": 1497314,
+        "competitorsName": "Tagtune",
+        "competitorsUrl": "http://kickstarter.com/odio/consequat/varius/integer/ac/leo/pellentesque.html",
+        "shippingPrice": {
+          "min": 934,
+          "máx": 29772
+        },
+        "createdAt": "2020-06-18T18:51:02Z",
+        "lastModifiedAt": "2020-01-05T01:33:50Z"
+      },
+      {
+        "price": 2331562,
+        "competitorsName": "Jabbersphere",
+        "competitorsUrl": "http://ocn.ne.jp/volutpat/in/congue/etiam.html",
+        "shippingPrice": {
+          "min": 946,
+          "máx": 6874
+        },
+        "createdAt": "2020-06-24T12:48:19Z",
+        "lastModifiedAt": "2020-09-24T12:23:22Z"
+      }
+    ]
+  },
+  {
+    "sku": 7361913,
+    "name": "Bigtax",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/7361913?wid=100&hei=100",
+    "price": 1706009,
+    "createdAt": "2020-04-16T13:20:19Z",
+    "lastModifiedAt": "2020-01-01T10:55:10Z",
+    "marketPrices": [
+      {
+        "price": 2636612,
+        "competitorsName": "Meejo",
+        "competitorsUrl": "http://addthis.com/nunc/proin/at/turpis.html",
+        "shippingPrice": {
+          "min": 1131,
+          "máx": 37477
+        },
+        "createdAt": "2020-08-14T01:02:54Z",
+        "lastModifiedAt": "2019-10-17T16:56:56Z"
+      },
+      {
+        "price": 3769226,
+        "competitorsName": "Zoonoodle",
+        "competitorsUrl": "https://pinterest.com/a/ipsum/integer/a/nibh/in/quis.xml",
+        "shippingPrice": {
+          "min": 1609,
+          "máx": 7594
+        },
+        "createdAt": "2020-09-07T20:20:26Z",
+        "lastModifiedAt": "2020-01-28T02:39:52Z"
+      }
+    ]
+  },
+  {
+    "sku": 8218428,
+    "name": "Transcof",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/8218428?wid=100&hei=100",
+    "price": 1628746,
+    "createdAt": "2020-02-06T16:33:23Z",
+    "lastModifiedAt": "2020-08-05T05:40:02Z",
+    "marketPrices": [
+      {
+        "price": 3849975,
+        "competitorsName": "Wikizz",
+        "competitorsUrl": "http://360.cn/justo/etiam/pretium/iaculis/justo/in.js",
+        "shippingPrice": {
+          "min": 1630,
+          "máx": 23143
+        },
+        "createdAt": "2020-03-12T11:02:25Z",
+        "lastModifiedAt": "2020-02-14T21:29:49Z"
+      },
+      {
+        "price": 2367568,
+        "competitorsName": "Topiczoom",
+        "competitorsUrl": "https://independent.co.uk/erat/eros/viverra/eget/congue.html",
+        "shippingPrice": {
+          "min": 1882,
+          "máx": 8144
+        },
+        "createdAt": "2020-07-12T07:44:28Z",
+        "lastModifiedAt": "2019-10-04T20:23:32Z"
+      }
+    ]
+  },
+  {
+    "sku": 8280699,
+    "name": "Regrant",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/8280699?wid=100&hei=100",
+    "price": 834119,
+    "createdAt": "2020-08-05T12:55:46Z",
+    "lastModifiedAt": "2020-08-18T09:56:42Z",
+    "marketPrices": [
+      {
+        "price": 1416568,
+        "competitorsName": "Kimia",
+        "competitorsUrl": "https://clickbank.net/ipsum/dolor/sit/amet.jsp",
+        "shippingPrice": {
+          "min": 742,
+          "máx": 26342
+        },
+        "createdAt": "2020-06-29T06:59:18Z",
+        "lastModifiedAt": "2019-10-01T14:34:18Z"
+      },
+      {
+        "price": 4191338,
+        "competitorsName": "Cogidoo",
+        "competitorsUrl": "https://nsw.gov.au/quisque.xml",
+        "shippingPrice": {
+          "min": 1977,
+          "máx": 8503
+        },
+        "createdAt": "2019-12-24T15:31:50Z",
+        "lastModifiedAt": "2020-08-24T01:39:35Z"
+      }
+    ]
+  },
+  {
+    "sku": 7934770,
+    "name": "Zathin",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/7934770?wid=100&hei=100",
+    "price": 1514188,
+    "createdAt": "2020-02-23T03:42:36Z",
+    "lastModifiedAt": "2020-08-06T09:47:40Z",
+    "marketPrices": [
+      {
+        "price": 8211743,
+        "competitorsName": "Cogibox",
+        "competitorsUrl": "http://addtoany.com/cursus.js",
+        "shippingPrice": {
+          "min": 1017,
+          "máx": 29625
+        },
+        "createdAt": "2020-03-30T20:20:13Z",
+        "lastModifiedAt": "2020-05-11T21:59:28Z"
+      },
+      {
+        "price": 8476191,
+        "competitorsName": "Shufflester",
+        "competitorsUrl": "https://europa.eu/in/ante.jpg",
+        "shippingPrice": {
+          "min": 1378,
+          "máx": 34993
+        },
+        "createdAt": "2020-04-18T01:57:31Z",
+        "lastModifiedAt": "2020-01-02T10:09:33Z"
+      }
+    ]
+  },
+  {
+    "sku": 8280543,
+    "name": "Subin",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/8280543?wid=100&hei=100",
+    "price": 6325005,
+    "createdAt": "2020-06-21T14:13:48Z",
+    "lastModifiedAt": "2020-05-02T10:50:26Z",
+    "marketPrices": [
+      {
+        "price": 7121023,
+        "competitorsName": "Flashpoint",
+        "competitorsUrl": "https://a8.net/nunc/donec/quis/orci.jsp",
+        "shippingPrice": {
+          "min": 1228,
+          "máx": 31734
+        },
+        "createdAt": "2019-11-09T12:41:15Z",
+        "lastModifiedAt": "2020-08-24T02:29:01Z"
+      },
+      {
+        "price": 5491078,
+        "competitorsName": "Skynoodle",
+        "competitorsUrl": "https://paypal.com/neque/sapien/placerat/ante/nulla/justo.js",
+        "shippingPrice": {
+          "min": 1131,
+          "máx": 38501
+        },
+        "createdAt": "2019-11-21T08:14:46Z",
+        "lastModifiedAt": "2020-05-17T23:39:28Z"
+      }
+    ]
+  },
+  {
+    "sku": 6907351,
+    "name": "Toughjoyfax",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/6907351?wid=100&hei=100",
+    "price": 4163040,
+    "createdAt": "2020-03-20T06:21:21Z",
+    "lastModifiedAt": "2019-09-28T14:53:30Z",
+    "marketPrices": [
+      {
+        "price": 1671277,
+        "competitorsName": "Browsedrive",
+        "competitorsUrl": "https://aol.com/neque.js",
+        "shippingPrice": {
+          "min": 671,
+          "máx": 36059
+        },
+        "createdAt": "2020-09-02T23:52:51Z",
+        "lastModifiedAt": "2020-06-13T14:09:49Z"
+      },
+      {
+        "price": 4087215,
+        "competitorsName": "Twinder",
+        "competitorsUrl": "https://fc2.com/vestibulum.jpg",
+        "shippingPrice": {
+          "min": 543,
+          "máx": 31297
+        },
+        "createdAt": "2020-06-24T11:57:17Z",
+        "lastModifiedAt": "2019-09-26T06:56:52Z"
+      }
+    ]
+  },
+  {
+    "sku": 8250417,
+    "name": "Viva",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/8250417?wid=100&hei=100",
+    "price": 3178417,
+    "createdAt": "2019-12-27T02:45:40Z",
+    "lastModifiedAt": "2020-02-04T04:31:02Z",
+    "marketPrices": [
+      {
+        "price": 8897932,
+        "competitorsName": "Devbug",
+        "competitorsUrl": "http://blogs.com/vitae/ipsum/aliquam/non/mauris/morbi.jpg",
+        "shippingPrice": {
+          "min": 630,
+          "máx": 36370
+        },
+        "createdAt": "2020-04-22T06:52:41Z",
+        "lastModifiedAt": "2020-06-14T05:15:33Z"
+      },
+      {
+        "price": 6548292,
+        "competitorsName": "Browsetype",
+        "competitorsUrl": "http://photobucket.com/elit/proin/interdum/mauris/non.xml",
+        "shippingPrice": {
+          "min": 1577,
+          "máx": 17086
+        },
+        "createdAt": "2019-11-11T05:48:08Z",
+        "lastModifiedAt": "2020-07-18T07:36:17Z"
+      }
+    ]
+  },
+  {
+    "sku": 6912466,
+    "name": "Tempsoft",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/6912466?wid=100&hei=100",
+    "price": 4982344,
+    "createdAt": "2020-04-06T02:31:05Z",
+    "lastModifiedAt": "2020-02-25T11:45:49Z",
+    "marketPrices": [
+      {
+        "price": 125558,
+        "competitorsName": "Snaptags",
+        "competitorsUrl": "http://rambler.ru/dolor/vel/est/donec/odio.aspx",
+        "shippingPrice": {
+          "min": 513,
+          "máx": 10171
+        },
+        "createdAt": "2019-11-30T20:53:32Z",
+        "lastModifiedAt": "2019-12-12T13:33:29Z"
+      },
+      {
+        "price": 4602883,
+        "competitorsName": "Linkbridge",
+        "competitorsUrl": "https://booking.com/eget/congue.jsp",
+        "shippingPrice": {
+          "min": 1203,
+          "máx": 28876
+        },
+        "createdAt": "2020-07-02T14:25:48Z",
+        "lastModifiedAt": "2020-06-10T09:22:55Z"
+      }
+    ]
+  },
+  {
+    "sku": 7278904,
+    "name": "Opela",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/7278904?wid=100&hei=100",
+    "price": 7493948,
+    "createdAt": "2020-09-10T18:05:27Z",
+    "lastModifiedAt": "2019-10-14T23:51:50Z",
+    "marketPrices": [
+      {
+        "price": 8187794,
+        "competitorsName": "Camido",
+        "competitorsUrl": "http://ucoz.com/mattis/egestas/metus/aenean/fermentum/donec.html",
+        "shippingPrice": {
+          "min": 1388,
+          "máx": 35914
+        },
+        "createdAt": "2019-12-14T07:07:25Z",
+        "lastModifiedAt": "2020-03-27T23:42:00Z"
+      },
+      {
+        "price": 1295741,
+        "competitorsName": "Dynazzy",
+        "competitorsUrl": "http://stumbleupon.com/porttitor/lorem/id/ligula.json",
+        "shippingPrice": {
+          "min": 636,
+          "máx": 32692
+        },
+        "createdAt": "2019-11-21T03:07:37Z",
+        "lastModifiedAt": "2019-12-21T15:00:46Z"
+      }
+    ]
+  },
+  {
+    "sku": 8019211,
+    "name": "Flowdesk",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/8019211?wid=100&hei=100",
+    "price": 106056,
+    "createdAt": "2020-02-03T15:55:07Z",
+    "lastModifiedAt": "2020-07-16T20:35:07Z",
+    "marketPrices": [
+      {
+        "price": 1282355,
+        "competitorsName": "Yodoo",
+        "competitorsUrl": "https://archive.org/convallis/duis.xml",
+        "shippingPrice": {
+          "min": 707,
+          "máx": 31835
+        },
+        "createdAt": "2020-09-14T20:11:29Z",
+        "lastModifiedAt": "2019-11-13T22:13:56Z"
+      },
+      {
+        "price": 832602,
+        "competitorsName": "Zoomdog",
+        "competitorsUrl": "http://over-blog.com/sem/duis/aliquam/convallis/nunc.xml",
+        "shippingPrice": {
+          "min": 1366,
+          "máx": 12067
+        },
+        "createdAt": "2020-02-23T02:10:45Z",
+        "lastModifiedAt": "2019-10-20T01:09:52Z"
+      }
+    ]
+  },
+  {
+    "sku": 8216502,
+    "name": "Fintone",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/8216502?wid=100&hei=100",
+    "price": 278879,
+    "createdAt": "2020-08-18T20:27:10Z",
+    "lastModifiedAt": "2019-12-16T01:20:40Z",
+    "marketPrices": [
+      {
+        "price": 5743136,
+        "competitorsName": "Jetpulse",
+        "competitorsUrl": "http://last.fm/odio/donec/vitae/nisi/nam.jpg",
+        "shippingPrice": {
+          "min": 1785,
+          "máx": 10251
+        },
+        "createdAt": "2019-11-17T23:12:44Z",
+        "lastModifiedAt": "2020-06-03T16:05:58Z"
+      },
+      {
+        "price": 6622153,
+        "competitorsName": "Realblab",
+        "competitorsUrl": "https://chronoengine.com/ipsum/ac/tellus/semper/interdum/mauris.js",
+        "shippingPrice": {
+          "min": 1083,
+          "máx": 39986
+        },
+        "createdAt": "2019-09-30T13:38:36Z",
+        "lastModifiedAt": "2020-01-22T22:31:30Z"
+      }
+    ]
+  },
+  {
+    "sku": 6907061,
+    "name": "Wrapsafe",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/6907061?wid=100&hei=100",
+    "price": 4303011,
+    "createdAt": "2020-04-03T05:03:16Z",
+    "lastModifiedAt": "2020-02-01T09:48:49Z",
+    "marketPrices": [
+      {
+        "price": 7547528,
+        "competitorsName": "Edgepulse",
+        "competitorsUrl": "http://drupal.org/elit/sodales.json",
+        "shippingPrice": {
+          "min": 632,
+          "máx": 14349
+        },
+        "createdAt": "2020-01-01T02:34:56Z",
+        "lastModifiedAt": "2020-07-11T16:52:54Z"
+      },
+      {
+        "price": 4517708,
+        "competitorsName": "Zoonder",
+        "competitorsUrl": "https://liveinternet.ru/vitae/nisi/nam.html",
+        "shippingPrice": {
+          "min": 1143,
+          "máx": 36491
+        },
+        "createdAt": "2020-04-04T01:11:45Z",
+        "lastModifiedAt": "2020-06-22T08:44:01Z"
+      }
+    ]
+  },
+  {
+    "sku": 7370046,
+    "name": "Ronstring",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/7370046?wid=100&hei=100",
+    "price": 7989652,
+    "createdAt": "2020-04-07T18:26:52Z",
+    "lastModifiedAt": "2020-07-22T13:56:44Z",
+    "marketPrices": [
+      {
+        "price": 469256,
+        "competitorsName": "Skyba",
+        "competitorsUrl": "http://irs.gov/morbi/vestibulum.js",
+        "shippingPrice": {
+          "min": 1451,
+          "máx": 17718
+        },
+        "createdAt": "2020-03-31T17:46:43Z",
+        "lastModifiedAt": "2020-04-29T09:34:17Z"
+      },
+      {
+        "price": 586948,
+        "competitorsName": "Vinder",
+        "competitorsUrl": "http://paginegialle.it/amet/consectetuer/adipiscing.jpg",
+        "shippingPrice": {
+          "min": 867,
+          "máx": 14997
+        },
+        "createdAt": "2020-09-14T13:49:13Z",
+        "lastModifiedAt": "2020-07-05T12:00:55Z"
+      }
+    ]
+  },
+  {
+    "sku": 6781707,
+    "name": "Zontrax",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/6781707?wid=100&hei=100",
+    "price": 7121068,
+    "createdAt": "2020-04-08T10:05:26Z",
+    "lastModifiedAt": "2020-05-25T00:10:39Z",
+    "marketPrices": [
+      {
+        "price": 8317108,
+        "competitorsName": "Yotz",
+        "competitorsUrl": "http://ycombinator.com/id/sapien/in.jpg",
+        "shippingPrice": {
+          "min": 1092,
+          "máx": 11441
+        },
+        "createdAt": "2020-06-17T05:08:13Z",
+        "lastModifiedAt": "2020-01-24T23:43:34Z"
+      },
+      {
+        "price": 1751058,
+        "competitorsName": "DabZ",
+        "competitorsUrl": "https://webmd.com/egestas/metus/aenean/fermentum/donec.js",
+        "shippingPrice": {
+          "min": 1800,
+          "máx": 8621
+        },
+        "createdAt": "2020-05-27T17:38:25Z",
+        "lastModifiedAt": "2019-10-27T01:02:26Z"
+      }
+    ]
+  },
+  {
+    "sku": 6887890,
+    "name": "Ventosanzap",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/6887890?wid=100&hei=100",
+    "price": 4379726,
+    "createdAt": "2020-08-23T03:12:13Z",
+    "lastModifiedAt": "2020-05-06T20:26:39Z",
+    "marketPrices": [
+      {
+        "price": 5512166,
+        "competitorsName": "Ntag",
+        "competitorsUrl": "http://gmpg.org/rhoncus/mauris/enim.js",
+        "shippingPrice": {
+          "min": 1033,
+          "máx": 38916
+        },
+        "createdAt": "2020-09-14T02:12:16Z",
+        "lastModifiedAt": "2020-01-10T16:04:27Z"
+      },
+      {
+        "price": 610627,
+        "competitorsName": "Flashspan",
+        "competitorsUrl": "http://usatoday.com/blandit/mi.jsp",
+        "shippingPrice": {
+          "min": 896,
+          "máx": 7226
+        },
+        "createdAt": "2020-07-06T16:12:35Z",
+        "lastModifiedAt": "2020-05-28T05:26:41Z"
+      }
+    ]
+  },
+  {
+    "sku": 6901312,
+    "name": "Trippledex",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/6901312?wid=100&hei=100",
+    "price": 1962273,
+    "createdAt": "2020-09-15T03:56:34Z",
+    "lastModifiedAt": "2019-11-01T07:04:49Z",
+    "marketPrices": [
+      {
+        "price": 3039404,
+        "competitorsName": "Fadeo",
+        "competitorsUrl": "http://123-reg.co.uk/at.js",
+        "shippingPrice": {
+          "min": 1099,
+          "máx": 39030
+        },
+        "createdAt": "2020-05-20T09:17:25Z",
+        "lastModifiedAt": "2020-06-14T05:15:24Z"
+      },
+      {
+        "price": 8790096,
+        "competitorsName": "Topicshots",
+        "competitorsUrl": "https://berkeley.edu/mauris/morbi/non/lectus/aliquam.png",
+        "shippingPrice": {
+          "min": 1259,
+          "máx": 25870
+        },
+        "createdAt": "2020-05-09T18:46:36Z",
+        "lastModifiedAt": "2020-06-13T00:01:04Z"
+      }
+    ]
+  },
+  {
+    "sku": 8227884,
+    "name": "Toughjoyfax",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/8227884?wid=100&hei=100",
+    "price": 976505,
+    "createdAt": "2020-01-10T17:56:42Z",
+    "lastModifiedAt": "2020-03-22T15:51:03Z",
+    "marketPrices": [
+      {
+        "price": 2794098,
+        "competitorsName": "Kamba",
+        "competitorsUrl": "https://weather.com/sit/amet.html",
+        "shippingPrice": {
+          "min": 1635,
+          "máx": 33157
+        },
+        "createdAt": "2020-06-29T16:00:53Z",
+        "lastModifiedAt": "2020-03-05T00:37:00Z"
+      },
+      {
+        "price": 8382041,
+        "competitorsName": "Ozu",
+        "competitorsUrl": "http://omniture.com/duis/faucibus/accumsan.js",
+        "shippingPrice": {
+          "min": 1905,
+          "máx": 21881
+        },
+        "createdAt": "2020-07-25T22:14:16Z",
+        "lastModifiedAt": "2020-04-09T01:03:12Z"
+      }
+    ]
+  },
+  {
+    "sku": 6473490,
+    "name": "Stringtough",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/6473490?wid=100&hei=100",
+    "price": 2151574,
+    "createdAt": "2019-11-13T16:17:35Z",
+    "lastModifiedAt": "2019-11-06T22:00:11Z",
+    "marketPrices": [
+      {
+        "price": 6879482,
+        "competitorsName": "Quimm",
+        "competitorsUrl": "https://php.net/ipsum/aliquam/non.aspx",
+        "shippingPrice": {
+          "min": 817,
+          "máx": 11064
+        },
+        "createdAt": "2020-08-25T11:14:56Z",
+        "lastModifiedAt": "2020-04-30T02:02:57Z"
+      },
+      {
+        "price": 4697354,
+        "competitorsName": "Kare",
+        "competitorsUrl": "http://latimes.com/vivamus.jsp",
+        "shippingPrice": {
+          "min": 1020,
+          "máx": 8014
+        },
+        "createdAt": "2019-10-31T16:56:29Z",
+        "lastModifiedAt": "2020-07-06T10:55:38Z"
+      }
+    ]
+  },
+  {
+    "sku": 7111010,
+    "name": "Stim",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/7111010?wid=100&hei=100",
+    "price": 3316288,
+    "createdAt": "2019-12-11T12:03:51Z",
+    "lastModifiedAt": "2020-01-18T06:13:55Z",
+    "marketPrices": [
+      {
+        "price": 7619858,
+        "competitorsName": "Photojam",
+        "competitorsUrl": "http://bluehost.com/tempus/semper.js",
+        "shippingPrice": {
+          "min": 1199,
+          "máx": 38324
+        },
+        "createdAt": "2020-09-12T13:14:50Z",
+        "lastModifiedAt": "2020-04-07T03:59:05Z"
+      },
+      {
+        "price": 8395022,
+        "competitorsName": "Skipstorm",
+        "competitorsUrl": "https://amazon.com/platea/dictumst/maecenas/ut.png",
+        "shippingPrice": {
+          "min": 1074,
+          "máx": 12686
+        },
+        "createdAt": "2020-05-20T23:34:51Z",
+        "lastModifiedAt": "2020-09-21T16:47:44Z"
+      }
+    ]
+  },
+  {
+    "sku": 6987248,
+    "name": "Otcom",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/6987248?wid=100&hei=100",
+    "price": 5550878,
+    "createdAt": "2020-06-20T17:07:10Z",
+    "lastModifiedAt": "2019-11-26T13:58:45Z",
+    "marketPrices": [
+      {
+        "price": 8585924,
+        "competitorsName": "Browsezoom",
+        "competitorsUrl": "http://rakuten.co.jp/pellentesque/ultrices/phasellus/id.jpg",
+        "shippingPrice": {
+          "min": 1062,
+          "máx": 22407
+        },
+        "createdAt": "2020-08-21T22:11:30Z",
+        "lastModifiedAt": "2020-04-01T15:47:24Z"
+      },
+      {
+        "price": 7321971,
+        "competitorsName": "InnoZ",
+        "competitorsUrl": "https://shinystat.com/lorem.xml",
+        "shippingPrice": {
+          "min": 1914,
+          "máx": 22486
+        },
+        "createdAt": "2020-05-17T08:36:36Z",
+        "lastModifiedAt": "2020-06-02T19:20:18Z"
+      }
+    ]
+  },
+  {
+    "sku": 6624857,
+    "name": "Keylex",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/6624857?wid=100&hei=100",
+    "price": 4992696,
+    "createdAt": "2020-03-15T02:04:01Z",
+    "lastModifiedAt": "2020-01-08T12:33:45Z",
+    "marketPrices": [
+      {
+        "price": 3376741,
+        "competitorsName": "Jaxbean",
+        "competitorsUrl": "http://geocities.com/aliquam/sit/amet/diam/in/magna/bibendum.jpg",
+        "shippingPrice": {
+          "min": 788,
+          "máx": 23349
+        },
+        "createdAt": "2020-08-17T17:43:31Z",
+        "lastModifiedAt": "2019-10-10T00:46:44Z"
+      },
+      {
+        "price": 8298095,
+        "competitorsName": "Quatz",
+        "competitorsUrl": "http://salon.com/pede/posuere/nonummy.png",
+        "shippingPrice": {
+          "min": 918,
+          "máx": 20366
+        },
+        "createdAt": "2020-01-01T00:27:09Z",
+        "lastModifiedAt": "2020-01-18T02:22:35Z"
+      }
+    ]
+  },
+  {
+    "sku": 6781697,
+    "name": "Tampflex",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/6781697?wid=100&hei=100",
+    "price": 4042494,
+    "createdAt": "2020-04-14T15:12:46Z",
+    "lastModifiedAt": "2019-12-12T21:03:29Z",
+    "marketPrices": [
+      {
+        "price": 4772243,
+        "competitorsName": "Browsebug",
+        "competitorsUrl": "https://deliciousdays.com/cras/pellentesque/volutpat/dui/maecenas/tristique/est.html",
+        "shippingPrice": {
+          "min": 1245,
+          "máx": 15112
+        },
+        "createdAt": "2020-04-07T12:12:00Z",
+        "lastModifiedAt": "2019-11-21T13:46:42Z"
+      },
+      {
+        "price": 846329,
+        "competitorsName": "Centimia",
+        "competitorsUrl": "https://google.com.br/est/lacinia/nisi/venenatis/tristique.xml",
+        "shippingPrice": {
+          "min": 1920,
+          "máx": 11297
+        },
+        "createdAt": "2020-08-15T08:13:55Z",
+        "lastModifiedAt": "2019-10-15T03:36:46Z"
+      }
+    ]
+  },
+  {
+    "sku": 8044470,
+    "name": "Redhold",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/8044470?wid=100&hei=100",
+    "price": 3392007,
+    "createdAt": "2020-07-07T09:45:45Z",
+    "lastModifiedAt": "2020-08-29T22:03:08Z",
+    "marketPrices": [
+      {
+        "price": 6179089,
+        "competitorsName": "Kazu",
+        "competitorsUrl": "https://google.es/nunc/commodo/placerat/praesent/blandit/nam/nulla.json",
+        "shippingPrice": {
+          "min": 599,
+          "máx": 26481
+        },
+        "createdAt": "2020-08-15T14:25:44Z",
+        "lastModifiedAt": "2019-10-15T11:25:54Z"
+      },
+      {
+        "price": 3014327,
+        "competitorsName": "Youbridge",
+        "competitorsUrl": "http://last.fm/dui/vel/nisl/duis/ac/nibh/fusce.png",
+        "shippingPrice": {
+          "min": 1043,
+          "máx": 8677
+        },
+        "createdAt": "2020-02-29T21:53:50Z",
+        "lastModifiedAt": "2020-08-09T23:05:18Z"
+      }
+    ]
+  },
+  {
+    "sku": 7110956,
+    "name": "Fixflex",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/7110956?wid=100&hei=100",
+    "price": 4274294,
+    "createdAt": "2020-08-26T03:38:46Z",
+    "lastModifiedAt": "2020-09-18T23:21:10Z",
+    "marketPrices": [
+      {
+        "price": 7215975,
+        "competitorsName": "Fatz",
+        "competitorsUrl": "http://zdnet.com/sapien/quis/libero/nullam/sit/amet/turpis.html",
+        "shippingPrice": {
+          "min": 615,
+          "máx": 5275
+        },
+        "createdAt": "2019-12-15T07:28:21Z",
+        "lastModifiedAt": "2020-06-28T01:18:48Z"
+      },
+      {
+        "price": 5991941,
+        "competitorsName": "Feedfire",
+        "competitorsUrl": "https://newyorker.com/ipsum/ac.js",
+        "shippingPrice": {
+          "min": 768,
+          "máx": 6267
+        },
+        "createdAt": "2019-10-19T20:20:09Z",
+        "lastModifiedAt": "2020-08-23T16:32:24Z"
+      }
+    ]
+  },
+  {
+    "sku": 7246457,
+    "name": "Stringtough",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/7246457?wid=100&hei=100",
+    "price": 3115924,
+    "createdAt": "2020-02-08T05:36:00Z",
+    "lastModifiedAt": "2020-08-18T02:50:12Z",
+    "marketPrices": [
+      {
+        "price": 1455059,
+        "competitorsName": "Zoovu",
+        "competitorsUrl": "https://sun.com/massa/quis/augue/luctus.html",
+        "shippingPrice": {
+          "min": 1363,
+          "máx": 18493
+        },
+        "createdAt": "2020-08-07T19:15:36Z",
+        "lastModifiedAt": "2020-03-08T01:41:32Z"
+      },
+      {
+        "price": 7905839,
+        "competitorsName": "Miboo",
+        "competitorsUrl": "https://epa.gov/eleifend/quam/a/odio.png",
+        "shippingPrice": {
+          "min": 1675,
+          "máx": 17793
+        },
+        "createdAt": "2020-05-12T19:34:45Z",
+        "lastModifiedAt": "2019-12-22T12:06:55Z"
+      }
+    ]
+  },
+  {
+    "sku": 6887881,
+    "name": "Keylex",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/6887881?wid=100&hei=100",
+    "price": 8332924,
+    "createdAt": "2020-03-16T03:48:32Z",
+    "lastModifiedAt": "2020-09-20T21:25:36Z",
+    "marketPrices": [
+      {
+        "price": 1002572,
+        "competitorsName": "Aibox",
+        "competitorsUrl": "https://wikia.com/ut/nunc/vestibulum.html",
+        "shippingPrice": {
+          "min": 1136,
+          "máx": 6846
+        },
+        "createdAt": "2019-11-16T09:04:27Z",
+        "lastModifiedAt": "2020-08-02T08:27:07Z"
+      },
+      {
+        "price": 6432506,
+        "competitorsName": "Skynoodle",
+        "competitorsUrl": "https://berkeley.edu/accumsan/tellus/nisi/eu.jsp",
+        "shippingPrice": {
+          "min": 870,
+          "máx": 5352
+        },
+        "createdAt": "2019-11-20T08:51:44Z",
+        "lastModifiedAt": "2020-09-09T11:38:10Z"
+      }
+    ]
+  },
+  {
+    "sku": 881750390,
+    "name": "Latlux",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/881750390?wid=100&hei=100",
+    "price": 2534481,
+    "createdAt": "2020-01-22T07:48:26Z",
+    "lastModifiedAt": "2020-02-17T09:26:51Z",
+    "marketPrices": [
+      {
+        "price": 2267902,
+        "competitorsName": "Zoomzone",
+        "competitorsUrl": "http://state.tx.us/etiam/vel/augue.png",
+        "shippingPrice": {
+          "min": 669,
+          "máx": 33769
+        },
+        "createdAt": "2019-12-05T11:41:26Z",
+        "lastModifiedAt": "2020-06-26T01:15:25Z"
+      },
+      {
+        "price": 7889298,
+        "competitorsName": "Blogtag",
+        "competitorsUrl": "http://mediafire.com/non/mi/integer/ac/neque/duis.jpg",
+        "shippingPrice": {
+          "min": 735,
+          "máx": 23150
+        },
+        "createdAt": "2020-05-06T01:30:36Z",
+        "lastModifiedAt": "2019-10-28T18:13:09Z"
+      }
+    ]
+  },
+  {
+    "sku": 8250072,
+    "name": "Asoka",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/8250072?wid=100&hei=100",
+    "price": 7360682,
+    "createdAt": "2020-08-11T09:35:13Z",
+    "lastModifiedAt": "2020-08-07T18:34:16Z",
+    "marketPrices": [
+      {
+        "price": 1857895,
+        "competitorsName": "Linktype",
+        "competitorsUrl": "https://ycombinator.com/eu/mi/nulla/ac/enim/in/tempor.json",
+        "shippingPrice": {
+          "min": 722,
+          "máx": 16025
+        },
+        "createdAt": "2020-08-12T12:46:24Z",
+        "lastModifiedAt": "2020-06-30T13:07:51Z"
+      },
+      {
+        "price": 2400375,
+        "competitorsName": "Quatz",
+        "competitorsUrl": "http://state.gov/nulla/sed/accumsan/felis.html",
+        "shippingPrice": {
+          "min": 731,
+          "máx": 35144
+        },
+        "createdAt": "2019-10-10T21:25:57Z",
+        "lastModifiedAt": "2019-11-15T07:09:22Z"
+      }
+    ]
+  },
+  {
+    "sku": 6890620,
+    "name": "Vagram",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/6890620?wid=100&hei=100",
+    "price": 7159975,
+    "createdAt": "2020-01-30T08:29:35Z",
+    "lastModifiedAt": "2020-04-10T15:37:04Z",
+    "marketPrices": [
+      {
+        "price": 659758,
+        "competitorsName": "Livetube",
+        "competitorsUrl": "https://dot.gov/in/quam/fringilla/rhoncus/mauris/enim.html",
+        "shippingPrice": {
+          "min": 1711,
+          "máx": 10234
+        },
+        "createdAt": "2020-08-31T13:35:23Z",
+        "lastModifiedAt": "2020-07-09T05:54:24Z"
+      },
+      {
+        "price": 7503862,
+        "competitorsName": "Tagcat",
+        "competitorsUrl": "https://sphinn.com/sollicitudin/vitae/consectetuer/eget/rutrum/at/lorem.aspx",
+        "shippingPrice": {
+          "min": 1232,
+          "máx": 28201
+        },
+        "createdAt": "2020-04-14T13:37:23Z",
+        "lastModifiedAt": "2020-06-18T14:28:42Z"
+      }
+    ]
+  },
+  {
+    "sku": 8003906,
+    "name": "Job",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/8003906?wid=100&hei=100",
+    "price": 9019,
+    "createdAt": "2020-04-12T00:47:20Z",
+    "lastModifiedAt": "2020-06-28T04:52:12Z",
+    "marketPrices": [
+      {
+        "price": 5422437,
+        "competitorsName": "Photobug",
+        "competitorsUrl": "https://statcounter.com/quisque/arcu/libero/rutrum/ac/lobortis.png",
+        "shippingPrice": {
+          "min": 1680,
+          "máx": 38180
+        },
+        "createdAt": "2020-01-29T02:39:42Z",
+        "lastModifiedAt": "2020-04-15T10:36:38Z"
+      },
+      {
+        "price": 7472453,
+        "competitorsName": "Browsetype",
+        "competitorsUrl": "https://free.fr/pretium/nisl/ut/volutpat/sapien/arcu/sed.aspx",
+        "shippingPrice": {
+          "min": 1298,
+          "máx": 39821
+        },
+        "createdAt": "2020-08-19T16:12:38Z",
+        "lastModifiedAt": "2020-08-16T10:58:49Z"
+      }
+    ]
+  },
+  {
+    "sku": 6912460,
+    "name": "Namfix",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/6912460?wid=100&hei=100",
+    "price": 4669084,
+    "createdAt": "2020-09-19T06:56:31Z",
+    "lastModifiedAt": "2020-03-24T12:15:03Z",
+    "marketPrices": [
+      {
+        "price": 267032,
+        "competitorsName": "Jabbercube",
+        "competitorsUrl": "http://phpbb.com/lacus/at/velit/vivamus/vel.aspx",
+        "shippingPrice": {
+          "min": 1421,
+          "máx": 33297
+        },
+        "createdAt": "2019-12-20T15:15:40Z",
+        "lastModifiedAt": "2019-11-24T14:51:23Z"
+      },
+      {
+        "price": 355673,
+        "competitorsName": "Nlounge",
+        "competitorsUrl": "http://pcworld.com/amet/lobortis/sapien/sapien/non/mi/integer.aspx",
+        "shippingPrice": {
+          "min": 564,
+          "máx": 10012
+        },
+        "createdAt": "2019-11-21T21:49:36Z",
+        "lastModifiedAt": "2020-09-19T15:27:59Z"
+      }
+    ]
+  },
+  {
+    "sku": 6889140,
+    "name": "Ronstring",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/6889140?wid=100&hei=100",
+    "price": 5497620,
+    "createdAt": "2019-12-07T19:47:42Z",
+    "lastModifiedAt": "2019-09-28T17:42:31Z",
+    "marketPrices": [
+      {
+        "price": 7128028,
+        "competitorsName": "Centizu",
+        "competitorsUrl": "https://harvard.edu/sit/amet/sapien/dignissim/vestibulum.jpg",
+        "shippingPrice": {
+          "min": 1961,
+          "máx": 12643
+        },
+        "createdAt": "2020-08-29T10:27:41Z",
+        "lastModifiedAt": "2019-12-22T10:26:41Z"
+      },
+      {
+        "price": 3991693,
+        "competitorsName": "Trunyx",
+        "competitorsUrl": "https://vistaprint.com/lacus/morbi/sem/mauris/laoreet/ut/rhoncus.jpg",
+        "shippingPrice": {
+          "min": 1636,
+          "máx": 29075
+        },
+        "createdAt": "2020-02-26T13:46:04Z",
+        "lastModifiedAt": "2019-12-30T15:31:39Z"
+      }
+    ]
+  },
+  {
+    "sku": 6910405,
+    "name": "Cookley",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/6910405?wid=100&hei=100",
+    "price": 5540736,
+    "createdAt": "2020-01-14T11:43:55Z",
+    "lastModifiedAt": "2020-06-26T20:20:27Z",
+    "marketPrices": [
+      {
+        "price": 4154325,
+        "competitorsName": "Browsetype",
+        "competitorsUrl": "https://google.co.uk/dolor/sit/amet.json",
+        "shippingPrice": {
+          "min": 1390,
+          "máx": 23937
+        },
+        "createdAt": "2020-04-23T17:55:05Z",
+        "lastModifiedAt": "2020-07-28T17:34:45Z"
+      },
+      {
+        "price": 2915752,
+        "competitorsName": "Topicblab",
+        "competitorsUrl": "https://tripod.com/metus/arcu/adipiscing/molestie/hendrerit/at/vulputate.jsp",
+        "shippingPrice": {
+          "min": 1760,
+          "máx": 33690
+        },
+        "createdAt": "2020-01-24T20:17:13Z",
+        "lastModifiedAt": "2020-04-29T08:55:06Z"
+      }
+    ]
+  },
+  {
+    "sku": 5112153,
+    "name": "Bigtax",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/5112153?wid=100&hei=100",
+    "price": 2522764,
+    "createdAt": "2020-04-15T02:12:31Z",
+    "lastModifiedAt": "2019-12-23T11:48:05Z",
+    "marketPrices": [
+      {
+        "price": 5878212,
+        "competitorsName": "Thoughtstorm",
+        "competitorsUrl": "http://walmart.com/pede/ullamcorper/augue.json",
+        "shippingPrice": {
+          "min": 1203,
+          "máx": 36377
+        },
+        "createdAt": "2020-05-14T14:57:10Z",
+        "lastModifiedAt": "2020-02-28T06:22:18Z"
+      },
+      {
+        "price": 8551750,
+        "competitorsName": "Jabbersphere",
+        "competitorsUrl": "https://diigo.com/phasellus/in/felis.jpg",
+        "shippingPrice": {
+          "min": 1182,
+          "máx": 27452
+        },
+        "createdAt": "2019-12-08T19:53:55Z",
+        "lastModifiedAt": "2020-05-30T13:02:32Z"
+      }
+    ]
+  },
+  {
+    "sku": 7110925,
+    "name": "Alpha",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/7110925?wid=100&hei=100",
+    "price": 5807045,
+    "createdAt": "2019-10-30T17:26:55Z",
+    "lastModifiedAt": "2019-11-23T05:30:58Z",
+    "marketPrices": [
+      {
+        "price": 2733359,
+        "competitorsName": "Demimbu",
+        "competitorsUrl": "http://cpanel.net/vestibulum/ac/est/lacinia/nisi/venenatis/tristique.jpg",
+        "shippingPrice": {
+          "min": 945,
+          "máx": 12375
+        },
+        "createdAt": "2020-07-23T07:57:34Z",
+        "lastModifiedAt": "2020-07-19T11:40:24Z"
+      },
+      {
+        "price": 3333411,
+        "competitorsName": "Mynte",
+        "competitorsUrl": "https://skype.com/vivamus/tortor/duis/mattis.xml",
+        "shippingPrice": {
+          "min": 1008,
+          "máx": 38918
+        },
+        "createdAt": "2020-06-28T09:29:26Z",
+        "lastModifiedAt": "2019-10-31T15:46:05Z"
+      }
+    ]
+  },
+  {
+    "sku": 7110992,
+    "name": "Y-find",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/7110992?wid=100&hei=100",
+    "price": 3806035,
+    "createdAt": "2020-09-19T03:29:47Z",
+    "lastModifiedAt": "2020-06-11T19:47:30Z",
+    "marketPrices": [
+      {
+        "price": 5531869,
+        "competitorsName": "Eabox",
+        "competitorsUrl": "http://bizjournals.com/justo/in/hac/habitasse/platea.png",
+        "shippingPrice": {
+          "min": 1643,
+          "máx": 20958
+        },
+        "createdAt": "2019-10-26T22:38:14Z",
+        "lastModifiedAt": "2020-06-03T06:45:16Z"
+      },
+      {
+        "price": 2891295,
+        "competitorsName": "Topicshots",
+        "competitorsUrl": "https://yelp.com/vitae.jpg",
+        "shippingPrice": {
+          "min": 1582,
+          "máx": 27671
+        },
+        "createdAt": "2020-01-22T12:29:27Z",
+        "lastModifiedAt": "2020-07-24T20:44:33Z"
+      }
+    ]
+  },
+  {
+    "sku": 8216579,
+    "name": "Job",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/8216579?wid=100&hei=100",
+    "price": 2416022,
+    "createdAt": "2020-01-18T10:02:46Z",
+    "lastModifiedAt": "2019-12-05T23:59:13Z",
+    "marketPrices": [
+      {
+        "price": 2345000,
+        "competitorsName": "Jetpulse",
+        "competitorsUrl": "http://reuters.com/nulla/facilisi/cras/non/velit/nec.jsp",
+        "shippingPrice": {
+          "min": 1053,
+          "máx": 21505
+        },
+        "createdAt": "2020-09-12T13:45:13Z",
+        "lastModifiedAt": "2020-05-24T22:18:44Z"
+      },
+      {
+        "price": 2528289,
+        "competitorsName": "Oba",
+        "competitorsUrl": "http://quantcast.com/semper/sapien.png",
+        "shippingPrice": {
+          "min": 610,
+          "máx": 22591
+        },
+        "createdAt": "2020-02-18T11:39:29Z",
+        "lastModifiedAt": "2020-09-16T13:22:15Z"
+      }
+    ]
+  },
+  {
+    "sku": 7468283,
+    "name": "Daltfresh",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/7468283?wid=100&hei=100",
+    "price": 6943050,
+    "createdAt": "2020-08-30T19:39:37Z",
+    "lastModifiedAt": "2020-05-31T07:58:09Z",
+    "marketPrices": [
+      {
+        "price": 3636279,
+        "competitorsName": "Dabvine",
+        "competitorsUrl": "http://discuz.net/montes/nascetur/ridiculus.aspx",
+        "shippingPrice": {
+          "min": 1901,
+          "máx": 16481
+        },
+        "createdAt": "2020-05-16T14:51:57Z",
+        "lastModifiedAt": "2020-06-10T02:13:29Z"
+      },
+      {
+        "price": 1124322,
+        "competitorsName": "Yakijo",
+        "competitorsUrl": "https://ted.com/blandit/mi.js",
+        "shippingPrice": {
+          "min": 1703,
+          "máx": 36551
+        },
+        "createdAt": "2020-08-18T06:02:42Z",
+        "lastModifiedAt": "2020-03-24T20:00:32Z"
+      }
+    ]
+  },
+  {
+    "sku": 7391488,
+    "name": "Ronstring",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/7391488?wid=100&hei=100",
+    "price": 5674825,
+    "createdAt": "2019-11-15T19:17:12Z",
+    "lastModifiedAt": "2020-08-23T10:52:00Z",
+    "marketPrices": [
+      {
+        "price": 2866586,
+        "competitorsName": "Katz",
+        "competitorsUrl": "https://bloglines.com/sit/amet/sapien/dignissim.js",
+        "shippingPrice": {
+          "min": 526,
+          "máx": 16995
+        },
+        "createdAt": "2019-09-30T01:34:16Z",
+        "lastModifiedAt": "2020-06-01T02:51:50Z"
+      },
+      {
+        "price": 3344232,
+        "competitorsName": "Divavu",
+        "competitorsUrl": "http://columbia.edu/luctus/ultricies.jpg",
+        "shippingPrice": {
+          "min": 1461,
+          "máx": 19585
+        },
+        "createdAt": "2020-03-17T19:35:46Z",
+        "lastModifiedAt": "2020-01-04T11:51:22Z"
+      }
+    ]
+  },
+  {
+    "sku": 8284007,
+    "name": "Otcom",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/8284007?wid=100&hei=100",
+    "price": 166886,
+    "createdAt": "2020-08-26T18:59:02Z",
+    "lastModifiedAt": "2020-02-12T10:17:36Z",
+    "marketPrices": [
+      {
+        "price": 2441337,
+        "competitorsName": "Jazzy",
+        "competitorsUrl": "http://theguardian.com/in.js",
+        "shippingPrice": {
+          "min": 555,
+          "máx": 14622
+        },
+        "createdAt": "2020-09-23T07:45:24Z",
+        "lastModifiedAt": "2020-04-23T04:41:58Z"
+      },
+      {
+        "price": 3693171,
+        "competitorsName": "Blogspan",
+        "competitorsUrl": "http://hhs.gov/donec/vitae/nisi.xml",
+        "shippingPrice": {
+          "min": 1959,
+          "máx": 11842
+        },
+        "createdAt": "2020-07-24T19:35:45Z",
+        "lastModifiedAt": "2020-04-25T16:00:25Z"
+      }
+    ]
+  },
+  {
+    "sku": 6894402,
+    "name": "Kanlam",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/6894402?wid=100&hei=100",
+    "price": 1981451,
+    "createdAt": "2020-07-04T15:00:41Z",
+    "lastModifiedAt": "2020-06-27T06:06:44Z",
+    "marketPrices": [
+      {
+        "price": 1720300,
+        "competitorsName": "Innotype",
+        "competitorsUrl": "https://amazon.com/dolor.xml",
+        "shippingPrice": {
+          "min": 1370,
+          "máx": 13575
+        },
+        "createdAt": "2020-02-22T15:17:08Z",
+        "lastModifiedAt": "2020-01-29T19:37:03Z"
+      },
+      {
+        "price": 8680118,
+        "competitorsName": "Vinder",
+        "competitorsUrl": "http://google.co.uk/curae/duis/faucibus/accumsan/odio/curabitur.jsp",
+        "shippingPrice": {
+          "min": 564,
+          "máx": 19205
+        },
+        "createdAt": "2020-07-15T20:33:08Z",
+        "lastModifiedAt": "2019-11-27T16:30:05Z"
+      }
+    ]
+  },
+  {
+    "sku": 8279351,
+    "name": "Asoka",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/8279351?wid=100&hei=100",
+    "price": 6681134,
+    "createdAt": "2020-01-09T18:24:15Z",
+    "lastModifiedAt": "2019-12-14T17:21:11Z",
+    "marketPrices": [
+      {
+        "price": 7923172,
+        "competitorsName": "Browsecat",
+        "competitorsUrl": "https://smh.com.au/cubilia/curae/donec/pharetra.jsp",
+        "shippingPrice": {
+          "min": 1611,
+          "máx": 18292
+        },
+        "createdAt": "2020-01-25T16:25:38Z",
+        "lastModifiedAt": "2020-01-21T08:30:38Z"
+      },
+      {
+        "price": 1995173,
+        "competitorsName": "Jazzy",
+        "competitorsUrl": "http://opera.com/maecenas/rhoncus/aliquam/lacus/morbi.json",
+        "shippingPrice": {
+          "min": 1136,
+          "máx": 10360
+        },
+        "createdAt": "2019-12-13T13:54:04Z",
+        "lastModifiedAt": "2020-01-01T23:46:19Z"
+      }
+    ]
+  },
+  {
+    "sku": 6925101,
+    "name": "Zoolab",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/6925101?wid=100&hei=100",
+    "price": 1618912,
+    "createdAt": "2019-10-16T22:14:52Z",
+    "lastModifiedAt": "2020-04-01T12:04:02Z",
+    "marketPrices": [
+      {
+        "price": 2456204,
+        "competitorsName": "Skiptube",
+        "competitorsUrl": "http://theguardian.com/odio/porttitor/id/consequat/in/consequat/ut.html",
+        "shippingPrice": {
+          "min": 562,
+          "máx": 6628
+        },
+        "createdAt": "2019-10-22T10:36:29Z",
+        "lastModifiedAt": "2020-04-08T13:54:58Z"
+      },
+      {
+        "price": 1111989,
+        "competitorsName": "Centizu",
+        "competitorsUrl": "http://edublogs.org/viverra/dapibus/nulla/suscipit.aspx",
+        "shippingPrice": {
+          "min": 534,
+          "máx": 21293
+        },
+        "createdAt": "2020-01-20T12:59:42Z",
+        "lastModifiedAt": "2020-06-27T03:35:19Z"
+      }
+    ]
+  },
+  {
+    "sku": 5292800,
+    "name": "Hatity",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/5292800?wid=100&hei=100",
+    "price": 5525759,
+    "createdAt": "2020-04-30T12:41:11Z",
+    "lastModifiedAt": "2020-03-02T13:02:20Z",
+    "marketPrices": [
+      {
+        "price": 4117705,
+        "competitorsName": "Kwimbee",
+        "competitorsUrl": "https://cafepress.com/nulla/suscipit/ligula/in.jpg",
+        "shippingPrice": {
+          "min": 1835,
+          "máx": 12095
+        },
+        "createdAt": "2020-04-15T03:55:17Z",
+        "lastModifiedAt": "2020-03-18T14:16:55Z"
+      },
+      {
+        "price": 3023807,
+        "competitorsName": "Camido",
+        "competitorsUrl": "https://netvibes.com/auctor/gravida/sem/praesent/id.jpg",
+        "shippingPrice": {
+          "min": 1893,
+          "máx": 15465
+        },
+        "createdAt": "2020-01-24T09:18:20Z",
+        "lastModifiedAt": "2020-01-09T13:40:35Z"
+      }
+    ]
+  },
+  {
+    "sku": 6887884,
+    "name": "Overhold",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/6887884?wid=100&hei=100",
+    "price": 1117434,
+    "createdAt": "2020-04-12T07:54:13Z",
+    "lastModifiedAt": "2020-06-17T16:21:32Z",
+    "marketPrices": [
+      {
+        "price": 8917401,
+        "competitorsName": "Feedfish",
+        "competitorsUrl": "https://prnewswire.com/suspendisse/potenti/in/eleifend/quam.js",
+        "shippingPrice": {
+          "min": 1903,
+          "máx": 12402
+        },
+        "createdAt": "2020-08-26T00:32:51Z",
+        "lastModifiedAt": "2020-04-26T20:14:18Z"
+      },
+      {
+        "price": 3442818,
+        "competitorsName": "Yodel",
+        "competitorsUrl": "https://twitpic.com/non.html",
+        "shippingPrice": {
+          "min": 572,
+          "máx": 5785
+        },
+        "createdAt": "2020-07-11T08:01:12Z",
+        "lastModifiedAt": "2020-04-18T10:57:40Z"
+      }
+    ]
+  },
+  {
+    "sku": 8130768,
+    "name": "Home Ing",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/8130768?wid=100&hei=100",
+    "price": 2975638,
+    "createdAt": "2020-07-11T21:40:00Z",
+    "lastModifiedAt": "2020-06-07T08:05:44Z",
+    "marketPrices": [
+      {
+        "price": 4337951,
+        "competitorsName": "Geba",
+        "competitorsUrl": "http://blogs.com/nunc/donec/quis/orci/eget/orci/vehicula.png",
+        "shippingPrice": {
+          "min": 1432,
+          "máx": 16731
+        },
+        "createdAt": "2020-06-22T17:02:28Z",
+        "lastModifiedAt": "2020-08-12T18:29:37Z"
+      },
+      {
+        "price": 7003192,
+        "competitorsName": "Quinu",
+        "competitorsUrl": "https://ted.com/sagittis/sapien.jsp",
+        "shippingPrice": {
+          "min": 1001,
+          "máx": 17438
+        },
+        "createdAt": "2020-07-06T17:32:20Z",
+        "lastModifiedAt": "2020-04-28T01:24:10Z"
+      }
+    ]
+  },
+  {
+    "sku": 8235483,
+    "name": "Rank",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/8235483?wid=100&hei=100",
+    "price": 580572,
+    "createdAt": "2019-12-31T19:57:23Z",
+    "lastModifiedAt": "2020-02-10T02:18:41Z",
+    "marketPrices": [
+      {
+        "price": 7153998,
+        "competitorsName": "Quimba",
+        "competitorsUrl": "https://wordpress.com/congue/eget/semper/rutrum/nulla.png",
+        "shippingPrice": {
+          "min": 1708,
+          "máx": 9773
+        },
+        "createdAt": "2020-07-03T11:09:40Z",
+        "lastModifiedAt": "2020-07-10T14:12:40Z"
+      },
+      {
+        "price": 7203079,
+        "competitorsName": "Omba",
+        "competitorsUrl": "https://netscape.com/justo.jpg",
+        "shippingPrice": {
+          "min": 1110,
+          "máx": 33116
+        },
+        "createdAt": "2020-06-03T02:05:55Z",
+        "lastModifiedAt": "2020-04-29T12:17:13Z"
+      }
+    ]
+  },
+  {
+    "sku": 8064949,
+    "name": "Bigtax",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/8064949?wid=100&hei=100",
+    "price": 1185918,
+    "createdAt": "2020-09-20T05:37:05Z",
+    "lastModifiedAt": "2020-08-21T01:31:49Z",
+    "marketPrices": [
+      {
+        "price": 4398455,
+        "competitorsName": "Roombo",
+        "competitorsUrl": "http://google.de/mattis/nibh.jpg",
+        "shippingPrice": {
+          "min": 1637,
+          "máx": 34470
+        },
+        "createdAt": "2020-04-01T19:17:47Z",
+        "lastModifiedAt": "2020-08-08T11:47:12Z"
+      },
+      {
+        "price": 3906079,
+        "competitorsName": "Minyx",
+        "competitorsUrl": "https://comcast.net/ultrices/posuere/cubilia/curae/donec.html",
+        "shippingPrice": {
+          "min": 637,
+          "máx": 15320
+        },
+        "createdAt": "2020-08-01T10:22:49Z",
+        "lastModifiedAt": "2019-12-06T18:21:24Z"
+      }
+    ]
+  },
+  {
+    "sku": 7110976,
+    "name": "Viva",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/7110976?wid=100&hei=100",
+    "price": 6773952,
+    "createdAt": "2020-04-20T03:14:21Z",
+    "lastModifiedAt": "2019-10-10T09:56:24Z",
+    "marketPrices": [
+      {
+        "price": 4197594,
+        "competitorsName": "Abatz",
+        "competitorsUrl": "http://ifeng.com/justo/sit/amet.js",
+        "shippingPrice": {
+          "min": 1094,
+          "máx": 26325
+        },
+        "createdAt": "2020-04-26T08:09:46Z",
+        "lastModifiedAt": "2020-02-26T23:12:42Z"
+      },
+      {
+        "price": 2169858,
+        "competitorsName": "Ntag",
+        "competitorsUrl": "http://theglobeandmail.com/dapibus.aspx",
+        "shippingPrice": {
+          "min": 1386,
+          "máx": 23886
+        },
+        "createdAt": "2019-12-14T09:34:59Z",
+        "lastModifiedAt": "2020-03-29T06:33:15Z"
+      }
+    ]
+  },
+  {
+    "sku": 8216422,
+    "name": "Hatity",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/8216422?wid=100&hei=100",
+    "price": 3906814,
+    "createdAt": "2020-03-31T17:35:51Z",
+    "lastModifiedAt": "2019-09-27T22:29:47Z",
+    "marketPrices": [
+      {
+        "price": 8013746,
+        "competitorsName": "Tekfly",
+        "competitorsUrl": "https://opensource.org/platea/dictumst/morbi/vestibulum/velit/id.jsp",
+        "shippingPrice": {
+          "min": 1281,
+          "máx": 31539
+        },
+        "createdAt": "2020-05-07T16:56:41Z",
+        "lastModifiedAt": "2020-02-21T00:52:59Z"
+      },
+      {
+        "price": 3040508,
+        "competitorsName": "Kaymbo",
+        "competitorsUrl": "http://vinaora.com/posuere/nonummy/integer/non/velit/donec/diam.js",
+        "shippingPrice": {
+          "min": 808,
+          "máx": 19246
+        },
+        "createdAt": "2019-11-06T16:47:33Z",
+        "lastModifiedAt": "2020-04-18T14:58:15Z"
+      }
+    ]
+  },
+  {
+    "sku": 6625357,
+    "name": "Bitwolf",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/6625357?wid=100&hei=100",
+    "price": 2415182,
+    "createdAt": "2020-09-15T07:58:57Z",
+    "lastModifiedAt": "2019-10-29T22:50:55Z",
+    "marketPrices": [
+      {
+        "price": 4401741,
+        "competitorsName": "Yabox",
+        "competitorsUrl": "http://unicef.org/consequat/metus/sapien/ut.js",
+        "shippingPrice": {
+          "min": 1939,
+          "máx": 18292
+        },
+        "createdAt": "2020-08-13T09:36:38Z",
+        "lastModifiedAt": "2020-08-12T09:56:20Z"
+      },
+      {
+        "price": 2646594,
+        "competitorsName": "Blognation",
+        "competitorsUrl": "https://wp.com/ante.js",
+        "shippingPrice": {
+          "min": 640,
+          "máx": 38304
+        },
+        "createdAt": "2019-11-23T04:03:50Z",
+        "lastModifiedAt": "2020-05-23T12:06:28Z"
+      }
+    ]
+  },
+  {
+    "sku": 8225807,
+    "name": "Greenlam",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/8225807?wid=100&hei=100",
+    "price": 380551,
+    "createdAt": "2019-12-29T04:18:43Z",
+    "lastModifiedAt": "2020-02-21T16:52:40Z",
+    "marketPrices": [
+      {
+        "price": 4917452,
+        "competitorsName": "Zoomlounge",
+        "competitorsUrl": "https://pagesperso-orange.fr/curabitur/gravida/nisi/at/nibh.html",
+        "shippingPrice": {
+          "min": 1564,
+          "máx": 18066
+        },
+        "createdAt": "2020-08-28T19:05:13Z",
+        "lastModifiedAt": "2019-11-11T01:56:17Z"
+      },
+      {
+        "price": 4873956,
+        "competitorsName": "Tagpad",
+        "competitorsUrl": "http://trellian.com/mauris/viverra.xml",
+        "shippingPrice": {
+          "min": 772,
+          "máx": 34749
+        },
+        "createdAt": "2020-08-29T15:07:39Z",
+        "lastModifiedAt": "2020-03-16T20:49:39Z"
+      }
+    ]
+  },
+  {
+    "sku": 8318723,
+    "name": "Fixflex",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/8318723?wid=100&hei=100",
+    "price": 8369117,
+    "createdAt": "2020-07-29T04:56:59Z",
+    "lastModifiedAt": "2020-08-01T06:35:53Z",
+    "marketPrices": [
+      {
+        "price": 6876416,
+        "competitorsName": "Meevee",
+        "competitorsUrl": "http://slate.com/quis/lectus/suspendisse/potenti.html",
+        "shippingPrice": {
+          "min": 1026,
+          "máx": 38140
+        },
+        "createdAt": "2020-06-20T16:38:28Z",
+        "lastModifiedAt": "2020-01-24T02:56:08Z"
+      },
+      {
+        "price": 565405,
+        "competitorsName": "Izio",
+        "competitorsUrl": "http://dot.gov/donec/ut/mauris/eget/massa/tempor/convallis.html",
+        "shippingPrice": {
+          "min": 1555,
+          "máx": 25521
+        },
+        "createdAt": "2020-05-14T05:50:53Z",
+        "lastModifiedAt": "2019-10-05T13:01:27Z"
+      }
+    ]
+  },
+  {
+    "sku": 6301583,
+    "name": "Zathin",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/6301583?wid=100&hei=100",
+    "price": 1617404,
+    "createdAt": "2019-12-31T05:52:36Z",
+    "lastModifiedAt": "2020-06-30T07:21:11Z",
+    "marketPrices": [
+      {
+        "price": 8031604,
+        "competitorsName": "Jabbersphere",
+        "competitorsUrl": "https://independent.co.uk/nulla/mollis/molestie/lorem/quisque/ut/erat.jpg",
+        "shippingPrice": {
+          "min": 748,
+          "máx": 30881
+        },
+        "createdAt": "2020-05-12T14:29:19Z",
+        "lastModifiedAt": "2020-03-26T14:00:03Z"
+      },
+      {
+        "price": 7431506,
+        "competitorsName": "Oyondu",
+        "competitorsUrl": "https://shutterfly.com/magna/vestibulum/aliquet/ultrices/erat/tortor.jsp",
+        "shippingPrice": {
+          "min": 1639,
+          "máx": 11274
+        },
+        "createdAt": "2019-11-24T05:31:50Z",
+        "lastModifiedAt": "2020-03-30T10:28:19Z"
+      }
+    ]
+  },
+  {
+    "sku": 6878250,
+    "name": "Bytecard",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/6878250?wid=100&hei=100",
+    "price": 3144989,
+    "createdAt": "2019-12-27T16:12:36Z",
+    "lastModifiedAt": "2020-05-03T00:51:52Z",
+    "marketPrices": [
+      {
+        "price": 6352158,
+        "competitorsName": "Browsedrive",
+        "competitorsUrl": "https://chronoengine.com/ac/nibh/fusce/lacus.xml",
+        "shippingPrice": {
+          "min": 1738,
+          "máx": 12632
+        },
+        "createdAt": "2020-06-24T22:05:36Z",
+        "lastModifiedAt": "2019-10-29T20:00:13Z"
+      },
+      {
+        "price": 7197594,
+        "competitorsName": "Rhyloo",
+        "competitorsUrl": "https://list-manage.com/congue.json",
+        "shippingPrice": {
+          "min": 1164,
+          "máx": 31717
+        },
+        "createdAt": "2019-12-12T03:03:19Z",
+        "lastModifiedAt": "2020-08-16T01:42:00Z"
+      }
+    ]
+  },
+  {
+    "sku": 7391512,
+    "name": "Bamity",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/7391512?wid=100&hei=100",
+    "price": 7420088,
+    "createdAt": "2020-06-18T07:22:22Z",
+    "lastModifiedAt": "2020-01-25T00:32:53Z",
+    "marketPrices": [
+      {
+        "price": 4195674,
+        "competitorsName": "Yakidoo",
+        "competitorsUrl": "https://utexas.edu/odio.aspx",
+        "shippingPrice": {
+          "min": 1921,
+          "máx": 37562
+        },
+        "createdAt": "2019-12-04T14:53:01Z",
+        "lastModifiedAt": "2020-08-16T08:40:31Z"
+      },
+      {
+        "price": 3717280,
+        "competitorsName": "Rhybox",
+        "competitorsUrl": "http://liveinternet.ru/consequat/ut/nulla/sed/accumsan.jpg",
+        "shippingPrice": {
+          "min": 841,
+          "máx": 8154
+        },
+        "createdAt": "2020-01-24T10:51:46Z",
+        "lastModifiedAt": "2020-05-12T12:10:47Z"
+      }
+    ]
+  },
+  {
+    "sku": 8283942,
+    "name": "Konklab",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/8283942?wid=100&hei=100",
+    "price": 5718983,
+    "createdAt": "2019-10-31T04:41:23Z",
+    "lastModifiedAt": "2019-11-13T03:56:48Z",
+    "marketPrices": [
+      {
+        "price": 6642278,
+        "competitorsName": "Reallinks",
+        "competitorsUrl": "http://delicious.com/praesent/blandit/lacinia.png",
+        "shippingPrice": {
+          "min": 1531,
+          "máx": 29556
+        },
+        "createdAt": "2020-06-18T12:01:15Z",
+        "lastModifiedAt": "2020-01-10T22:29:27Z"
+      },
+      {
+        "price": 5990534,
+        "competitorsName": "Twitternation",
+        "competitorsUrl": "http://hibu.com/orci.png",
+        "shippingPrice": {
+          "min": 965,
+          "máx": 10892
+        },
+        "createdAt": "2020-01-17T07:04:29Z",
+        "lastModifiedAt": "2020-04-08T10:48:27Z"
+      }
+    ]
+  },
+  {
+    "sku": 7079924,
+    "name": "Sub-Ex",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/7079924?wid=100&hei=100",
+    "price": 7432067,
+    "createdAt": "2020-07-08T03:02:50Z",
+    "lastModifiedAt": "2020-09-20T23:27:42Z",
+    "marketPrices": [
+      {
+        "price": 131135,
+        "competitorsName": "Kanoodle",
+        "competitorsUrl": "http://comsenz.com/molestie.json",
+        "shippingPrice": {
+          "min": 753,
+          "máx": 27177
+        },
+        "createdAt": "2020-06-17T09:09:08Z",
+        "lastModifiedAt": "2019-11-17T22:19:10Z"
+      },
+      {
+        "price": 6284421,
+        "competitorsName": "Buzzbean",
+        "competitorsUrl": "http://youtu.be/leo/odio/porttitor/id/consequat.jpg",
+        "shippingPrice": {
+          "min": 943,
+          "máx": 24094
+        },
+        "createdAt": "2019-11-18T01:19:51Z",
+        "lastModifiedAt": "2020-09-16T20:28:50Z"
+      }
+    ]
+  },
+  {
+    "sku": 6922283,
+    "name": "Zaam-Dox",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/6922283?wid=100&hei=100",
+    "price": 1513116,
+    "createdAt": "2019-12-22T04:26:41Z",
+    "lastModifiedAt": "2020-03-25T07:38:51Z",
+    "marketPrices": [
+      {
+        "price": 4003313,
+        "competitorsName": "Jetwire",
+        "competitorsUrl": "https://360.cn/in/sapien/iaculis.xml",
+        "shippingPrice": {
+          "min": 1747,
+          "máx": 15545
+        },
+        "createdAt": "2020-07-20T17:22:02Z",
+        "lastModifiedAt": "2020-04-26T01:07:41Z"
+      },
+      {
+        "price": 7778852,
+        "competitorsName": "Bubblebox",
+        "competitorsUrl": "http://cnn.com/nisl/aenean/lectus/pellentesque/eget.jsp",
+        "shippingPrice": {
+          "min": 1520,
+          "máx": 18752
+        },
+        "createdAt": "2020-09-18T18:30:46Z",
+        "lastModifiedAt": "2020-04-04T13:10:53Z"
+      }
+    ]
+  },
+  {
+    "sku": 6624861,
+    "name": "Zathin",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/6624861?wid=100&hei=100",
+    "price": 1993655,
+    "createdAt": "2020-02-21T02:48:15Z",
+    "lastModifiedAt": "2019-11-28T02:28:38Z",
+    "marketPrices": [
+      {
+        "price": 5605492,
+        "competitorsName": "Topicshots",
+        "competitorsUrl": "http://elpais.com/felis/sed/interdum/venenatis/turpis/enim.json",
+        "shippingPrice": {
+          "min": 1116,
+          "máx": 35067
+        },
+        "createdAt": "2019-10-21T20:44:38Z",
+        "lastModifiedAt": "2020-06-07T14:28:21Z"
+      },
+      {
+        "price": 3972134,
+        "competitorsName": "Yacero",
+        "competitorsUrl": "https://google.com.hk/nisi/nam.png",
+        "shippingPrice": {
+          "min": 1114,
+          "máx": 34258
+        },
+        "createdAt": "2020-02-24T12:25:47Z",
+        "lastModifiedAt": "2020-04-14T01:00:42Z"
+      }
+    ]
+  },
+  {
+    "sku": 8213369,
+    "name": "Prodder",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/8213369?wid=100&hei=100",
+    "price": 8997908,
+    "createdAt": "2019-10-29T22:22:18Z",
+    "lastModifiedAt": "2019-10-13T20:22:48Z",
+    "marketPrices": [
+      {
+        "price": 2219947,
+        "competitorsName": "Jaxworks",
+        "competitorsUrl": "http://people.com.cn/massa/tempor/convallis/nulla/neque/libero/convallis.js",
+        "shippingPrice": {
+          "min": 1028,
+          "máx": 26669
+        },
+        "createdAt": "2020-07-05T18:13:28Z",
+        "lastModifiedAt": "2019-12-19T06:00:58Z"
+      },
+      {
+        "price": 2168137,
+        "competitorsName": "DabZ",
+        "competitorsUrl": "https://biblegateway.com/suscipit/a.jpg",
+        "shippingPrice": {
+          "min": 1889,
+          "máx": 29615
+        },
+        "createdAt": "2020-05-14T06:34:40Z",
+        "lastModifiedAt": "2020-03-09T23:29:00Z"
+      }
+    ]
+  },
+  {
+    "sku": 8188202,
+    "name": "Tin",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/8188202?wid=100&hei=100",
+    "price": 1211268,
+    "createdAt": "2020-05-03T15:04:32Z",
+    "lastModifiedAt": "2019-10-26T01:56:24Z",
+    "marketPrices": [
+      {
+        "price": 2017319,
+        "competitorsName": "Wikizz",
+        "competitorsUrl": "http://buzzfeed.com/sapien/urna/pretium/nisl.xml",
+        "shippingPrice": {
+          "min": 975,
+          "máx": 24286
+        },
+        "createdAt": "2020-02-04T23:47:36Z",
+        "lastModifiedAt": "2019-09-29T20:25:17Z"
+      },
+      {
+        "price": 1233370,
+        "competitorsName": "Thoughtstorm",
+        "competitorsUrl": "http://dagondesign.com/elementum/nullam.js",
+        "shippingPrice": {
+          "min": 753,
+          "máx": 28597
+        },
+        "createdAt": "2020-04-07T16:56:46Z",
+        "lastModifiedAt": "2020-02-15T04:25:16Z"
+      }
+    ]
+  },
+  {
+    "sku": 7110927,
+    "name": "Gembucket",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/7110927?wid=100&hei=100",
+    "price": 3368603,
+    "createdAt": "2020-02-04T02:11:34Z",
+    "lastModifiedAt": "2020-04-03T08:54:25Z",
+    "marketPrices": [
+      {
+        "price": 8298696,
+        "competitorsName": "Riffpath",
+        "competitorsUrl": "https://de.vu/enim/leo/rhoncus/sed/vestibulum.png",
+        "shippingPrice": {
+          "min": 1227,
+          "máx": 24321
+        },
+        "createdAt": "2020-01-25T14:26:34Z",
+        "lastModifiedAt": "2020-08-12T05:04:20Z"
+      },
+      {
+        "price": 865532,
+        "competitorsName": "Dabvine",
+        "competitorsUrl": "http://usda.gov/ac/enim/in/tempor/turpis/nec/euismod.xml",
+        "shippingPrice": {
+          "min": 1055,
+          "máx": 23017
+        },
+        "createdAt": "2019-10-30T02:24:34Z",
+        "lastModifiedAt": "2020-06-04T12:40:08Z"
+      }
+    ]
+  },
+  {
+    "sku": 7370051,
+    "name": "Ventosanzap",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/7370051?wid=100&hei=100",
+    "price": 7175165,
+    "createdAt": "2020-02-23T21:59:25Z",
+    "lastModifiedAt": "2019-11-11T15:39:49Z",
+    "marketPrices": [
+      {
+        "price": 3062442,
+        "competitorsName": "Kayveo",
+        "competitorsUrl": "https://stanford.edu/eget/massa/tempor/convallis/nulla/neque.json",
+        "shippingPrice": {
+          "min": 1709,
+          "máx": 33597
+        },
+        "createdAt": "2020-06-12T04:58:59Z",
+        "lastModifiedAt": "2020-04-27T19:26:09Z"
+      },
+      {
+        "price": 3490231,
+        "competitorsName": "Chatterbridge",
+        "competitorsUrl": "http://pagesperso-orange.fr/nulla.jpg",
+        "shippingPrice": {
+          "min": 887,
+          "máx": 26809
+        },
+        "createdAt": "2020-06-27T19:58:08Z",
+        "lastModifiedAt": "2020-06-05T08:23:22Z"
+      }
+    ]
+  },
+  {
+    "sku": 6907365,
+    "name": "Wrapsafe",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/6907365?wid=100&hei=100",
+    "price": 3525986,
+    "createdAt": "2019-10-21T21:58:23Z",
+    "lastModifiedAt": "2019-12-26T23:54:48Z",
+    "marketPrices": [
+      {
+        "price": 123987,
+        "competitorsName": "Aivee",
+        "competitorsUrl": "http://cisco.com/duis/consequat/dui/nec/nisi/volutpat/eleifend.json",
+        "shippingPrice": {
+          "min": 1644,
+          "máx": 9839
+        },
+        "createdAt": "2020-04-30T05:55:51Z",
+        "lastModifiedAt": "2020-06-08T07:42:34Z"
+      },
+      {
+        "price": 3644581,
+        "competitorsName": "Gabvine",
+        "competitorsUrl": "https://blog.com/sit/amet/sapien/dignissim.jsp",
+        "shippingPrice": {
+          "min": 1649,
+          "máx": 39389
+        },
+        "createdAt": "2020-05-25T23:25:19Z",
+        "lastModifiedAt": "2020-02-22T17:51:31Z"
+      }
+    ]
+  },
+  {
+    "sku": 881750384,
+    "name": "Ronstring",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/881750384?wid=100&hei=100",
+    "price": 1362237,
+    "createdAt": "2019-12-26T08:21:39Z",
+    "lastModifiedAt": "2020-06-01T16:42:23Z",
+    "marketPrices": [
+      {
+        "price": 7650784,
+        "competitorsName": "Brainlounge",
+        "competitorsUrl": "https://storify.com/mauris/non/ligula/pellentesque/ultrices.aspx",
+        "shippingPrice": {
+          "min": 509,
+          "máx": 24892
+        },
+        "createdAt": "2020-05-11T03:59:28Z",
+        "lastModifiedAt": "2020-01-31T12:07:31Z"
+      },
+      {
+        "price": 6290593,
+        "competitorsName": "Yata",
+        "competitorsUrl": "http://redcross.org/phasellus.html",
+        "shippingPrice": {
+          "min": 690,
+          "máx": 35327
+        },
+        "createdAt": "2020-04-14T01:27:17Z",
+        "lastModifiedAt": "2020-04-11T20:21:05Z"
+      }
+    ]
+  },
+  {
+    "sku": 8114294,
+    "name": "Zontrax",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/8114294?wid=100&hei=100",
+    "price": 2668895,
+    "createdAt": "2020-06-19T02:34:25Z",
+    "lastModifiedAt": "2019-11-08T06:33:09Z",
+    "marketPrices": [
+      {
+        "price": 7048172,
+        "competitorsName": "Avaveo",
+        "competitorsUrl": "http://cyberchimps.com/nunc/viverra/dapibus/nulla.json",
+        "shippingPrice": {
+          "min": 955,
+          "máx": 8503
+        },
+        "createdAt": "2020-09-04T00:34:19Z",
+        "lastModifiedAt": "2020-03-01T22:39:01Z"
+      },
+      {
+        "price": 3424629,
+        "competitorsName": "Vinder",
+        "competitorsUrl": "https://simplemachines.org/nisl/nunc/rhoncus/dui/vel/sem.png",
+        "shippingPrice": {
+          "min": 1046,
+          "máx": 34116
+        },
+        "createdAt": "2020-01-29T09:20:13Z",
+        "lastModifiedAt": "2020-04-09T10:18:48Z"
+      }
+    ]
+  },
+  {
+    "sku": 3647648,
+    "name": "Solarbreeze",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/3647648?wid=100&hei=100",
+    "price": 7120192,
+    "createdAt": "2020-04-11T04:06:41Z",
+    "lastModifiedAt": "2019-09-30T03:39:31Z",
+    "marketPrices": [
+      {
+        "price": 8801688,
+        "competitorsName": "Yombu",
+        "competitorsUrl": "http://google.ru/platea/dictumst/maecenas/ut/massa/quis/augue.jpg",
+        "shippingPrice": {
+          "min": 1903,
+          "máx": 17067
+        },
+        "createdAt": "2019-10-14T05:04:09Z",
+        "lastModifiedAt": "2020-05-18T08:22:26Z"
+      },
+      {
+        "price": 4791151,
+        "competitorsName": "Nlounge",
+        "competitorsUrl": "https://gravatar.com/rutrum/ac/lobortis/vel/dapibus/at/diam.jsp",
+        "shippingPrice": {
+          "min": 1389,
+          "máx": 32996
+        },
+        "createdAt": "2020-07-26T09:52:59Z",
+        "lastModifiedAt": "2020-08-28T09:49:06Z"
+      }
+    ]
+  },
+  {
+    "sku": 6409648,
+    "name": "Daltfresh",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/6409648?wid=100&hei=100",
+    "price": 4714116,
+    "createdAt": "2019-12-18T13:52:54Z",
+    "lastModifiedAt": "2020-03-27T05:31:08Z",
+    "marketPrices": [
+      {
+        "price": 6364969,
+        "competitorsName": "Jayo",
+        "competitorsUrl": "https://drupal.org/fusce/lacus/purus/aliquet/at.png",
+        "shippingPrice": {
+          "min": 1328,
+          "máx": 6539
+        },
+        "createdAt": "2019-12-14T13:16:32Z",
+        "lastModifiedAt": "2020-08-14T14:10:06Z"
+      },
+      {
+        "price": 4021629,
+        "competitorsName": "Innotype",
+        "competitorsUrl": "https://npr.org/nulla/tellus.png",
+        "shippingPrice": {
+          "min": 1853,
+          "máx": 20073
+        },
+        "createdAt": "2020-07-25T23:25:26Z",
+        "lastModifiedAt": "2020-07-23T14:18:07Z"
+      }
+    ]
+  },
+  {
+    "sku": 6283670,
+    "name": "Ventosanzap",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/6283670?wid=100&hei=100",
+    "price": 8182612,
+    "createdAt": "2020-05-30T09:06:07Z",
+    "lastModifiedAt": "2020-03-12T10:25:54Z",
+    "marketPrices": [
+      {
+        "price": 3662097,
+        "competitorsName": "Tagfeed",
+        "competitorsUrl": "https://creativecommons.org/habitasse.jsp",
+        "shippingPrice": {
+          "min": 1857,
+          "máx": 29436
+        },
+        "createdAt": "2020-05-02T12:12:54Z",
+        "lastModifiedAt": "2020-01-19T03:33:31Z"
+      },
+      {
+        "price": 5733343,
+        "competitorsName": "Centizu",
+        "competitorsUrl": "https://cisco.com/ultrices/libero/non/mattis/pulvinar/nulla/pede.js",
+        "shippingPrice": {
+          "min": 715,
+          "máx": 6108
+        },
+        "createdAt": "2019-11-30T06:27:18Z",
+        "lastModifiedAt": "2020-06-14T15:23:52Z"
+      }
+    ]
+  },
+  {
+    "sku": 6917433,
+    "name": "Konklux",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/6917433?wid=100&hei=100",
+    "price": 1873796,
+    "createdAt": "2019-12-14T18:25:11Z",
+    "lastModifiedAt": "2020-02-17T10:52:27Z",
+    "marketPrices": [
+      {
+        "price": 8760490,
+        "competitorsName": "Oyonder",
+        "competitorsUrl": "http://about.com/non/quam/nec/dui/luctus/rutrum.html",
+        "shippingPrice": {
+          "min": 510,
+          "máx": 12162
+        },
+        "createdAt": "2020-05-03T02:22:33Z",
+        "lastModifiedAt": "2020-03-30T07:43:28Z"
+      },
+      {
+        "price": 1654846,
+        "competitorsName": "Katz",
+        "competitorsUrl": "https://istockphoto.com/elementum/nullam/varius/nulla/facilisi/cras.aspx",
+        "shippingPrice": {
+          "min": 1743,
+          "máx": 30824
+        },
+        "createdAt": "2020-04-11T09:52:51Z",
+        "lastModifiedAt": "2020-03-09T04:40:42Z"
+      }
+    ]
+  },
+  {
+    "sku": 7188020,
+    "name": "Fix San",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/7188020?wid=100&hei=100",
+    "price": 4099466,
+    "createdAt": "2019-12-11T04:04:06Z",
+    "lastModifiedAt": "2019-10-31T23:04:50Z",
+    "marketPrices": [
+      {
+        "price": 8449268,
+        "competitorsName": "Abatz",
+        "competitorsUrl": "http://prnewswire.com/suspendisse/accumsan/tortor/quis/turpis.html",
+        "shippingPrice": {
+          "min": 1660,
+          "máx": 20550
+        },
+        "createdAt": "2020-02-15T07:00:42Z",
+        "lastModifiedAt": "2019-10-14T15:36:35Z"
+      },
+      {
+        "price": 5853856,
+        "competitorsName": "Rhyzio",
+        "competitorsUrl": "https://cyberchimps.com/enim/in/tempor/turpis/nec.png",
+        "shippingPrice": {
+          "min": 1951,
+          "máx": 18498
+        },
+        "createdAt": "2019-11-10T06:34:29Z",
+        "lastModifiedAt": "2019-11-24T03:56:02Z"
+      }
+    ]
+  },
+  {
+    "sku": 7110938,
+    "name": "Stronghold",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/7110938?wid=100&hei=100",
+    "price": 8738082,
+    "createdAt": "2020-04-06T23:17:54Z",
+    "lastModifiedAt": "2019-11-22T12:25:27Z",
+    "marketPrices": [
+      {
+        "price": 8378113,
+        "competitorsName": "Ailane",
+        "competitorsUrl": "https://unc.edu/nibh/ligula/nec/sem.jsp",
+        "shippingPrice": {
+          "min": 807,
+          "máx": 7918
+        },
+        "createdAt": "2019-11-10T04:35:26Z",
+        "lastModifiedAt": "2019-11-13T20:09:59Z"
+      },
+      {
+        "price": 366704,
+        "competitorsName": "Yombu",
+        "competitorsUrl": "http://bloglines.com/nunc/rhoncus.png",
+        "shippingPrice": {
+          "min": 1570,
+          "máx": 21909
+        },
+        "createdAt": "2020-09-19T16:49:48Z",
+        "lastModifiedAt": "2019-10-05T02:03:59Z"
+      }
+    ]
+  },
+  {
+    "sku": 7088692,
+    "name": "Pannier",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/7088692?wid=100&hei=100",
+    "price": 3330764,
+    "createdAt": "2020-06-05T07:13:33Z",
+    "lastModifiedAt": "2019-10-04T09:31:05Z",
+    "marketPrices": [
+      {
+        "price": 532483,
+        "competitorsName": "Pixoboo",
+        "competitorsUrl": "http://bigcartel.com/dui/vel/nisl/duis.xml",
+        "shippingPrice": {
+          "min": 1826,
+          "máx": 34439
+        },
+        "createdAt": "2020-03-25T19:27:47Z",
+        "lastModifiedAt": "2020-03-30T02:36:19Z"
+      },
+      {
+        "price": 606607,
+        "competitorsName": "Edgeify",
+        "competitorsUrl": "https://microsoft.com/maecenas/pulvinar.html",
+        "shippingPrice": {
+          "min": 1597,
+          "máx": 16740
+        },
+        "createdAt": "2019-12-14T09:57:37Z",
+        "lastModifiedAt": "2020-05-24T07:17:18Z"
+      }
+    ]
+  },
+  {
+    "sku": 7495241,
+    "name": "Stronghold",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/7495241?wid=100&hei=100",
+    "price": 3969844,
+    "createdAt": "2020-09-08T02:02:03Z",
+    "lastModifiedAt": "2020-06-10T12:44:47Z",
+    "marketPrices": [
+      {
+        "price": 665376,
+        "competitorsName": "Kwimbee",
+        "competitorsUrl": "http://toplist.cz/duis/consequat/dui.html",
+        "shippingPrice": {
+          "min": 1345,
+          "máx": 17471
+        },
+        "createdAt": "2019-12-07T16:22:19Z",
+        "lastModifiedAt": "2019-11-03T06:30:42Z"
+      },
+      {
+        "price": 6174201,
+        "competitorsName": "Jabbersphere",
+        "competitorsUrl": "https://altervista.org/pulvinar/sed/nisl.xml",
+        "shippingPrice": {
+          "min": 1645,
+          "máx": 6948
+        },
+        "createdAt": "2020-01-31T14:56:00Z",
+        "lastModifiedAt": "2020-01-05T13:31:38Z"
+      }
+    ]
+  },
+  {
+    "sku": 881621247,
+    "name": "Domainer",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/881621247?wid=100&hei=100",
+    "price": 5136815,
+    "createdAt": "2020-02-10T20:57:42Z",
+    "lastModifiedAt": "2019-12-29T15:50:32Z",
+    "marketPrices": [
+      {
+        "price": 3248957,
+        "competitorsName": "Youbridge",
+        "competitorsUrl": "https://purevolume.com/cursus.aspx",
+        "shippingPrice": {
+          "min": 946,
+          "máx": 34580
+        },
+        "createdAt": "2020-06-05T02:20:07Z",
+        "lastModifiedAt": "2020-07-24T02:47:06Z"
+      },
+      {
+        "price": 2437797,
+        "competitorsName": "Kanoodle",
+        "competitorsUrl": "https://nba.com/vestibulum/eget.png",
+        "shippingPrice": {
+          "min": 1425,
+          "máx": 18674
+        },
+        "createdAt": "2019-12-12T15:40:27Z",
+        "lastModifiedAt": "2020-05-15T12:05:51Z"
+      }
+    ]
+  },
+  {
+    "sku": 6621176,
+    "name": "Biodex",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/6621176?wid=100&hei=100",
+    "price": 7033869,
+    "createdAt": "2020-08-12T19:27:39Z",
+    "lastModifiedAt": "2020-06-12T18:05:44Z",
+    "marketPrices": [
+      {
+        "price": 1772322,
+        "competitorsName": "Lazz",
+        "competitorsUrl": "https://tmall.com/erat/fermentum/justo.png",
+        "shippingPrice": {
+          "min": 924,
+          "máx": 12566
+        },
+        "createdAt": "2020-04-08T15:34:02Z",
+        "lastModifiedAt": "2020-04-18T20:53:43Z"
+      },
+      {
+        "price": 8534954,
+        "competitorsName": "Dabvine",
+        "competitorsUrl": "http://time.com/in/hac/habitasse/platea/dictumst/etiam.js",
+        "shippingPrice": {
+          "min": 1376,
+          "máx": 17994
+        },
+        "createdAt": "2020-04-29T12:03:19Z",
+        "lastModifiedAt": "2020-06-23T10:53:11Z"
+      }
+    ]
+  },
+  {
+    "sku": 881562248,
+    "name": "Holdlamis",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/881562248?wid=100&hei=100",
+    "price": 8816193,
+    "createdAt": "2020-01-03T02:14:03Z",
+    "lastModifiedAt": "2020-08-16T21:11:11Z",
+    "marketPrices": [
+      {
+        "price": 4764401,
+        "competitorsName": "Youtags",
+        "competitorsUrl": "https://comcast.net/duis/at.js",
+        "shippingPrice": {
+          "min": 1013,
+          "máx": 29110
+        },
+        "createdAt": "2019-10-25T18:40:49Z",
+        "lastModifiedAt": "2020-04-25T08:07:08Z"
+      },
+      {
+        "price": 7192035,
+        "competitorsName": "Avamm",
+        "competitorsUrl": "http://utexas.edu/ultrices.png",
+        "shippingPrice": {
+          "min": 695,
+          "máx": 11448
+        },
+        "createdAt": "2019-10-20T06:36:40Z",
+        "lastModifiedAt": "2020-05-06T23:50:02Z"
+      }
+    ]
+  },
+  {
+    "sku": 881062728,
+    "name": "Tin",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/881062728?wid=100&hei=100",
+    "price": 5668795,
+    "createdAt": "2020-02-03T11:03:30Z",
+    "lastModifiedAt": "2020-06-03T16:30:07Z",
+    "marketPrices": [
+      {
+        "price": 8374361,
+        "competitorsName": "Kanoodle",
+        "competitorsUrl": "http://delicious.com/accumsan.jsp",
+        "shippingPrice": {
+          "min": 1684,
+          "máx": 8446
+        },
+        "createdAt": "2020-07-19T04:07:28Z",
+        "lastModifiedAt": "2020-08-02T02:34:14Z"
+      },
+      {
+        "price": 1389446,
+        "competitorsName": "Zooxo",
+        "competitorsUrl": "http://oaic.gov.au/orci/mauris/lacinia/sapien/quis.js",
+        "shippingPrice": {
+          "min": 983,
+          "máx": 27222
+        },
+        "createdAt": "2020-02-13T06:55:34Z",
+        "lastModifiedAt": "2019-12-02T14:13:21Z"
+      }
+    ]
+  },
+  {
+    "sku": 6907355,
+    "name": "Home Ing",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/6907355?wid=100&hei=100",
+    "price": 1801359,
+    "createdAt": "2020-07-17T05:55:08Z",
+    "lastModifiedAt": "2020-01-12T03:24:01Z",
+    "marketPrices": [
+      {
+        "price": 101633,
+        "competitorsName": "Zoombeat",
+        "competitorsUrl": "https://1688.com/magnis/dis/parturient/montes/nascetur/ridiculus.png",
+        "shippingPrice": {
+          "min": 1847,
+          "máx": 37308
+        },
+        "createdAt": "2020-08-04T18:37:17Z",
+        "lastModifiedAt": "2020-02-12T23:28:26Z"
+      },
+      {
+        "price": 6994144,
+        "competitorsName": "Katz",
+        "competitorsUrl": "http://thetimes.co.uk/quisque/arcu/libero/rutrum/ac/lobortis.jpg",
+        "shippingPrice": {
+          "min": 713,
+          "máx": 30656
+        },
+        "createdAt": "2020-07-09T06:10:53Z",
+        "lastModifiedAt": "2020-04-22T23:06:24Z"
+      }
+    ]
+  },
+  {
+    "sku": 7361917,
+    "name": "Pannier",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/7361917?wid=100&hei=100",
+    "price": 1509662,
+    "createdAt": "2019-11-12T17:17:45Z",
+    "lastModifiedAt": "2020-03-22T19:57:31Z",
+    "marketPrices": [
+      {
+        "price": 8857234,
+        "competitorsName": "Feedspan",
+        "competitorsUrl": "https://alexa.com/ultrices/posuere/cubilia/curae/donec/pharetra/magna.xml",
+        "shippingPrice": {
+          "min": 692,
+          "máx": 37731
+        },
+        "createdAt": "2019-09-28T14:47:15Z",
+        "lastModifiedAt": "2019-12-27T07:37:30Z"
+      },
+      {
+        "price": 1769848,
+        "competitorsName": "Topicblab",
+        "competitorsUrl": "https://oaic.gov.au/aenean/lectus/pellentesque/eget/nunc/donec.js",
+        "shippingPrice": {
+          "min": 773,
+          "máx": 15570
+        },
+        "createdAt": "2020-03-28T04:05:33Z",
+        "lastModifiedAt": "2020-08-28T07:37:48Z"
+      }
+    ]
+  },
+  {
+    "sku": 6289791,
+    "name": "Y-find",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/6289791?wid=100&hei=100",
+    "price": 1487904,
+    "createdAt": "2020-08-17T00:38:54Z",
+    "lastModifiedAt": "2020-09-22T16:11:48Z",
+    "marketPrices": [
+      {
+        "price": 8058839,
+        "competitorsName": "Mudo",
+        "competitorsUrl": "http://360.cn/luctus/et.jpg",
+        "shippingPrice": {
+          "min": 1922,
+          "máx": 25124
+        },
+        "createdAt": "2020-01-11T23:32:56Z",
+        "lastModifiedAt": "2020-08-16T09:43:51Z"
+      },
+      {
+        "price": 5729177,
+        "competitorsName": "Skilith",
+        "competitorsUrl": "http://seesaa.net/vestibulum/quam.json",
+        "shippingPrice": {
+          "min": 1637,
+          "máx": 35365
+        },
+        "createdAt": "2019-10-20T12:52:55Z",
+        "lastModifiedAt": "2020-05-01T08:21:46Z"
+      }
+    ]
+  },
+  {
+    "sku": 8151919,
+    "name": "Zathin",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/8151919?wid=100&hei=100",
+    "price": 85987,
+    "createdAt": "2019-10-20T03:56:19Z",
+    "lastModifiedAt": "2020-09-13T06:57:43Z",
+    "marketPrices": [
+      {
+        "price": 671199,
+        "competitorsName": "Brainlounge",
+        "competitorsUrl": "https://washingtonpost.com/tellus/nulla/ut.xml",
+        "shippingPrice": {
+          "min": 801,
+          "máx": 21782
+        },
+        "createdAt": "2020-08-23T23:12:41Z",
+        "lastModifiedAt": "2019-10-26T22:34:02Z"
+      },
+      {
+        "price": 2065763,
+        "competitorsName": "Browsetype",
+        "competitorsUrl": "https://mail.ru/velit/nec/nisi/vulputate.png",
+        "shippingPrice": {
+          "min": 936,
+          "máx": 37744
+        },
+        "createdAt": "2020-01-22T03:42:26Z",
+        "lastModifiedAt": "2020-03-10T05:55:54Z"
+      }
+    ]
+  },
+  {
+    "sku": 6805422,
+    "name": "Vagram",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/6805422?wid=100&hei=100",
+    "price": 1893211,
+    "createdAt": "2019-10-20T19:12:17Z",
+    "lastModifiedAt": "2020-05-14T22:41:36Z",
+    "marketPrices": [
+      {
+        "price": 330967,
+        "competitorsName": "Twitterworks",
+        "competitorsUrl": "https://rakuten.co.jp/aenean/fermentum/donec.xml",
+        "shippingPrice": {
+          "min": 1870,
+          "máx": 10709
+        },
+        "createdAt": "2020-06-18T09:35:45Z",
+        "lastModifiedAt": "2020-08-30T04:50:49Z"
+      },
+      {
+        "price": 1813603,
+        "competitorsName": "Ntags",
+        "competitorsUrl": "https://miitbeian.gov.cn/ac/est/lacinia/nisi/venenatis.xml",
+        "shippingPrice": {
+          "min": 688,
+          "máx": 6958
+        },
+        "createdAt": "2020-05-10T12:35:22Z",
+        "lastModifiedAt": "2019-11-28T17:38:48Z"
+      }
+    ]
+  },
+  {
+    "sku": 6893950,
+    "name": "Sub-Ex",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/6893950?wid=100&hei=100",
+    "price": 1241733,
+    "createdAt": "2020-07-25T14:02:44Z",
+    "lastModifiedAt": "2020-02-17T18:09:23Z",
+    "marketPrices": [
+      {
+        "price": 4836578,
+        "competitorsName": "Teklist",
+        "competitorsUrl": "https://tuttocitta.it/vestibulum/ante/ipsum/primis/in/faucibus.jsp",
+        "shippingPrice": {
+          "min": 1159,
+          "máx": 26221
+        },
+        "createdAt": "2020-03-11T23:24:44Z",
+        "lastModifiedAt": "2020-04-28T17:46:34Z"
+      },
+      {
+        "price": 7097147,
+        "competitorsName": "Dynava",
+        "competitorsUrl": "https://google.nl/sem/duis/aliquam.xml",
+        "shippingPrice": {
+          "min": 1847,
+          "máx": 25969
+        },
+        "createdAt": "2020-02-03T22:30:38Z",
+        "lastModifiedAt": "2019-11-03T21:47:07Z"
+      }
+    ]
+  },
+  {
+    "sku": 6599982,
+    "name": "Konklux",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/6599982?wid=100&hei=100",
+    "price": 7030508,
+    "createdAt": "2020-01-03T04:27:26Z",
+    "lastModifiedAt": "2020-06-22T07:09:35Z",
+    "marketPrices": [
+      {
+        "price": 7267168,
+        "competitorsName": "Quire",
+        "competitorsUrl": "http://w3.org/lectus/pellentesque/at.html",
+        "shippingPrice": {
+          "min": 842,
+          "máx": 13948
+        },
+        "createdAt": "2020-01-16T02:05:42Z",
+        "lastModifiedAt": "2019-10-14T01:02:50Z"
+      },
+      {
+        "price": 6699151,
+        "competitorsName": "Gabtype",
+        "competitorsUrl": "https://state.gov/eget/vulputate.js",
+        "shippingPrice": {
+          "min": 1375,
+          "máx": 39234
+        },
+        "createdAt": "2020-08-25T00:50:15Z",
+        "lastModifiedAt": "2020-04-16T06:32:25Z"
+      }
+    ]
+  },
+  {
+    "sku": 6901227,
+    "name": "Treeflex",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/6901227?wid=100&hei=100",
+    "price": 2654846,
+    "createdAt": "2020-01-08T12:41:16Z",
+    "lastModifiedAt": "2020-09-18T00:49:35Z",
+    "marketPrices": [
+      {
+        "price": 3732411,
+        "competitorsName": "Meezzy",
+        "competitorsUrl": "https://deliciousdays.com/nibh/in.js",
+        "shippingPrice": {
+          "min": 641,
+          "máx": 10868
+        },
+        "createdAt": "2019-10-30T04:41:32Z",
+        "lastModifiedAt": "2020-08-13T20:11:10Z"
+      },
+      {
+        "price": 3462249,
+        "competitorsName": "Eare",
+        "competitorsUrl": "http://house.gov/non/pretium/quis/lectus.jpg",
+        "shippingPrice": {
+          "min": 1347,
+          "máx": 11902
+        },
+        "createdAt": "2020-09-22T12:32:54Z",
+        "lastModifiedAt": "2020-06-29T08:43:40Z"
+      }
+    ]
+  },
+  {
+    "sku": 6621179,
+    "name": "Span",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/6621179?wid=100&hei=100",
+    "price": 8212907,
+    "createdAt": "2020-03-28T19:29:08Z",
+    "lastModifiedAt": "2020-02-20T22:58:23Z",
+    "marketPrices": [
+      {
+        "price": 4931131,
+        "competitorsName": "Jabbertype",
+        "competitorsUrl": "https://mysql.com/sapien.json",
+        "shippingPrice": {
+          "min": 535,
+          "máx": 35309
+        },
+        "createdAt": "2020-04-25T10:10:37Z",
+        "lastModifiedAt": "2019-11-07T03:22:25Z"
+      },
+      {
+        "price": 6786675,
+        "competitorsName": "Mycat",
+        "competitorsUrl": "http://berkeley.edu/vel/augue/vestibulum/rutrum/rutrum/neque/aenean.xml",
+        "shippingPrice": {
+          "min": 1570,
+          "máx": 26019
+        },
+        "createdAt": "2019-10-20T06:27:16Z",
+        "lastModifiedAt": "2020-07-01T18:27:32Z"
+      }
+    ]
+  },
+  {
+    "sku": 8254236,
+    "name": "Zoolab",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/8254236?wid=100&hei=100",
+    "price": 8565250,
+    "createdAt": "2019-11-30T11:24:55Z",
+    "lastModifiedAt": "2020-07-25T18:04:06Z",
+    "marketPrices": [
+      {
+        "price": 6557665,
+        "competitorsName": "Tagtune",
+        "competitorsUrl": "http://etsy.com/fusce/consequat/nulla/nisl.html",
+        "shippingPrice": {
+          "min": 532,
+          "máx": 21979
+        },
+        "createdAt": "2020-07-17T21:11:09Z",
+        "lastModifiedAt": "2020-02-04T15:03:22Z"
+      },
+      {
+        "price": 3215483,
+        "competitorsName": "Camido",
+        "competitorsUrl": "https://yellowbook.com/vivamus/in/felis/eu/sapien.jsp",
+        "shippingPrice": {
+          "min": 1402,
+          "máx": 18060
+        },
+        "createdAt": "2020-04-10T01:39:40Z",
+        "lastModifiedAt": "2020-07-06T21:51:02Z"
+      }
+    ]
+  },
+  {
+    "sku": 6912475,
+    "name": "Aerified",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/6912475?wid=100&hei=100",
+    "price": 8781434,
+    "createdAt": "2020-07-10T04:38:35Z",
+    "lastModifiedAt": "2019-12-30T21:06:49Z",
+    "marketPrices": [
+      {
+        "price": 6213320,
+        "competitorsName": "Quimba",
+        "competitorsUrl": "http://imdb.com/mauris/lacinia/sapien/quis/libero/nullam.xml",
+        "shippingPrice": {
+          "min": 1902,
+          "máx": 29727
+        },
+        "createdAt": "2019-12-13T05:57:47Z",
+        "lastModifiedAt": "2020-06-11T16:47:28Z"
+      },
+      {
+        "price": 2088067,
+        "competitorsName": "Youspan",
+        "competitorsUrl": "http://examiner.com/pede/posuere.jpg",
+        "shippingPrice": {
+          "min": 1074,
+          "máx": 29439
+        },
+        "createdAt": "2020-03-23T02:47:13Z",
+        "lastModifiedAt": "2020-01-30T11:00:20Z"
+      }
+    ]
+  },
+  {
+    "sku": 7320395,
+    "name": "Cookley",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/7320395?wid=100&hei=100",
+    "price": 701412,
+    "createdAt": "2019-12-23T06:39:36Z",
+    "lastModifiedAt": "2019-12-10T09:31:21Z",
+    "marketPrices": [
+      {
+        "price": 1430941,
+        "competitorsName": "Shufflester",
+        "competitorsUrl": "http://ucoz.com/et/ultrices.jsp",
+        "shippingPrice": {
+          "min": 1916,
+          "máx": 38538
+        },
+        "createdAt": "2019-10-16T19:44:21Z",
+        "lastModifiedAt": "2020-08-16T02:22:49Z"
+      },
+      {
+        "price": 4510994,
+        "competitorsName": "Skilith",
+        "competitorsUrl": "https://ifeng.com/sed/vel/enim/sit.html",
+        "shippingPrice": {
+          "min": 1418,
+          "máx": 39241
+        },
+        "createdAt": "2019-11-07T08:20:29Z",
+        "lastModifiedAt": "2020-07-05T05:11:01Z"
+      }
+    ]
+  },
+  {
+    "sku": 7646591,
+    "name": "Tin",
+    "thumbnail": "https://falabella.scene7.com/is/image/Falabella/7646591?wid=100&hei=100",
+    "price": 6541678,
+    "createdAt": "2019-12-12T00:58:10Z",
+    "lastModifiedAt": "2019-11-15T06:03:15Z",
+    "marketPrices": [
+      {
+        "price": 5248657,
+        "competitorsName": "Podcat",
+        "competitorsUrl": "https://liveinternet.ru/laoreet/ut/rhoncus/aliquet.js",
+        "shippingPrice": {
+          "min": 1610,
+          "máx": 10408
+        },
+        "createdAt": "2020-05-25T05:40:22Z",
+        "lastModifiedAt": "2020-01-25T01:11:04Z"
+      },
+      {
+        "price": 5216741,
+        "competitorsName": "Npath",
+        "competitorsUrl": "http://rediff.com/nulla/ut.png",
+        "shippingPrice": {
+          "min": 1601,
+          "máx": 12593
+        },
+        "createdAt": "2019-12-12T07:27:48Z",
+        "lastModifiedAt": "2020-06-11T04:32:25Z"
+      }
+    ]
+  }
+]

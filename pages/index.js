@@ -1,8 +1,15 @@
+import { useState, useEffect } from 'react'
 import Head from 'next/head'
 import { List, Segment } from 'semantic-ui-react'
 import styles from '../styles/Home.module.css'
+import productsList from '../public/get-products.json'
 
 export default function Home() {
+  const [products, setProducts] = useState([]);
+
+  useEffect(() => {
+    setProducts(productsList)
+  }, []);
 
   return (
     <div className={styles.container}>
@@ -21,8 +28,16 @@ export default function Home() {
           <code className={styles.code}>pages/index.js</code>
         </p>
 
-        <Segment inverted>
+        <Segment inverted style={{width:'100%'}}>
           <List divided inverted relaxed>
+            {products.map((product) => (
+              <List.Item>
+                <List.Content>
+                  <List.Header>{product.name}</List.Header>
+                  ${product.price}
+                </List.Content>
+              </List.Item>
+            ))}
             <List.Item>
               <List.Content>
                 <List.Header>Snickerdoodle</List.Header>

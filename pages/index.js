@@ -1,10 +1,13 @@
 import { useState, useEffect } from 'react'
+import { useRouter } from 'next/router'
 import Head from 'next/head'
-import { List, Segment } from 'semantic-ui-react'
+
+import { List, Segment, Image, Button, Input } from 'semantic-ui-react'
 import styles from '../styles/Home.module.css'
 import productsList from '../public/get-products.json'
 
 export default function Home() {
+  const router = useRouter()
   const [products, setProducts] = useState([]);
 
   useEffect(() => {
@@ -20,7 +23,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Price Buddy</a>
+          Bienvenido a <a href="https://nextjs.org">Price Buddy</a>
         </h1>
 
         <p className={styles.description}>
@@ -28,13 +31,22 @@ export default function Home() {
           <code className={styles.code}>pages/index.js</code>
         </p>
 
+        <Input size='huge' icon='search' placeholder='Search...' />
+
         <Segment inverted style={{width:'100%'}}>
-          <List divided inverted relaxed>
+          <List divided inverted relaxed size='huge'>
             {products.map((product) => (
               <List.Item>
+                <Image avatar src='https://react.semantic-ui.com/images/avatar/small/christian.jpg' />
                 <List.Content>
-                  <List.Header>{product.name}</List.Header>
-                  ${product.price}
+                  <List.Header>{product.name} ${product.price}</List.Header>
+                  SKU: {product.sku}
+                </List.Content>
+                <List.Content
+                  floated='right'
+                  onClick={() => router.push(`/product/${product.sku}`)}
+                >
+                  <Button>Editar</Button>
                 </List.Content>
               </List.Item>
             ))}

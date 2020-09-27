@@ -2,13 +2,20 @@ import { useState, useEffect } from 'react'
 import { useRouter } from 'next/router'
 import Head from 'next/head'
 
-import { List, Segment, Image, Button, Input } from 'semantic-ui-react'
+import { List, Segment, Image, Button, Input, Table, Header } from 'semantic-ui-react'
 import styles from '../styles/Home.module.css'
 import productsList from '../public/get-products.json'
 
 export default function Home() {
   const router = useRouter()
   const [products, setProducts] = useState([]);
+  const [search, setSearch] = useState('')
+
+  const currencyFormatter = new Intl.NumberFormat('en-US', {
+    style: 'currency',
+    currency: 'USD',
+    minimumFractionDigits: 0
+  });
 
   useEffect(() => {
     setProducts(productsList)
@@ -23,15 +30,47 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Bienvenido a <a href="https://nextjs.org">Price Buddy</a>
+          Hi. I'm <a href="#">Price Buddy</a>
         </h1>
 
         <p className={styles.description}>
-          Get started by editing{' '}
-          <code className={styles.code}>pages/index.js</code>
+          I can help u profit based on {' '}
+          <code className={styles.code}>your competition</code>
         </p>
 
         <Input size='huge' icon='search' placeholder='Search...' />
+
+        <Table basic='very' celled>
+          <Table.Header>
+            <Table.Row>
+              <Table.HeaderCell></Table.HeaderCell>
+              <Table.HeaderCell>SKU</Table.HeaderCell>
+              <Table.HeaderCell>Sugerencia</Table.HeaderCell>
+              <Table.HeaderCell>Ripley</Table.HeaderCell>
+              <Table.HeaderCell>Paris</Table.HeaderCell>
+            </Table.Row>
+          </Table.Header>
+
+          <Table.Body>
+            {products.map((product) => (
+              <Table.Row>
+                <Table.Cell onClick={() => router.push(`/product/${product.sku}`)}>
+                  <Header as='h4' image>
+                    <Image src='https://react.semantic-ui.com/images/avatar/small/lena.png' rounded size='mini' />
+                    <Header.Content>
+                      {product.name}
+                      <Header.Subheader>{currencyFormatter.format(product.price)}</Header.Subheader>
+                    </Header.Content>
+                  </Header>
+                </Table.Cell>
+                <Table.Cell>#{product.sku}</Table.Cell>
+                <Table.Cell>22</Table.Cell>
+                <Table.Cell>{currencyFormatter.format(product.price)}</Table.Cell>
+                <Table.Cell>{currencyFormatter.format(product.price)}</Table.Cell>
+              </Table.Row>
+            ))}
+          </Table.Body>
+        </Table>
 
         <Segment inverted style={{width:'100%'}}>
           <List divided inverted relaxed size='huge'>

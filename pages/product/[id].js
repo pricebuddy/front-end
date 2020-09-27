@@ -30,17 +30,17 @@ const RecommendationIcon = ({ recommendationType }) => {
   return null;
 };
 
-const GridExampleColumnWidth = () => {
+export async function getServerSideProps(context) {
+  const { data } = await axios.get(`http://localhost:3001/tenant/CFFD9A07-59CD-4DB2-98C8-BD312AB643EF/products/${context.query.id}`);
+  return {
+    props: { data }, // will be passed to the page component as props
+  }
+}
+
+const GridExampleColumnWidth = ({ data }) => {
   const router = useRouter();
-  const [product, setProduct] = useState(null);
+  const [product, setProduct] = useState(data);
   const [productSku, setProductSku] = useState();
-  useEffect(() => {
-    async function fetchProd() {
-      const prod = await axios.get(`http://localhost:3001/tenant/CFFD9A07-59CD-4DB2-98C8-BD312AB643EF/products/8332819`);
-      setProduct(prod.data);
-    }
-    fetchProd();
-  }, [product]);
 
   return (
     <div style={{padding:30}}>
@@ -85,10 +85,9 @@ const GridExampleColumnWidth = () => {
                 )
               })}
             </List>
-            <Image src='https://react.semantic-ui.com/images/wireframe/paragraph.png' />
 
             <h3>Historico</h3>
-            <Image src='https://react.semantic-ui.com/images/wireframe/image.png' />
+            <Image src='https://docs.looker.com/assets/images/dashboard-reference-line-610.png' />
           </Grid.Column>
           <Grid.Column width={12}>
             <h2>Costo de entrega</h2>

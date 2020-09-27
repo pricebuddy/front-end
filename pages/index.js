@@ -9,7 +9,29 @@ import productsList from '../public/get-products.json'
 export default function Home() {
   const router = useRouter()
   const [products, setProducts] = useState([]);
-  const [search, setSearch] = useState('')
+  const [searchResults, setSearchResults] = useState([])
+  const [searchTerm, setSearchTerm] = React.useState('');
+
+  const getSuggestion = (price, competitorPrice) => {
+    const suggerence = price-competitorPrice>0;
+    switch (suggerence) {
+      case true:
+        return <span style={{color:'green'}}>▲ {currencyFormatter.format(price-competitorPrice)}</span>
+      default:
+        return <span style={{color:'red'}}>▼ {currencyFormatter.format(price-competitorPrice)}</span>
+    }
+  };
+
+  const handleChange = event => {
+    setSearchTerm(event.target.value);
+  };
+
+  useEffect(() => {
+    const results = products.filter(product =>
+      product.sku.toString().toLowerCase().includes(searchTerm)
+    );
+    setSearchResults(results);
+  }, [searchTerm]);
 
   const currencyFormatter = new Intl.NumberFormat('en-US', {
     style: 'currency',
@@ -18,6 +40,7 @@ export default function Home() {
   });
 
   useEffect(() => {
+    setSearchResults(productsList)
     setProducts(productsList)
   }, []);
 
@@ -38,7 +61,12 @@ export default function Home() {
           <code className={styles.code}>your competition</code>
         </p>
 
-        <Input size='huge' icon='search' placeholder='Search...' />
+        <Input
+          size='huge'
+          icon='search'
+          placeholder='Search...'
+          onChange={handleChange}
+        />
 
         <Table basic='very' celled>
           <Table.Header>
@@ -52,11 +80,11 @@ export default function Home() {
           </Table.Header>
 
           <Table.Body>
-            {products.map((product) => (
+            {searchResults.map((product) => (
               <Table.Row>
                 <Table.Cell onClick={() => router.push(`/product/${product.sku}`)}>
                   <Header as='h4' image>
-                    <Image src='https://react.semantic-ui.com/images/avatar/small/lena.png' rounded size='mini' />
+                    <Image src={product.thumbnail} rounded size='mini' />
                     <Header.Content>
                       {product.name}
                       <Header.Subheader>{currencyFormatter.format(product.price)}</Header.Subheader>
@@ -64,80 +92,13 @@ export default function Home() {
                   </Header>
                 </Table.Cell>
                 <Table.Cell>#{product.sku}</Table.Cell>
-                <Table.Cell>22</Table.Cell>
+                <Table.Cell>{getSuggestion(product.price, product.marketPrices[0].price)} </Table.Cell>
                 <Table.Cell>{currencyFormatter.format(product.price)}</Table.Cell>
                 <Table.Cell>{currencyFormatter.format(product.price)}</Table.Cell>
               </Table.Row>
             ))}
           </Table.Body>
         </Table>
-
-        <Segment inverted style={{width:'100%'}}>
-          <List divided inverted relaxed size='huge'>
-            {products.map((product) => (
-              <List.Item>
-                <Image avatar src='https://react.semantic-ui.com/images/avatar/small/christian.jpg' />
-                <List.Content>
-                  <List.Header>{product.name} ${product.price}</List.Header>
-                  SKU: {product.sku}
-                </List.Content>
-                <List.Content
-                  floated='right'
-                  onClick={() => router.push(`/product/${product.sku}`)}
-                >
-                  <Button>Editar</Button>
-                </List.Content>
-              </List.Item>
-            ))}
-            <List.Item>
-              <List.Content>
-                <List.Header>Snickerdoodle</List.Header>
-                An excellent companion
-              </List.Content>
-            </List.Item>
-            <List.Item>
-              <List.Content>
-                <List.Header>Poodle</List.Header>A poodle, its pretty basic
-              </List.Content>
-            </List.Item>
-            <List.Item>
-              <List.Content>
-                <List.Header>Paulo</List.Header>
-                He's also a dog
-              </List.Content>
-            </List.Item>
-          </List>
-        </Segment>
-
-        <div className={styles.grid}>
-          <a href="https://nextjs.org/docs" className={styles.card}>
-            <h3>Documentation &rarr;</h3>
-            <p>Find in-depth information about Next.js features and API.</p>
-          </a>
-
-          <a href="https://nextjs.org/learn" className={styles.card}>
-            <h3>Learn &rarr;</h3>
-            <p>Learn about Next.js in an interactive course with quizzes!</p>
-          </a>
-
-          <a
-            href="https://github.com/vercel/next.js/tree/master/examples"
-            className={styles.card}
-          >
-            <h3>Examples &rarr;</h3>
-            <p>Discover and deploy boilerplate example Next.js projects.</p>
-          </a>
-
-          <a
-            href="https://vercel.com/import?filter=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-            className={styles.card}
-          >
-            <h3>Deploy &rarr;</h3>
-            <p>
-              Instantly deploy your Next.js site to a public URL with Vercel.
-            </p>
-          </a>
-        </div>
       </main>
 
       <footer className={styles.footer}>
@@ -147,7 +108,7 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           Powered by{' '}
-          <img src="/vercel.svg" alt="Vercel Logo" className={styles.logo} />
+          SHA-WRM@
         </a>
       </footer>
     </div>

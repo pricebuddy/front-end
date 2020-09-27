@@ -1,10 +1,15 @@
 import { useState, useEffect } from 'react'
 import { useRouter } from 'next/router'
 import Head from 'next/head'
-
-import { List, Segment, Image, Button, Input, Table, Header } from 'semantic-ui-react'
+import axios from "axios";
+import { Image, Input, Table, Header } from 'semantic-ui-react'
 import styles from '../styles/Home.module.css'
-import productsList from '../public/get-products.json'
+
+const currencyFormatter = new Intl.NumberFormat('en-US', {
+  style: 'currency',
+  currency: 'USD',
+  minimumFractionDigits: 0
+})
 
 export default function Home() {
   const router = useRouter()
@@ -33,15 +38,15 @@ export default function Home() {
     setSearchResults(results);
   }, [searchTerm]);
 
-  const currencyFormatter = new Intl.NumberFormat('en-US', {
-    style: 'currency',
-    currency: 'USD',
-    minimumFractionDigits: 0
-  });
-
   useEffect(() => {
-    setSearchResults(productsList)
-    setProducts(productsList)
+    async function fetchData(){
+      const result = await axios(
+        '/get-products.json',
+      );
+      setSearchResults(result.data);
+      setProducts(result.data);
+    }
+    fetchData();
   }, []);
 
   return (
@@ -64,7 +69,7 @@ export default function Home() {
         <Input
           size='huge'
           icon='search'
-          placeholder='Search...'
+          placeholder='Search by SKU...'
           onChange={handleChange}
         />
 
@@ -93,8 +98,8 @@ export default function Home() {
                 </Table.Cell>
                 <Table.Cell>#{product.sku}</Table.Cell>
                 <Table.Cell>{getSuggestion(product.price, product.marketPrices[0].price)} </Table.Cell>
-                <Table.Cell>{currencyFormatter.format(product.price)}</Table.Cell>
-                <Table.Cell>{currencyFormatter.format(product.price)}</Table.Cell>
+                <Table.Cell>{currencyFormatter.format(product.marketPrices[0].price)}</Table.Cell>
+                <Table.Cell>{currencyFormatter.format(product.marketPrices[1].price)}</Table.Cell>
               </Table.Row>
             ))}
           </Table.Body>

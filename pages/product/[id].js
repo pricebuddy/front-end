@@ -43,18 +43,21 @@ const GridExampleColumnWidth = ({ data }) => {
   const [productSku, setProductSku] = useState();
 
   return (
-    <div style={{padding:30}}>
+    <div>
       <Head>
         <title>Price Buddy</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
+      <div className={styles.navbar}>
+        <h1 onClick={() => router.push("/")}>PriceBuddy</h1>
+      </div>
       {product && (
-        <Grid>
+        <Grid container textAlign={"center"}>
           <Grid.Column width={7}>
-            <h1 className={styles.title}>
+            <h4 className={styles.title}>
               {product.name}
-            </h1>
-            <p>Precio actual: {`$ ${new Intl.NumberFormat('es-CL').format(product.price)}`}</p>
+            </h4>
+            <h1>Precio actual: {`$ ${new Intl.NumberFormat('es-CL').format(product.price)}`}</h1>
             <Image src={`https://falabella.scene7.com/is/image/Falabella/${product.sku}`} />
             <h3>Sugerencias</h3>
             <List divided verticalAlign='middle'>
@@ -74,15 +77,18 @@ const GridExampleColumnWidth = ({ data }) => {
             <h3>Otros Retails</h3>
             <List divided verticalAlign='middle'>
               {product.competitorPrices && product.competitorPrices.map(competitorPrice => {
-                return (
-                  <List.Item>
-                    <List.Content floated='right'>
-                      <a href={competitorPrice.competitorsUrl} target="_blank" rel="noreferrer noopener"><Button>Ver</Button></a>
-                    </List.Content>
-                    <Image avatar src={getCompetitorLogo(competitorPrice.competitorsName)} />
-                    <List.Content>{`${competitorPrice.competitorsName} - $ ${new Intl.NumberFormat('es-CL').format(competitorPrice.price)}`}</List.Content>
-                  </List.Item>
-                )
+                if (competitorPrice.competitorsName) {
+                  const compName = competitorPrice.competitorsName ? competitorPrice.competitorsName : "";
+                  return (
+                    <List.Item>
+                      <List.Content floated='right'>
+                        <a href={competitorPrice.competitorsUrl} target="_blank" rel="noreferrer noopener"><Button>Ver</Button></a>
+                      </List.Content>
+                      <Image avatar src={getCompetitorLogo(compName)} />
+                      <List.Content>{`${compName} - $ ${new Intl.NumberFormat('es-CL').format(competitorPrice.price)}`}</List.Content>
+                    </List.Item>
+                  )
+                }
               })}
             </List>
 
@@ -122,6 +128,16 @@ const GridExampleColumnWidth = ({ data }) => {
           </Grid.Column>
         </Grid>
       )}
+      <footer className={styles.footer}>
+        <a
+          href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Powered by{' '}
+          SHA-WRM@
+        </a>
+      </footer>
     </div>
   )
 }
